@@ -1,4 +1,10 @@
 # Roman Urdu Dataset
+
+[![License](https://img.shields.io/github/license/Smat26/Roman-Urdu-Dataset.svg)](https://github.com/Smat26/Roman-Urdu-Dataset/blob/master/LICENSE)
+![repo-size](https://img.shields.io/github/repo-size/Smat26/Roman-Urdu-Dataset.svg)
+
+
+
 >This is an extensive compilation of Roman Urdu Dataset (Urdu written in Latin/Roman Script), along with other helpful Roman Urdu NLP resources.
 
 ## Motivation
