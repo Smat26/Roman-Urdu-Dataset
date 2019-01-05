@@ -1,0 +1,2125 @@
+a+:﻿a +:NN
+abound:bharay:NN
+abounds:zayad-ti:NNS
+abundance:kasrat:NN
+abundant:پرچر:NN
+accessable:accessable:JJ
+accessible:rasai:JJ
+acclaim:kharaaj tehseen:NN
+acclaimed:surahi:VBN
+acclamation:acclamation:NN
+accolade:ایکولاڈ:NN
+accolades:mnasb:NNS
+accommodative:accommodative hai:JJ
+accomodative:accomodative:JJ
+accomplish:poora:NN
+accomplished:mukammal:VBN
+accomplishment:kamyabi:NN
+accomplishments:kamyabion:NNS
+accurate:durust:NN
+accurately:durust tareeqay se:RB
+achievable:husool:JJ
+achievement:kamyabi:NN
+achievements:kamyabion:NNS
+achievible:achievible:JJ
+acumen:کوشل:NNS
+adaptable:ملائمی:JJ
+adaptive:انکولی:JJ
+adequate:kaafi:NN
+adjustable:سایڈست:JJ
+admirable:qabil sataish:JJ
+admirably:admirably se:RB
+admiration:tareef:NN
+admire:tareef:NN
+admirer:madah:NN
+admiring:nehar:VBG
+admiringly:admiringly:RB
+adorable:pyara:JJ
+adore:pasand:NN
+adored:bohat pyar karti thi:VBN
+adorer:purastaar:NN
+adoring:adoring ki:VBG
+adoringly:adoringly:RB
+adroit:qabil:NNS
+adroitly:adroitly:RB
+adulate:adulate:NN
+adulation:chaploosi:NN
+adulatory:mein adulatory:NN
+advanced:Alla darjay ki:JJ
+advantage:faida:NN
+advantageous:faida mand:JJ
+advantageously:faida:RB
+advantages:fawaid:NNS
+adventuresome:adventuresome:NN
+adventurous:bahadur:JJ
+advocate:advocate:NN
+advocated:waqalat:VBN
+advocates:waqalat:NNS
+affability:affability:NN
+affable:milansaar:JJ
+affably:affably:RB
+affectation:affectation ke:NN
+affection:pyar:NN
+affectionate:pyar:NN
+affinity:talluq:NN
+affirm:tasdeeq:NN
+affirmation:asbat:NN
+affirmative:misbet:JJ
+affluence:سمردد:NN
+affluent:Ameer:NN
+afford:muthammil:NN
+affordable:susti:JJ
+affordably:aasaan narkhon par:RB
+afordable:afordable:JJ
+agile:فرتیلی:NN
+agilely:agilely:RB
+agility:چپلتا:NN
+agreeable:mutfiq:JJ
+agreeableness:agreeableness:NN
+agreeably:agreeably:RB
+all-around:charon taraf:NN
+alluring:kashish:VBG
+alluringly:alluringly:RB
+altruistic:پرپکاری:JJ
+altruistically:altruistically:RB
+amaze:heran:NN
+amazed:heran:VBN
+amazement:amazement ke:NN
+amazes:amazes hai:NNS
+amazing:herat angaiz:VBG
+amazingly:herat angaiz:RB
+ambitious:مہتواکانکشی:JJ
+ambitiously:ambitiously:RB
+ameliorate:mein behtari lana:NN
+amenable:tayyar:JJ
+amenity:khush aaind umoor ki:NN
+amiability:amiability:NN
+amiabily:amiabily:RB
+amiable:milansaar:JJ
+amicability:amicability:NN
+amicable:سوہاردپورن:JJ
+amicably:khush usloobi se:RB
+amity:hum ahangi:NN
+ample:kaafi:NN
+amply:achay tareeqay se:NN
+amuse:tafreeh:NN
+amusing:dil lagi:VBG
+amusingly:amusingly:RB
+angel:farishta:NN
+angelic:halaak:NN
+apotheosis:apotheosis:NN
+appeal:appeal:NN
+appealing:appeal:VBG
+applaud:tareef:NN
+appreciable:achi:JJ
+appreciate:ki tareef:NN
+appreciated:tareef:VBN
+appreciates:tareef:NNS
+appreciative:qadar daan:JJ
+appreciatively:appreciatively:RB
+appropriate:munasib:NN
+approval:manzoori:NN
+approve:Manzoor:VB
+ardent:پربل:NN
+ardently:arzoo:RB
+ardor:اتسکتا:NN
+articulate:wazeh:NN
+aspiration:tamanna:NN
+aspirations:khwahisaat:NNS
+aspire:khwahish:NN
+assurance:yaqeen dehani:NN
+assurances:yaqeen dehani:NNS
+assure:ko yaqeen dilaata hon:NN
+assuredly:yaqeenan:RB
+assuring:yaqeen dehani:VBG
+astonish:چکت karna:JJ
+astonished:heran:VBN
+astonishing:herat angaiz:VBG
+astonishingly:chonka:RB
+astonishment:herat:NN
+astound:چکت:NN
+astounded:mashooor:VBD
+astounding:heran kin:VBG
+astoundingly:astoundingly:RB
+astutely:ahthyat:RB
+attentive:tavajja:JJ
+attraction:kashish:NN
+attractive:kashish:JJ
+attractively:kashish:RB
+attune:ko attune:NN
+audible:sunai deti:JJ
+audibly:aawaz buland:RB
+auspicious:shubh:JJ
+authentic:mustand:JJ
+authoritative:mustand:JJ
+autonomous:khud mukhtaar:JJ
+available:dastyab:JJ
+aver:aver ki:NN
+avid:شوکین:NN
+avidly:bohat shoq:RB
+award:award:NN
+awarded:se nawaza:VBN
+awards:award:NNS
+awe:khauf:NN
+awed:awed mil:NNS
+awesome:bohat acha hai:NN
+awesomely:awesomely:RB
+awesomeness:musarrat:NN
+awestruck:awestruck:NN
+awsome:par awsome:NN
+backbone:reerh ki haddi:NN
+balanced:mutawazan:VBN
+bargain:soda:NN
+beauteous:beauteous:JJ
+beautiful:khobsorat:NN
+beautifullly:beautifullly:RB
+beautifully:khoubsurti:RB
+beautify:khobsorat:NN
+beauty:khoubsurti:NN
+beckon:isharay se bulana:NN
+beckoned:ishara:VBN
+beckoning:ishara:NN
+beckons:lubha raha hai:NNS
+believable:qabil aetmaad:JJ
+believeable:believeable:JJ
+beloved:mehboob:VBN
+benefactor:mohsin:NN
+beneficent:Rehman:NN
+beneficial:faida mand:JJ
+beneficially:ifadiyat:RB
+beneficiary:faida uthany walon mein:NN
+benefit:faida:NN
+benefits:fawaid:NNS
+benevolence:ehsanaat:NN
+benevolent:adar:NN
+benifits:benifits ki:NNS
+best:behtareen:JJS
+best-known:sab se Maroof:JJ
+best-performing:behtareen karkardagi dikhaane walay:NN
+best-selling:behtareen farokht honay wala:NN
+better:behtar:RBR
+better-known:behtar naam se jana jata:JJ
+better-than-expected:behtar tawaqqa se ziyada:JJ
+beutifully:beutifully:RB
+blameless:masoom:NN
+bless:barket:NN
+blessing:Nemat:NN
+bliss:bliss:NN
+blissful:raahat:NN
+blissfully:blissfully:RB
+blithe:blithe:NN
+blockbuster:bock buster:NN
+bloom:blom:NN
+blossom:khilna:NN
+bolster:hosla afzai:NN
+bonny:se bonny:NN
+bonus:bonus:NN
+bonuses:bonus:NNS
+boom:boom:NN
+booming:urooj par:VBG
+boost:farogh:NN
+boundless:اسیم:NN
+bountiful:kareem:NN
+brainiest:brainiest:NN
+brainy:smart:NN
+brand-new:bilkul naya:NN
+brave:bahadur:NN
+bravery:bahaduri:NN
+bravo:bravoo:NN
+breakthrough:paish Raft:NN
+breakthroughs:kamiyabiyan:NNS
+breathlessness:saans:NN
+breathtaking:ke breathtaking:NN
+breathtakingly:breathtakingly:RB
+breeze:howa ka jhaunka:NN
+bright:roshan:NN
+brighten:roshan:NN
+brighter:roshan:NN
+brightest:مائباشالی:NN
+brilliance:pratibha:NN
+brilliances:brilliances:NNS
+brilliant:shandaar:NN
+brilliantly:shandaar:RB
+brisk:taiz:NN
+brotherly:baradarana:RB
+bullish:taizi:JJ
+buoyant:ki buoyant:NN
+cajole:chaploosi:NN
+calm:pursukoon:NN
+calming:pursukoon:VBG
+calmness:sukoon:NN
+capability:salahiyat:NN
+capable:qabil:JJ
+capably:capably:RB
+captivate:moh lena:NN
+captivating:dilfaraib:VBG
+carefree:la parwah:NN
+cashback:qabil wapsi raqam:NN
+cashbacks:cashbacks:NNS
+catchy:kashish:NN
+celebrate:jashan mananay:NN
+celebrated:mashhoor:VBN
+celebration:jashan:NN
+celebratory:jashan:NN
+champ:faateh:NN
+champion:champion:NN
+charisma:karishma:NN
+charismatic:کرشمائی:JJ
+charitable:Khairati:JJ
+charm:tavajja:NN
+charming:dilkash:VBG
+charmingly:ke charmingly:RB
+chaste:pak daman:NN
+cheaper:susti:NN
+cheapest:sab se sasta:NN
+cheer:hosla afzai:NN
+cheerful:Khushgawar:NN
+cheery:wall:NN
+cherish:pasandi ko farogh dete:NN
+cherished:chali:NNS
+cherub:krobi:NN
+chic:فیشنے bil:JJ
+chivalrous:سسمی:JJ
+chivalry:janbazi:NN
+civility:tahazeeb:NN
+civilize:mohazab:NN
+clarity:wazahat:NN
+classic:classic:JJ
+classy:behtareen:NN
+clean:saaf:NN
+cleaner:cleaner:NN
+cleanest:saaf:NN
+cleanliness:safai:NN
+cleanly:سفائیپسند:RB
+clear:wazeh:JJ
+clear-cut:wazeh:NN
+cleared:saaf:VBN
+clearer:wazeh:NN
+clearly:wazeh tor par:RB
+clears:saaf karta hai:NNS
+clever:hooshiyar:NN
+cleverly:chalaki se:RB
+cohere:mutabiq hona:RB
+coherence:rabt:NN
+coherent:marboot:NN
+cohesive:hum aahang:NN
+colorful:rangeen:NN
+comely:comely aahista:RB
+comfort:sukoon:NN
+comfortable:aaraam da aur pursukoon:JJ
+comfortably:aaraam se:RB
+comforting:itminan:VBG
+comfy:aaraam:NN
+commend:tareef:NN
+commendable:qabil sataish:JJ
+commendably:commendably:RB
+commitment:azm:NN
+commodious:commodious:JJ
+compact:کمپیکٹ:NN
+compactly:میںاس:RB
+compassion:hamdardi:NN
+compassionate:shafqat:NN
+compatible:hum aahang:JJ
+competitive:msabqti:JJ
+complement:izafi:NN
+complementary:takmeeli:NN
+complemented:saraha:VBN
+complements:mukammal:NNS
+compliant:mutabiq:NN
+compliment:tareef:NN
+complimentary:مانارت:NN
+comprehensive:wasee:NN
+conciliate:moahida:NN
+conciliatory:hal:NN
+concise:jame:NN
+confidence:aetmaad:NN
+confident:aetmaad:NN
+congenial:mozoon:NN
+congratulate:mubarak baad deta hon:NN
+congratulation:mubarak:NN
+congratulations:mubarak ho:NNS
+congratulatory:mubarakbaad:NN
+conscientious:ئماندار:JJ
+considerate:ویچارشیل:NN
+consistent:musalsal:NN
+consistently:musalsal:RB
+constructive:tameeri:NN
+consummate:mukammal:NN
+contentment:Qanaat:NN
+continuity:tasalsul:NN
+contrasty:contrasty:NN
+contribution:shiraakat:NN
+convenience:sahoolat:NN
+convenient:aasaan:NN
+conveniently:aasani:RB
+convience:karne convience:NN
+convienient:convienient:NN
+convient:convient hai:NN
+convincing:is baat par qaail:NN
+convincingly:qaail:RB
+cool:thanda:NN
+coolest:behtareen:NN
+cooperative:taawun:NN
+cooperatively:taawun:RB
+cornerstone:konay ke suray ka:NN
+correct:sahih:NN
+correctly:durust tareeqay se:RB
+cost-effective:muasar laagat:JJ
+cost-saving:laagat ki bachat:NN
+counter-attack:jawabi hamla:NN
+counter-attacks:insidaad hamlon:NNS
+courage:himmat:NN
+courageous:bahadur:JJ
+courageously:jurrat:RB
+courageousness:jurrat:NN
+courteous:shaista:JJ
+courtly:courtly:RB
+covenant:ehad:NN
+cozy:aaraam da:NN
+creative:takhleeqi:JJ
+credence:aitbaar:NN
+credible:qabil aetmaad:JJ
+crisp:kirkira:NN
+crisper:se crisper:NN
+cure:ilaaj:NN
+cure-all:ilaaj sab:NN
+cushy:cushy mein:NN
+cute:khobsorat:NN
+cuteness:cuteness ka:NN
+danke:danke ki:NN
+danken:danken:NN
+daring:himmat:VBG
+daringly:daringly:RB
+darling:Aziz:VBG
+dashing:bahadur:VBG
+dauntless:جراتمند:NN
+dawn:dawn:NN
+dazzle:chkachond:NN
+dazzled:Khaira:VBN
+dazzling:shandaar:VBG
+dead-cheap:murda sastay:JJ
+dead-on:murda par:NN
+decency:sharafat:NN
+decent:mohazab:NN
+decisive:faisla:NN
+decisiveness:faisla:NN
+dedicated:sarshar:VBN
+defeat:shikast:NN
+defeated:shikast:VBN
+defeating:ko shikast:VBG
+defeats:shikast:NNS
+defender:Muhafiz:NN
+deference:ehtram:NN
+deft:qabil:NN
+deginified:deginified:VBN
+delectable:سہاونا:JJ
+delicacy:vinamrta:NN
+delicate:naazuk:NN
+delicious:mazedar:JJ
+delight:nematon:NN
+delighted:khushi:JJ
+delightful:lazzat:NN
+delightfully:hai delightfully:RB
+delightfulness:delightfulness:NN
+dependable:qabil aetmaad:JJ
+dependably:dependably:RB
+deservedly:se deservedly:RB
+deserving:mustahiq:VBG
+desirable:zurori:JJ
+desiring:khwahish:VBG
+desirous:khwahish mand:JJ
+destiny:qismat:NN
+detachable:hatnay:JJ
+devout:mut-taqi:NN
+dexterous:qabil:JJ
+dexterously:dexterously ke:RB
+dextrous:hunar:JJ
+dignified:bawaqar:VBN
+dignify:satkar:NN
+dignity:Waqar:NN
+diligence:abeam:NN
+diligent:میہنتی:NN
+diligently:tnd_hi:RB
+diplomatic:safarti:JJ
+dirt-cheap:gandagi sastay:JJ
+distinction:imtiaz:NN
+distinctive:makhsoos:NN
+distinguished:mumtaz:VBN
+diversified:mtnoa:JJ
+divine:ellahi:NN
+divinely:aasmani:RB
+dominate:ghalba:NN
+dominated:ghalba:VBN
+dominates:ghalba:NNS
+dote:dote:NN
+dotingly:dotingly:RB
+doubtless:zaroor:NN
+dreamland:sapnon ki duniya:NN
+dumbfounded:khamosh:VBN
+dumbfounding:dumbfounding:VBG
+dummy-proof:dummy proof:NN
+durable:paidaar:JJ
+dynamic:mutharrak:JJ
+eager:shoqeen:NN
+eagerly:betabi:RB
+eagerness:اتسکتا:NN
+earnest:banaya:NN
+earnestly:skoyr:RB
+earnestness:skoyr:NN
+ease:kam:NN
+eased:narmi:VBN
+eases:aasaan:NNS
+easier:aasaan:JJR
+easiest:sab se aasaan:JJS
+easiness:easiness ke:NN
+easing:narmi:VBG
+easy:aasaan:JJ
+easy-to-use:istemaal mein aasaan:NN
+easygoing:asani se:VBG
+ebullience:uffan:NN
+ebullient:josheelaa:NN
+ebulliently:ebulliently:RB
+ecenomical:ecenomical:JJ
+economical:iqtisadi:JJ
+ecstasies:se ecstasies:NNS
+ecstasy:ایکسٹیسی:NN
+ecstatic:khush:JJ
+ecstatically:ecstatically:RB
+edify:taraqqi ka baais:VB
+educated:taleem:VBN
+effective:muasar:JJ
+effectively:muasar tareeqay se:RB
+effectiveness:taseer:NN
+effectual:muasar:JJ
+efficacious:پرباووتپادک:JJ
+efficient:mo-asar:NN
+efficiently:muasar tareeqay se:RB
+effortless:aasaan:NN
+effortlessly:sahoolat:RB
+effusion:bahao:NN
+effusive:effusive:JJ
+effusively:josh:RB
+effusiveness:effusiveness:NN
+elan:Allan:NN
+elate:گروئت:NN
+elated:hosla afzai:VBN
+elatedly:elatedly:RB
+elation:elation ke:NN
+electrify:bijli:VB
+elegance:khoubsurti:NN
+elegant:khobsorat:NN
+elegantly:سروچپورن:RB
+elevate:buland:NN
+elite:ishrafia:NN
+eloquence:balaghat:NN
+eloquent:Fasih:NN
+eloquently:fasahat:RB
+embolden:sheh:NN
+eminence:rehbar Muazzam inqilab islami:NN
+eminent:mumtaz:NN
+empathize:سہاخبھوتی:VB
+empathy:hamdardi:NN
+empower:ko baikhtiar bananay:NN
+empowerment:empowerment:NN
+enchant:rujhana:NN
+enchanted:jaadoo:VBN
+enchanting:پرفتن:VBG
+enchantingly:enchantingly:RB
+encourage:hosla afzai:NN
+encouragement:hosla afzai:NN
+encouraging:hosla afzaa:VBG
+encouragingly:hosla afzai:RB
+endear:endear:NN
+endearing:iltifaat:VBG
+endorse:ki toseeq:NN
+endorsed:toseeq:VBN
+endorsement:toseeq:NN
+endorses:ki toseeq:NNS
+endorsing:ki toseeq:VBG
+energetic:ؤرجاوان:JJ
+energize:taqwiyat:VB
+energy-efficient:mo-asar tawanai:NN
+energy-saving:tawanai ki bachat:NN
+engaging:kashish:VBG
+engrossing:dil lagi:VBG
+enhance:izafah:NN
+enhanced:behtar:VBN
+enhancement:izafah:NN
+enhances:izafah:NNS
+enjoy:se lutaf andoz:NN
+enjoyable:آننددایک:JJ
+enjoyably:enjoyably:RB
+enjoyed:ka lutaf uthaya:VBN
+enjoying:se lutaf andoz:VBG
+enjoyment:lutaf andozi:NN
+enjoys:haasil:NNS
+enlighten:roshan:VB
+enlightenment:roshan khayaali:NN
+enliven:jaan daal:RB
+ennoble:azeem المرتبت:JJ
+enough:kaafi:RB
+enrapt:enrapt:NN
+enrapture:enrapture:NN
+enraptured:enraptured:VBN
+enrich:ghanni:NN
+enrichment:afzodgi:NN
+enterprising:ادیمی:VBG
+entertain:tafreeh:NN
+entertaining:dil lagi:VBG
+entertains:tafreeh:NNS
+enthral:ghulam banana:JJ
+enthrall:ghulam banana:NN
+enthralled:magan:VBN
+enthuse:josh:NN
+enthusiasm:josh o kharosh:NN
+enthusiast:sargaram:NN
+enthusiastic:hosla afzai:JJ
+enthusiastically:garam joshi:RB
+entice:amaada:NN
+enticed:farifta:VBN
+enticing:libaas:VBG
+enticingly:enticingly:RB
+entranced:se entranced:VBN
+entrancing:entrancing ki:VBG
+entrust:supurd:NN
+enviable:qabil rashk:JJ
+enviably:enviably:RB
+envious:rashk:JJ
+enviously:enviously:RB
+enviousness:enviousness:NN
+envy:hasad:NN
+equitable:munsifana:JJ
+ergonomical:ergonomical:JJ
+err-free:ghalti se pak:JJ
+erudite:pandit:NN
+ethical:ikhlaqi:JJ
+eulogize:ستتی karna:VB
+euphoria:hosla afzai:NN
+euphoric:mehsoor kun:NN
+euphorically:euphorically:RB
+evaluative:jhanchne:JJ
+evenly:yaksaa tor par:RB
+eventful:waqeat se bharpoor:NN
+everlasting:hamesha:VBG
+evocative:ویچاروتیجک:JJ
+exalt:tasbeeh:NN
+exaltation:exaltation ke:NN
+exalted:buland:VBN
+exaltedly:exaltedly:RB
+exalting:وتہلیل:VBG
+exaltingly:exaltingly:RB
+examplar:examplar:NN
+examplary:examplary:JJ
+excallent:excallent:NN
+exceed:hadd se tajawaz:NN
+exceeded:se tajawaz kar gayi:VBD
+exceeding:tajawaz:VBG
+exceedingly:nihayat:RB
+exceeds:se tajawaz:NNS
+excel:excel:NN
+exceled:exceled:VBN
+excelent:excelent ka:NN
+excellant:excellant:NN
+excelled:shandaar karkardagi:VBN
+excellence:اتکرجتا:NN
+excellency:ayksi linsi:NN
+excellent:behtareen:NN
+excellently:shandaar:RB
+excels:Faiq:NNS
+exceptional:ghair mamooli:JJ
+exceptionally:ghair mamooli:RB
+excite:اتیجیت:NN
+excited:bohat pur josh:VBN
+excitedly:hosla afzai:RB
+excitedness:excitedness:NN
+excitement:josh o kharosh:NN
+excites:اتیجیت:NNS
+exciting:dilchasp:VBG
+excitingly:excitingly:RB
+exellent:shandaar:NN
+exemplar:namona:NN
+exemplary:misali:JJ
+exhilarate:exhilarate:NN
+exhilarating:behtar:VBG
+exhilaratingly:exhilaratingly:RB
+exhilaration:Parah:NN
+exonerate:haq bahaal:NN
+expansive:wasee:JJ
+expeditiously:taizi se:RB
+expertly:mahaarat:RB
+exquisite:shandaar:NN
+exquisitely:exquisitely design:RB
+extol:barayi:NN
+extoll:extoll:NN
+extraordinarily:ghair mamooli:RB
+extraordinary:ghair mamooli:JJ
+exuberance:پرچرتا:NN
+exuberant:pur josh:NN
+exuberantly:exuberantly:RB
+exult:baagh baagh:NN
+exultant:itranay:NN
+exultation:khushi ke ehsas:NN
+exultingly:exultingly:RB
+eye-catch:aankhh ko pakarney:NN
+eye-catching:aankhh ko pakarney:NN
+eyecatch:eyecatch:NN
+eyecatching:eyecatching:VBG
+fabulous:shandaar:JJ
+fabulously:bohat hi:RB
+facilitate:sahoolat:NN
+fair:munsifana:NN
+fairly:kaafi:RB
+fairness:janibdari:NN
+faith:imaan:NN
+faithful:wafadar:NN
+faithfully:haqeeqat:RB
+faithfulness:wafadaari:NN
+fame:shohrat:NN
+famed:mashhoor:VBN
+famous:mashhoor:JJ
+famously:mashhoor:RB
+fancier:achay:NN
+fancinating:fancinating:VBG
+fancy:pasand:NN
+fanfare:دوبام:NN
+fans:purastaar:NNS
+fantastic:tasaworati, behtareen:JJ
+fantastically:shandaar andaaz:RB
+fascinate:moht:NN
+fascinating:dilchasp:VBG
+fascinatingly:fascinatingly:RB
+fascination:tavajja:NN
+fashionable:fashion:JJ
+fashionably:fashionably kapray:RB
+fast:taizi:NN
+fast-growing:taizi se barhti hui:NN
+fast-paced:taiz raftaar:JJ
+faster:taizi:NN
+fastest:sab se taizi se:JJS
+fastest-growing:sab se taiz raftaar se barhti hui:NN
+faultless:be nuqs:NN
+fav:pasandeeda:NN
+fave:ki fave:NN
+favor:ki himayat:NN
+favorable:sazgaar:JJ
+favored:ikhtiyar:VBN
+favorite:pasandeeda:NN
+favorited:pasand:VBN
+favour:ki himayat:NN
+fearless:nidar:NN
+fearlessly:nidar:RB
+feasible:mumkin:JJ
+feasibly:feasibly:RB
+feat:karname:NN
+feature-rich:ko numaya karen Ameer:JJ
+fecilitous:fecilitous:JJ
+feisty:feisty:NN
+felicitate:satkar:NN
+felicitous:felicitous:JJ
+felicity:kamyabi:NN
+fertile:zarkhaiz:NN
+fervent:shoqeen:NN
+fervently:chuko:RB
+fervid:ویگر:NN
+fervidly:fervidly:RB
+fervor:josh:NN
+festive:tehwar:JJ
+fidelity:mukhlis:NN
+fiery:aag:NN
+fine:theek:NN
+fine-looking:theek lag:NN
+finely:patli:RB
+finer:finer ki:NN
+finest:behtareen:JJS
+firmer:mazboot:NN
+first-class:pehla darja:NN
+first-in-class:pehlay mein class:NN
+first-rate:pehlay ki sharah:NN
+flashy:chamak daar:NN
+flatter:chaploosi:NN
+flattering:chaploosi:VBG
+flatteringly:flatteringly:RB
+flawless:be aib:NN
+flawlessly:be aib:RB
+flexibility:lachak:NN
+flexible:lachak dar:JJ
+flourish:panpanay:JJ
+flourishing:phal phool:VBG
+fluent:ravani:NN
+flutter:lehrana:NN
+fond:shoq:NN
+fondly:pyar:RB
+fondness:لگاو:NN
+foolproof:faul proof:NN
+foremost:pehlay:NN
+foresight:دوردرشتا:NN
+formidable:mazboot:JJ
+fortitude:tahhaamul:NN
+fortuitous:اپرتیاشت:JJ
+fortuitously:achanak:RB
+fortunate:khush qismat:NN
+fortunately:khush qismati se:RB
+fortune:khush qismati:NN
+fragrant:khushbodar:NN
+free:muft:JJ
+freed:azad:NN
+freedom:azaadi:NN
+freedoms:azaadi:NNS
+fresh:taaza:JJ
+fresher:aik fresher:NN
+freshest:taaza:NN
+friendliness:dostana:NN
+friendly:dostana:RB
+frolic:khalandra:NN
+frugal:دوستوییی:NN
+fruitful:nateeja khaiz:NN
+ftw:ftw:NN
+fulfillment:takmeel:NN
+fun:maza:NN
+futurestic:futurestic:JJ
+futuristic:mustaqbil:JJ
+gaiety:اللاس:NN
+gaily:gaily:RB
+gain:faida:NN
+gained:haasil:VBN
+gainful:ارجک:NN
+gainfully:gainfully:RB
+gaining:haasil:VBG
+gains:fawaid:NNS
+gallant:bahadur:NN
+gallantly:bahaduri:RB
+galore:werzish:NN
+geekier:geekier:NN
+geeky:ne geeky:NN
+gem:money:NN
+gems:jawahraat:NNS
+generosity:sakhavat:NN
+generous:adar:JJ
+generously:dil khol kar:RB
+genial:milansaar:NN
+genius:گنوتی:NN
+gentle:naram:NN
+gentlest:naram tareen:NN
+genuine:haqeeqi:NN
+gifted:tohfay:VBN
+glad:khushi:NN
+gladden:khush karna:NN
+gladly:khushi:RB
+gladness:Haresh:NN
+glamorous:glamorous:JJ
+glee:lutaf:NN
+gleeful:mein gleeful:NN
+gleefully:khushi:RB
+glimmer:kiran:NN
+glimmering:glimmering:VBG
+glisten:chamakna:NNS
+glistening:ke glistening:VBG
+glitter:chamak:NN
+glitz:glitz ke:NN
+glorify:tasbeeh:NN
+glorious:shandaar:JJ
+gloriously:shandaar:RB
+glory:jalal:NN
+glow:chamak:NN
+glowing:chamak:VBG
+glowingly:ke glowingly:RB
+god-given:khudadad:JJ
+god-send:khuda bhejen:NN
+godlike:godlike:NN
+godsend:Nemat ghair mtrqb_h:NN
+gold:sonay:NN
+golden:golden:JJ
+good:acha:JJ
+goodly:umdah:RB
+goodness:neki:NN
+goodwill:kher sgali:NN
+goood:goood:NN
+gooood:gooood:NN
+gorgeous:khobsorat:JJ
+gorgeously:shandaar:RB
+grace:fazl:NN
+graceful:mukaram:NN
+gracefully:usay gracefully:RB
+gracious:ahsaan:JJ
+graciously:krpa:RB
+graciousness:krpa:NN
+grand:grand:JJ
+grandeur:بویتا:NN
+grateful:shukar:NN
+gratefully:aabar:RB
+gratification:تبتوشن:NN
+gratified:masroor:VBN
+gratifies:gratifies:NNS
+gratify:taskeen:NN
+gratifying:itminan:VBG
+gratifyingly:gratifyingly:RB
+gratitude:tshkr:NN
+great:azeem:JJ
+greatest:sab se bara:JJS
+greatness:Azmat:NN
+grin:muskurahat:NN
+groundbreaking:awleen:VBG
+guarantee:is baat ki zamanat:NN
+guidance:rahnumai:NN
+guiltless:bignah:NN
+gumption:aqal Saleem:NN
+gush:oh:NN
+gusto:josh:NN
+gutsy:ke gutsy:NN
+hail:talluq:NN
+halcyon:halcyon ka:NN
+hale:hil:NN
+hallmark:shanakht:NN
+hallmarks:turah imtiaz:NNS
+hallowed:muqaddas:VBN
+handier:handier:NN
+handily:handily ka:RB
+hands-down:haath neechay karna:JJ
+handsome:khobsorat:NN
+handsomely:acha:RB
+handy:aasaan:NN
+happier:khushi:NN
+happily:khushi:RB
+happiness:khushi:NN
+happy:mubarak:JJ
+hard-working:mehnati:NN
+hardier:hardier:NN
+hardy:hardi:NN
+harmless:koi nuqsaan nahi pohanchati:NN
+harmonious:hum ahangi:JJ
+harmoniously:meethi:RB
+harmonize:hum aahang:NN
+harmony:hum ahangi:NN
+headway:paish Raft:NN
+heal:Shifa:NN
+healthful:sahet:NN
+healthy:sahet:JJ
+hearten:hearten:NN
+heartening:hosla Afza:VBG
+heartfelt:dil ki gehraion se:NN
+heartily:dil:RB
+heartwarming:heartwarming:VBG
+heaven:aasman:NN
+heavenly:aasmani:RB
+helped:madad:VBD
+helpful:madadgaar:NN
+helping:madad:VBG
+hero:hero:NN
+heroic:bahadur:NN
+heroically:bahaduri:RB
+heroine:نایکا:NN
+heroize:heroize:NN
+heros:hero:NNS
+high-quality:Alla miyaar:NN
+high-spirited:Alla josheelaa:JJ
+hilarious:mazahiy:JJ
+holy:muqaddas:NN
+homage:شردقانجل:NN
+honest:imandaar:NN
+honesty:imandari:NN
+honor:ghairat ke naam par:NN
+honorable:Muaziz:JJ
+honored:qader:VBN
+honoring:ehtram:VBG
+hooray:harey:NN
+hopeful:umeed:NN
+hospitable:mehman:JJ
+hot:garam, shehwat angaiz:JJ
+hotcake:hotcake:NN
+hotcakes:garam cake:NNS
+hottest:sab se ziyada garam:NN
+hug:gilaay:NN
+humane:insani:NN
+humble:shaista:JJ
+humility:aajzi:NN
+humor:mazahiy:NN
+humorous:ونودی:JJ
+humorously:humorously:RB
+humour:mazahiy:NN
+humourous:humourous:JJ
+ideal:misali:NN
+idealize:idealize:VB
+ideally:misali tor par:RB
+idol:buut:NN
+idolize:pujari:VB
+idolized:se idolized:VBN
+idyllic:ke idyllic:NN
+illuminate:roshan:NN
+illuminati:illuminati ki:NN
+illuminating:roshan:VBG
+illumine:roshan:NN
+illustrious:naamwar:JJ
+ilu:ilu:NN
+imaculate:imaculate:NN
+imaginative:کلپناشیل:JJ
+immaculate:apkee:NN
+immaculately:immaculately ke:RB
+immense:bohat ziyada:NN
+impartial:ghair janabdaar:JJ
+impartiality:ghair janibdari:NN
+impartially:ghair janbdaranh:RB
+impassioned:josh:VBN
+impeccable:masoom:JJ
+impeccably:ko impeccably:RB
+important:ahem:JJ
+impress:mutasir:NN
+impressed:mutasir:JJ
+impresses:mutasir:NNS
+impressive:mutasir kin:JJ
+impressively:mo-asar:RB
+impressiveness:impressiveness:NN
+improve:ko behtar bananay ke:VB
+improved:behtar:VBN
+improvement:behtari:NN
+improvements:behtari:NNS
+improves:behtar:NNS
+improving:ko behtar bananay ke:VBG
+incredible:na qabil yaqeen:JJ
+incredibly:na qabil yaqeen hadd taq:RB
+indebted:shukar guzar:JJ
+individualized:infiradi:VBN
+indulgence:askati:NN
+indulgent:کرپالو:NN
+industrious:میہنتی:JJ
+inestimable:مجرمیئ:JJ
+inestimably:inestimably:RB
+inexpensive:sasta:JJ
+infallibility:asmat:NN
+infallible:masoom:JJ
+infallibly:asmat:RB
+influential:ba asar:JJ
+ingenious:hooshiyar:JJ
+ingeniously:chalaki:RB
+ingenuity:aasani:NN
+ingenuous:mein ingenuous:JJ
+ingenuously:ingenuously:RB
+innocuous:masoom:JJ
+innovation:jiddat:NN
+innovative:jadeed:JJ
+inpressed:inpressed:VBN
+insightful:baseerat shoaar:NN
+insightfully:insightfully:RB
+inspiration:پریرتا:NN
+inspirational:mutasir kin:JJ
+inspire:hosla afzai:NN
+inspiring:mutasir kin:VBG
+instantly:fori tor par:RB
+instructive:شکنپرد:JJ
+instrumental:ahem kirdaar:JJ
+integral:atot:JJ
+integrated:zam:VBN
+intelligence:intelli jins:NN
+intelligent:zaheen:NN
+intelligible:feham:JJ
+interesting:dilchasp:VBG
+interests:mafadaat:NNS
+intimacy:انترنگتا:NN
+intimate:mubashrat:NN
+intricate:paicheeda:NN
+intrigue:saazish:NN
+intriguing:dilchasp:VBG
+intriguingly:dilchasp:RB
+intuitive:Badehi:JJ
+invaluable:anmol:JJ
+invaluablely:invaluablely:RB
+inventive:akhtraay:JJ
+invigorate:mazboot:NN
+invigorating:qowat:VBG
+invincibility:مجرجیئتا:NN
+invincible:اجیئ:JJ
+inviolable:na qabil faskh:JJ
+inviolate:inviolate:NN
+invulnerable:ابھیدی:JJ
+irreplaceable:ke irreplaceable:JJ
+irreproachable:irreproachable:JJ
+irresistible:ghalib:JJ
+irresistibly:na qabil مذحمت:RB
+issue-free:masla free:JJ
+jaw-droping:jabray droping:NN
+jaw-dropping:jabray -گر:NN
+jollify:jollify:NN
+jolly:bohat:RB
+jovial:chanchal:NN
+joy:khushi:NN
+joyful:آنندپورن:NN
+joyfully:khushi:RB
+joyous:khushi:JJ
+joyously:khushi:RB
+jubilant:khush:NN
+jubilantly:jubilantly mein:RB
+jubilate:se jubilate:NN
+jubilation:khushi:NN
+jubiliant:jubiliant:NN
+judicious:munsifana:JJ
+justly:insaaf:RB
+keen:gehri:NN
+keenly:barabari:RB
+keenness:اتسکتا:NN
+kid-friendly:bachay dostana:RB
+kindliness:kindliness:NN
+kindly:husn muashrat aur acha:RB
+kindness:ahsaan:NN
+knowledgeable:ilm:JJ
+kudos:واہواہی:NN
+large-capacity:barray salahiyat:NN
+laud:tareef:NN
+laudable:پرشنسنیی:JJ
+laudably:laudably:RB
+lavish:shahana:JJ
+lavishly:aaraam:RB
+law-abiding:qanoon ko maan-ne:NN
+lawful:halal:JJ
+lawfully:qanooni tor par:RB
+lead:qayadat:NN
+leading:qayadat:VBG
+leads:lidz:NNS
+lean:dubli patli:NN
+led:ail. e. d:VBN
+legendary:afsanwi:JJ
+leverage:beyana:NN
+levity:se levity:NN
+liberate:azad karanay:NN
+liberation:azaadi:NN
+liberty:liberty:NN
+lifesaver:lifesaver ki:NN
+light-hearted:roshni dil:JJ
+lighter:lighter:NN
+likable:par likable:JJ
+like:ki terhan:IN
+liked:pasand:VBN
+likes:pasand:NNS
+liking:pasand:VBG
+lionhearted:lionhearted:VBN
+lively:جیونت:RB
+logical:mantaqi:JJ
+long-lasting:dairpa:NN
+lovable:pyara:JJ
+lovably:lovably:RB
+love:mohabbat:NN
+loved:mohabbat:VBN
+loveliness:pyare pan:NN
+lovely:khobsorat:RB
+lover:premi:NN
+loves:se mohabbat karta hai:NNS
+loving:mohabbat:VBG
+low-cost:kam qeemat:NN
+low-price:kam qeemat:NN
+low-priced:kam qeemat:JJ
+low-risk:kam khatray:NN
+lower-priced:kam qeemat:JJ
+loyal:wafadar:NN
+loyalty:wafadaari:NN
+lucid:feham:NN
+lucidly:lucidly:RB
+luck:qismat:NN
+luckier:khush:NN
+luckiest:khush qismat tareen:JJS
+luckiness:luckiness:NN
+lucky:khush qismat:JJ
+lucrative:munafe bakhash:JJ
+luminous:bright:JJ
+lush:sirsabz:NN
+luster:aalok:NN
+lustrous:dilkash:JJ
+luxuriant:ghany:NN
+luxuriate:aish:NN
+luxurious:prtaysh:JJ
+luxuriously:aish:RB
+luxury:aish o aaraam ki:NN
+lyrical:گیتاتمک:JJ
+magic:jaadoo:NN
+magical:jaadoo:JJ
+magnanimous:adar:JJ
+magnanimously:magnanimously:RB
+magnificence:بویتا:NN
+magnificent:shandaar:NN
+magnificently:shandaar:RB
+majestic:shikwah:JJ
+majesty:Azmat:NN
+manageable:intizam:JJ
+maneuverable:mein maneuverable:JJ
+marvel:chamathkar:NN
+marveled:taajjub:VBN
+marvelled:taajjub:VBN
+marvellous:shandaar:JJ
+marvelous:shandaar:JJ
+marvelously:shandaar andaaz:RB
+marvelousness:marvelousness:NN
+marvels:ajaebaat:NNS
+master:master:NN
+masterful:ke masterful:NN
+masterfully:mahirana andaaz:RB
+masterpiece:shahkaar:NN
+masterpieces:کرتیوں:NNS
+masters:aaqaon:NNS
+mastery:mahaarat:NN
+matchless:lajawab:NN
+mature:baaligh:NN
+maturely:maturely:RB
+maturity:pukhtagi:NN
+meaningful:bamani:NN
+memorable:yadgar:JJ
+merciful:reham karne wala:NN
+mercifully:meharbani:RB
+mercy:rehmat:NN
+merit:merritt:NN
+meritorious:میداوی:JJ
+merrily:khushi:RB
+merriment:lutaf:NN
+merriness:merriness:NN
+merry:meri:NN
+mesmerize:mesmerize ki:NN
+mesmerized:se mesmerized:VBN
+mesmerizes:mesmerizes:NNS
+mesmerizing:mesmerizing hai:VBG
+mesmerizingly:mesmerizingly:RB
+meticulous:paicheeda:JJ
+meticulously:ahthyat:RB
+mightily:zor se:RB
+mighty:ghalib:NN
+mind-blowing:dimagh urane:NN
+miracle:moujza:NN
+miracles:Muajzaat:NNS
+miraculous:چمتکاری:JJ
+miraculously:mojizana tor par:RB
+miraculousness:miraculousness:NN
+modern:jadeed:JJ
+modest:mamooli:JJ
+modesty:نمرتا:NN
+momentous:ahem:JJ
+monumental:yadgar:NN
+monumentally:monumentally:RB
+morality:ikhlaqiaat:NN
+motivated:hosla afzai:VBN
+multi-purpose:kaseer maqsadi:JJ
+navigable:navٴ:JJ
+neat:saaf:NN
+neatest:ke liye neatest:JJS
+neatly:safai:RB
+nice:acha:JJ
+nicely:achi terhan:RB
+nicer:achay:NN
+nicest:sab se acha:JJS
+nifty:nifty:NN
+nimble:فرتیلا:JJ
+noble:azeem:JJ
+nobly:nobly:RB
+noiseless:ghair aloodgi noiseless:NN
+non-violence:Adam tashadud:NN
+non-violent:Adam tashadud:JJ
+notably:ahem:RB
+noteworthy:qabil zikar:JJ
+nourish:parwarish:JJ
+nourishing:parwarish:VBG
+nourishment:ghiza:NN
+novelty:نیاپن:NN
+nurturing:Mushfiq:VBG
+oasis:nakhlistan:NN
+obsession:junoon:NN
+obsessions:obsessions ke:NNS
+obtainable:vasuli:JJ
+openly:khil kar:RB
+openness:kushadgi:NN
+optimal:ziyada se ziyada:JJ
+optimism:rjayit:NN
+optimistic:umeed:JJ
+opulent:بوی:NN
+orderly:urdali:RB
+originality:مولکتا:NN
+outdo:ziyada hona:NN
+outdone:se outdone:NN
+outperform:out prfarm:NN
+outperformed:behtar karkardagi ka muzahira:VBN
+outperforming:mug:VBG
+outperforms:outperforms hai:NNS
+outshine:outshine ka:NN
+outshone:pukarnay ka faisla:NN
+outsmart:ko outsmart:NN
+outstanding:baqaya:JJ
+outstandingly:zabardast:RB
+outstrip:Sabqat le:NN
+outwit:ko outwit:NN
+ovation:istaqbaal:NN
+overjoyed:nihayat shadaman:NNS
+overtake:aa:NN
+overtaken:ghalib:NN
+overtakes:اورخالص:NNS
+overtaking:baala dasti haasil ho:VBG
+overtook:pakar liya:NN
+overture:وورچر:NN
+pain-free:dard muft:JJ
+painless:پیڑارہت:NN
+painlessly:ba aasani:RB
+palatial:shandaar:JJ
+pamper:mutmaen:NN
+pampered:laad:VBN
+pamperedly:pamperedly:RB
+pamperedness:pamperedness:NN
+pampers:pamper:NNS
+panoramic:panoramic nuqta:NN
+paradise:jannat:NN
+paramount:paramount:NN
+pardon:maffi:NN
+passion:jazba:NN
+passionate:pur josh:NN
+passionately:jazbati:RB
+patience:sabr:NN
+patient:sabr:NN
+patiently:sabr:RB
+patriot:Muhib watan:NN
+patriotic:Muhib watan:JJ
+peace:aman:NN
+peaceable:aman:JJ
+peaceful:pramn:NN
+peacefully:pramn:RB
+peacekeepers:aman:NNS
+peach:aadu:NN
+peerless:اتلنیی:NN
+pep:پیئپی:NN
+pepped:pepped:NN
+pepping:pepping:VBG
+peppy:hai peppy:JJ
+peps:peps:NNS
+perfect:kaamil:NN
+perfection:kamaal:NN
+perfectly:bilkul:RB
+permissible:jaaiz:JJ
+perseverance:درڑھتا:NN
+persevere:sabr:RB
+personages:shaksiaat:NNS
+personalized:mshkhs:VBN
+phenomenal:ghair mamooli:NN
+phenomenally:zabardast:RB
+picturesque:سرمی:NN
+piety:taqwa:NN
+pinnacle:sarbarahi:NN
+playful:chanchal:NN
+playfully:ke playfully:RB
+pleasant:Khushgawar:NN
+pleasantly:Khushgawar:RB
+pleased:raazi:JJ
+pleases:raazi:NNS
+pleasing:منباون:VBG
+pleasingly:pleasingly:RB
+pleasurable:آننددایک:JJ
+pleasurably:pleasurably:RB
+pleasure:khushi:NN
+plentiful:bharpoor:NN
+pluses:ke pluses:NNS
+plush:آلیشان:NN
+plusses:plusses:NNS
+poetic:shayarana:JJ
+poeticize:poeticize:NN
+poignant:مارمک:NN
+poise:tawazun:NN
+poised:tayyar:VBN
+polished:polish:NNS
+polite:shaista:NN
+politeness:adab:NN
+popular:maqbool:JJ
+portable:portibl:JJ
+posh:paash:NN
+positive:misbet:JJ
+positively:misbet:RB
+positives:misbet:NNS
+powerful:taaqatwar:JJ
+powerfully:taaqatwar:RB
+praise:tareef:NN
+praiseworthy:tareef:NN
+praising:hamd:VBG
+pre-eminent:pari naamwar:NN
+precious:qeemti:JJ
+precise:ain mutabiq:NN
+precisely:khaas tor par:RB
+preeminent:numaya:NN
+prefer:ko tarjeeh dete hain:NN
+preferable:afizal:JJ
+preferably:ترجیحا:RB
+prefered:prefered ki:VBN
+preferes:preferes:NNS
+preferring:tarjeeh:VBG
+prefers:tarjeeh:NNS
+premier:permier:NN
+prestige:Waqar:NN
+prestigious:مائشٹھیت:JJ
+prettily:prettily:RB
+pretty:khobsorat:RB
+priceless:anmol:NN
+pride:fakhr:NN
+principled:usooli:VBN
+privilege:istehqaq:NN
+privileged:mara-aat Yafta tabqay ke:NN
+prize:inaam:NN
+proactive:fa-aal:NN
+problem-free:masla free:JJ
+problem-solver:masla solver ko:NN
+prodigious:prodigious ki:JJ
+prodigiously:prodigiously:RB
+prodigy:gani:NN
+productive:pedawari:JJ
+productively:productively mein:RB
+proficient:parveen:NN
+proficiently:proficiently:RB
+profound:gehra:NN
+profoundly:گنبھیرتاپوروک:RB
+profuse:پرچر:NN
+profusion:پرچرتا:NN
+progress:taraqqi:NN
+progressive:taraqqi:NN
+prolific:anthak:NN
+prominence:shohrat:NN
+prominent:mumtaz:NN
+promise:wada:NN
+promised:wada:VBN
+promises:wadon:NNS
+promising:wada:NN
+promoter:promotr:NN
+prompt:fori tor par:NN
+promptly:fori tor par:RB
+proper:munasib:NN
+properly:munasib tareeqay se:RB
+propitious:mozoon:JJ
+propitiously:propitiously:RB
+pros:pesha:NNS
+prosper:Falah:NN
+prosperity:khushhali:NN
+prosperous:khushaal:JJ
+prospros:prospros:NNS
+protect:hifazat:NN
+protection:tahaffuz:NN
+protective:hifazati:NN
+proud:fakhr:NN
+proven:saabit:NN
+proves:saabit hota hai:NNS
+providence:پروویڈنس:NN
+proving:saabit:VBG
+prowess:کوشل:NN
+prudence:voyk:NN
+prudent:mohtaat:NN
+prudently:بددمانی:RB
+punctual:paband:JJ
+pure:khalis:NN
+purify:pak:NN
+purposeful:ba maqsad:NN
+quaint:ولکشن:NN
+qualified:ahal:VBN
+qualify:ahal:VB
+quicker:taiz:NN
+quiet:pursukoon:JJ
+quieter:shore:NN
+radiance:chamak:NN
+radiant:دیپتمان:NN
+rapid:taizi:JJ
+rapport:گھنشٹھتا:NN
+rapt:rapt ke:NN
+rapture:ہرنویش:NN
+raptureous:raptureous:JJ
+raptureously:raptureously:RB
+rapturous:rapturous:JJ
+rapturously:rapturously:RB
+rational:aqli:JJ
+razor-sharp:astra taiz:NN
+reachable:lag raha:JJ
+readable:parhnay ke qabil:JJ
+readily:aasani se:RB
+ready:tayyar:JJ
+reaffirm:ki toseeq:NN
+reaffirmation:reaffirmation ke:NN
+realistic:haqeeqat:JJ
+realizable:vasuli:JJ
+reasonable:munasib:JJ
+reasonably:maqool hadd taq:RB
+reasoned:mudlal:VBN
+reassurance:yaqeen dehani:NN
+reassure:yaqeen dehani:NN
+receptive:amaada:NN
+reclaim:dobarah haasil:NN
+recomend:sifarish:NN
+recommend:sifarish:NN
+recommendation:sifarish:NN
+recommendations:sifarshaat:NNS
+recommended:sifarish:VBN
+reconcile:musalihat:NN
+reconciliation:mafahmat:NN
+record-setting:record ki tarteeb:NN
+recover:vasuli:NN
+recovery:vasuli:NN
+rectification:tarmeem:NN
+rectify:ko behtar bananay:VB
+rectifying:durust:VBG
+redeem:chhurana:NN
+redeeming:chhuranay:VBG
+redemption:موچن:NN
+refine:behtar:NN
+refined:behtar:VBN
+refinement:adaigi:NN
+reform:islahat:NN
+reformed:islaah:VBN
+reforming:islaah:VBG
+reforms:islahat:NNS
+refresh:tar o tazah:NN
+refreshed:taaza dam:VBN
+refreshing:taazgee:VBG
+refund:raqam ki wapsi:NN
+refunded:wapas:VBN
+regal:rigl:NN
+regally:regally:RB
+regard:silsilay:NN
+rejoice:khush:NN
+rejoicing:magan:VBG
+rejoicingly:rejoicingly:RB
+rejuvenate:jawan:NN
+rejuvenated:ke rejuvenated:VBN
+rejuvenating:تروتاجا:VBG
+relaxed:par sukoon:NN
+relent:dabnay:NN
+reliable:qabil aetmaad:JJ
+reliably:mooatbar:RB
+relief:relief:NN
+relish:lutaf:NN
+remarkable:qabil zikar:JJ
+remarkably:qabil zikar:RB
+remedy:ilaaj:NN
+remission:maffi:NN
+remunerate:remunerate:NN
+renaissance:پنرجہرن:NN
+renewed:tajdeed:VBN
+renown:yash:NN
+renowned:Maroof:VBN
+replaceable:replaceable ke:JJ
+reputable:Maroof:JJ
+reputation:shohrat:NN
+resilient:lachak dar:NN
+resolute:yaqeen:NN
+resound:goonjna:NN
+resounding:bharpoor:VBG
+resourceful:wasail:NN
+resourcefulness:اورمجھ:NN
+respect:ehtram:NN
+respectable:ehtram:JJ
+respectful:ehtram:NN
+respectfully:ehtram:RB
+respite:mohlat:NN
+resplendent:دیدیپیمان:NN
+responsibly:zimma daari:RB
+responsive:zimma daar:NN
+restful:pursukoon:NN
+restored:bahaal:VBN
+restructure:tanzeem no:NN
+restructured:پنرگٹھن:VBN
+restructuring:tanzeem no:NN
+retractable:khilnay:JJ
+revel:lutaf andoz:NN
+revelation:wahi:NN
+revere:ehtram:RB
+reverence:tazeem:NN
+reverent:شردقالو:NN
+reverently:ehtram:RB
+revitalize:zindah:VB
+revival:bahaali:NN
+revive:bahaal:NN
+revives:zindah:NNS
+revolutionary:inqalabi:JJ
+revolutionize:inqilab:VB
+revolutionized:inqilab:VBN
+revolutionizes:revolutionizes hai:NNS
+reward:inaam:NN
+rewarding:faida mand:VBG
+rewardingly:rewardingly:RB
+rich:Ameer:JJ
+richer:Ameer:NN
+richly:barray pemanay par:RB
+richness:سمردد:NN
+right:haq:NN
+righten:righten:VB
+righteous:Sadiq:JJ
+righteously:naik:RB
+righteousness:راستبازی:NN
+rightful:munasib:NN
+rightfully:haq:RB
+rightly:baja tor par:RB
+rightness:rightness ki:NN
+risk-free:rissk free:JJ
+robust:mazboot:NN
+rock-star:raak star:NN
+rock-stars:raak sitaron:NNS
+rockstar:raak star:NN
+rockstars:rockstars:NNS
+romantic:romantic:JJ
+romantically:romanvi:RB
+romanticize:romanticize:VB
+roomier:roomier:NN
+roomy:peela howa:NN
+rosy:gulaabii:JJ
+safe:mehfooz:JJ
+safely:mehfooz tareeqay se:RB
+sagacity:tadbeer:NN
+sagely:sagely:RB
+saint:senate:NN
+saintliness:پویترتا:NN
+saintly:panni:RB
+salutary:ہتکر:JJ
+salute:salami:NN
+sane:samajh daar:NN
+satisfactorily:tasalii bakhash:RB
+satisfactory:tasalii bakhash:NN
+satisfied:mutmaen:JJ
+satisfies:mutmaen:NNS
+satisfy:mutmaen:NN
+satisfying:tasalii bakhash:VBG
+satisified:satisified nahi:VBN
+saver:severe:NN
+savings:bachat:NNS
+savior:ادقارکرتا:NN
+savvy:premi:NN
+scenic:khobsorat:NN
+seamless:hamwar:NN
+seasoned:tajurbah:VBN
+secure:mehfooz:NN
+securely:mehfooz tareeqay se:RB
+selective:muntakhib:NN
+self-determination:khud aradit:NN
+self-respect:izzat e nafs:JJ
+self-satisfaction:khud itminan:NN
+self-sufficiency:khud inhasari:NN
+self-sufficient:khud kafeel:NN
+sensation:ehsas:NN
+sensational:sansani khaiz:JJ
+sensationally:sensationally:RB
+sensations:ehsas:NNS
+sensible:samajh daar:JJ
+sensibly:samajhdaari se:RB
+sensitive:hassas:JJ
+serene:sukoon:NN
+serenity:istehkaam:NN
+sexy:shehwani, shehwat angaiz:NN
+sharp:taiz:JJ
+sharper:taiz:NN
+sharpest:ziyada:NN
+shimmering:chamakti hui:VBG
+shimmeringly:shimmeringly:RB
+shine:chamak:NN
+shiny:chamakdar:NN
+significant:ahem:JJ
+silent:khamosh:NN
+simpler:aasaan:NN
+simplest:aasaan:NN
+simplified:aasaan:VBN
+simplifies:aasaan:NNS
+simplify:aasaan:NN
+simplifying:aasaan bananay:VBG
+sincere:mukhlis:RB
+sincerely:aap ka mukhlis:RB
+sincerity:ikhlaas:NN
+skill:mahaarat:NN
+skilled:hunar mand:VBN
+skillful:qabil:NN
+skillfully:mahaarat:RB
+slammin:slammin:NN
+sleek:چیکنا:NN
+slick:hooshiyar:NN
+smart:hooshiyar:NN
+smarter:hooshiyar:NN
+smartest:hooshiyar:NN
+smartly:chalaki se:RB
+smile:muskurahat:NN
+smiles:muskorahatein:NNS
+smiling:muskura:VBG
+smilingly:muskuratay hue:RB
+smitten:koota:NN
+smooth:hamwar:NN
+smoother:hamwar:NN
+smoothes:smoothes:NNS
+smoothest:smoothest:NN
+smoothly:aasani se:RB
+snappy:taiz:JJ
+snazzy:se snazzy:NN
+sociable:milansaar:JJ
+soft:naram:JJ
+softer:motadil:NN
+solace:سانتونا:NN
+solicitous:چنتاشیل:JJ
+solicitously:solicitously:RB
+solid:thos:JJ
+solidarity:yakjahti:NN
+soothe:shant:NN
+soothingly:soothingly:RB
+sophisticated:nafees:JJ
+soulful:باوپورن:NN
+soundly:sahih saabit:RB
+soundness:sahet:NN
+spacious:kushadah:JJ
+sparkle:chamak:NN
+sparkling:chamak:VBG
+spectacular:shandaar:NN
+spectacularly:buri:RB
+speedily:taizi se:RB
+speedy:jald:NN
+spellbind:sehar:NN
+spellbinding:spellbinding:VBG
+spellbindingly:spellbindingly:RB
+spellbound:منترمگد:NN
+spirited:josheelaa:VBN
+spiritual:Rohani:JJ
+splendid:shandaar:NN
+splendidly:splendidly ki:RB
+splendor:shaan:NN
+spontaneous:achanak:JJ
+sporty:اسپورٹی:NN
+spotless:سوچرچھ:NN
+sprightly:فرتیلا:RB
+stability:istehkaam:NN
+stabilize:mustahkam:VB
+stable:mustahkam:JJ
+stainless:سٹینلیس:NN
+standout:standout kar:NN
+state-of-the-art:stit of di art:NN
+stately:bawaqar:RB
+statuesque:sadool:NN
+staunch:kattar:NN
+staunchly:sakht geer:RB
+staunchness:staunchness:NN
+steadfast:saabit qadam:NN
+steadfastly:saabit qadmi:RB
+steadfastness:sabr:NN
+steadiest:steadiest:NN
+steadiness:istehkaam:NN
+steady:mustahkam:JJ
+stellar:تارکیی:NN
+stellarly:stellarly:RB
+stimulate:hosla afzai:NN
+stimulates:اتیجیت:NNS
+stimulating:hosla afzai:VBG
+stimulative:stimulative:NN
+stirringly:stirringly:RB
+straighten:seedha:NN
+straightforward:barah e raast:NN
+streamlined:سویوستیت:VBN
+striking:zikar:VBG
+strikingly:ke strikingly:RB
+striving:jad-o-jehad:VBG
+strong:mazboot:JJ
+stronger:mazboot:JJR
+strongest:mazboot:JJS
+stunned:dang reh:VBN
+stunning:shandaar:VBG
+stunningly:heran kin:RB
+stupendous:Kaif:JJ
+stupendously:stupendously:RB
+sturdier:mein sturdier:NN
+sturdy:mazboot:NN
+stylish:sajeela:NN
+stylishly:hai stylishly:RB
+stylized:سٹیلئزیڈ:VBN
+suave:somi:NN
+suavely:suavely:RB
+sublime:shandaar:NN
+subsidize:sabsadi:VB
+subsidized:sabsadi:VBN
+subsidizes:subsidizes:NNS
+subsidizing:sabsadi:VBG
+substantive:ahem:JJ
+succeed:kamyaab:VB
+succeeded:kamyaab:VBN
+succeeding:kamyaab:VBG
+succeeds:kamyaab:VBZ
+succes:kamyabi:NNS
+success:kamyabi:NN
+successes:kamyabion:NNS
+successful:kamyaab:JJ
+successfully:kamyabi:RB
+suffice:kaafi:NN
+sufficed:kaafi:VBN
+suffices:kaafi:NNS
+sufficient:kaafi:NN
+sufficiently:kaafi:RB
+suitable:mozoon:JJ
+sumptuous:shandaar:JJ
+sumptuously:sumptuously:RB
+sumptuousness:sumptuousness:NN
+super:super:NN
+superb:shandaar:NN
+superbly:shandaar:RB
+superior:Alla:JJ
+superiority:bartari:NN
+supple:komal:NN
+support:himayat:NN
+supported:himayat:VBN
+supporter:haami:NN
+supporting:ki himayat:VBG
+supportive:haami:NN
+supports:ki himayat karta hai:NNS
+supremacy:baladasti:NN
+supreme:sprim:NN
+supremely:ke supremely:RB
+supurb:supurb:NN
+supurbly:supurbly:RB
+surmount:jeetna:NN
+surpass:Sabqat:NN
+surreal:ghair haqeeqi:NN
+survival:baqa:NN
+survivor:lawahiqeen:NN
+sustainability:paedaari:NN
+sustainable:paidaar:JJ
+swank:swank ke:NN
+swankier:swankier:NN
+swankiest:swankiest:NN
+swanky:swanky:NN
+sweeping:saaf:VBG
+sweet:meethi:NN
+sweeten:meetha:NN
+sweetheart:Aziz:NN
+sweetly:pyar:RB
+sweetness:mithaas:NN
+swift:soyft:NN
+swiftness:swiftness:NN
+talent:pratibha:NN
+talented:ba-salahiyat:VBN
+talents:pratibha:NNS
+tantalize:tantalize:VB
+tantalizing:qabil rashk bana:VBG
+tantalizingly:tantalizingly:RB
+tempt:lalchana:NN
+tempting:kashish:VBG
+temptingly:temptingly:RB
+tenacious:sakht:JJ
+tenaciously:sakhti:RB
+tenacity:درڑھتا:NN
+tender:tender:NN
+tenderly:naram:RB
+terrific:lajawab:NN
+terrifically:terrifically:RB
+thank:shukriya:NN
+thankful:shukar:NN
+thinner:patli:NN
+thoughtful:ویچارشیل:JJ
+thoughtfully:soch:RB
+thoughtfulness:soch o bichaar:NN
+thrift:kifayat:NN
+thrifty:دوستوییی:NN
+thrill:sansani:NN
+thrilled:pur josh:VBN
+thrilling:sansani khaiz:VBG
+thrillingly:thrillingly:RB
+thrills:romanch:NNS
+thrive:taraqqi ki Manazil tey:NN
+thriving:farogh pazeer:VBG
+thumb-up:angothay up:NN
+thumbs-up:bohat khoob:NN
+tickle:gudgudi:NN
+tidy:saaf:NN
+time-honored:waqt ki qader:JJ
+timely:bar waqat:RB
+tingle:tingle ke:NN
+titillate:gudgudana:NN
+titillating:par titillating:VBG
+titillatingly:titillatingly:RB
+togetherness:hum ahangi:NN
+tolerable:bardasht:JJ
+toll-free:tool free:JJ
+top:sab se:NN
+top-notch:Alla martaba:NN
+top-quality:sab se oopar miyaar:NN
+topnotch:Alla martaba:NN
+tops:sab se oopar:NNS
+tough:sakht:JJ
+tougher:sakht:NN
+toughest:mushkil:NN
+traction:krishan:NN
+tranquil:avrtm:NN
+tranquility:sukoon:NN
+transparent:shafaaf:NN
+treasure:khazana:NN
+tremendously:bohat:RB
+trendy:rujhan:NN
+triumph:fatah:NN
+triumphal:fatihana:NN
+triumphant:faateh:NN
+triumphantly:fatihana:RB
+trivially:trivially:RB
+trophy:trophy:NN
+trouble-free:museebat muft:JJ
+trump:trmp:NN
+trumpet:ترہی:NN
+trust:aetmaad:NN
+trusted:qabil aetmaad:VBN
+trusting:yaqeen:VBG
+trustingly:trustingly:RB
+trustworthiness:amanat:NN
+trustworthy:Saqha:NN
+trusty:qabil aetmaad:NN
+truthful:sachey:NN
+truthfully:haqeeqat:RB
+truthfulness:sachaai:NN
+twinkly:twinkly:NN
+ultra-crisp:intahi krsp:JJ
+unabashed:khulay:JJ
+unabashedly:cheez mere:RB
+unaffected:mutasir:JJ
+unassailable:isi terhan atal:JJ
+unbeatable:مجرجیئ:JJ
+unbiased:ghair janabdaar:JJ
+unbound:abad:NN
+uncomplicated:ghair paicheeda:JJ
+unconditional:ghair mashroot:JJ
+undamaged:taraqqi dena:JJ
+undaunted:nidar:JJ
+understandable:feham:JJ
+undisputable:undisputable:JJ
+undisputably:undisputably:RB
+undisputed:نروئواد:JJ
+unencumbered:se unencumbered:JJ
+unequivocal:wazeh:JJ
+unequivocally:Sarahat:RB
+unfazed:baton se be parwah:JJ
+unfettered:نرنکش:JJ
+unforgettable:na qabil faramosh:JJ
+unity:ittehaad:NN
+unlimited:laa-mehdood:JJ
+unmatched:بیمسال:JJ
+unparalleled:be misaal:JJ
+unquestionable:نروئواد:JJ
+unquestionably:bulaa shuba:RB
+unreal:ghair haqeeqi:NN
+unrestricted:امائبندت:JJ
+unrivaled:بیجوڑ:JJ
+unselfish:be los:JJ
+unwavering:atot:VBG
+upbeat:hosla afzai:NN
+upgradable:اپگرادآبلی:JJ
+upgradeable:اپگریڈابلی:JJ
+upgraded:Alla darjay ki:JJ
+upheld:ko barqarar rakha:NN
+uphold:ko barqarar rakhnay ke:JJ
+uplift:اتتھان:NN
+uplifting:halkay phlke:VBG
+upliftingly:upliftingly:RB
+upliftment:اتتھان:NN
+upscale:Alla darjay:JJ
+usable:istemaal ke qabil:JJ
+useable:useable ki:JJ
+useful:mufeed:JJ
+user-friendly:Sarif dostana:RB
+user-replaceable:Sarif replaceable:JJ
+valiant:bahadur:NN
+valiantly:bahaduri:RB
+valor:shoora:NN
+valuable:qeemti:JJ
+variety:qisam:NN
+venerate:tazeem:NN
+verifiable:qabil:JJ
+veritable:sacha:JJ
+versatile:بہمھی:NN
+versatility:استرتا:NN
+vibrant:mutharrak:NN
+vibrantly:intahi Murtaish:RB
+victorious:fatah:JJ
+victory:fatah:NN
+viewable:dekha ja sakta:JJ
+vigilance:nigrani:NN
+vigilant:chokas:NN
+virtue:fazeelat:NN
+virtuous:naik:JJ
+virtuously:al shan:RB
+visionary:baseerat:JJ
+vivacious:vivacious:JJ
+vivid:وشد:NN
+vouch:zamanat:JJ
+vouchsafe:jhukna:NN
+warm:garam:NN
+warmer:garam:NN
+warmhearted:meharban:VBN
+warmly:garamjoshi:RB
+warmth:garmi:NN
+wealthy:Ameer:NN
+welcome:khush aamdeed:NN
+well:achi terhan:RB
+well-backlit:achi terhan se backlit ki:NN
+well-balanced:mutawazan:JJ
+well-behaved:achi terhan se bartao:JJ
+well-being:behbood:NN
+well-bred:achi nasal:JJ
+well-connected:achi terhan marboot:JJ
+well-educated:achi terhan taleem Yafta:JJ
+well-established:سستاپت:JJ
+well-informed:achi terhan bakhabar:JJ
+well-intentioned:naik niyati:JJ
+well-known:achi terhan se jana jata hai:JJ
+well-made:achi terhan se banaya:NN
+well-managed:achi terhan se munazzam:JJ
+well-mannered:mohazab:JJ
+well-positioned:position:JJ
+well-received:achi terhan masool:JJ
+well-regarded:achi terhan se shumaar:JJ
+well-rounded:achi terhan gole:JJ
+well-run:achi terhan se chalanay ke:NN
+well-wishers:شوبچنتکوں:NNS
+wellbeing:faiday:VBG
+whoa:wah:NN
+wholeheartedly:dil o jaan se:RB
+wholesome:mutanasib:NN
+whooa:whooa:NN
+whoooa:whoooa:NN
+wieldy:wieldy:NN
+willing:tayyar:JJ
+willingly:khushi:RB
+willingness:khwahish:NN
+win:jeet:NN
+windfall:اپرتیاشت:NN
+winnable:jeetnay ke qabil:JJ
+winner:faateh:NN
+winners:fateheen:NNS
+winning:jeetnay:VBG
+wins:jeet:NNS
+wisdom:hikmat:NN
+wise:aqal mand:NN
+wisely:samajhdaari:RB
+witty:dilchasp:NN
+won:kamyaab:NN
+wonder:herat:NN
+wonderful:herat angaiz:NN
+wonderfully:herat angaiz:RB
+wonderous:wonderous:JJ
+wonderously:wonderously:RB
+wonders:ajaebaat:NNS
+wondrous:ajeeb o ghareeb:JJ
+woo:vo:NN
+work:kaam:NN
+workable:qabil amal:JJ
+worked:kaam:VBN
+works:kaam:NNS
+world-famous:duniya bhar mein mashhoor:JJ
+worth:qabil:NN
+worth-while:qabil jabkay:NN
+worthiness:qabliyat:NN
+worthwhile:qabil qader:NN
+worthy:qabil:NN
+wow:zabardast:NN
+wowed:se wowed:NN
+wowing:wowing:VBG
+wows:wows:NNS
+yay:garmiyon mein:NN
+youthful:jawani:NN
+zeal:josh:NN
+zenith:zenith kaan:NN
+zest:hosla afzai:NN
+zippy:mein zippy:NN
+without any doubt:beshak:xx
+celebration:jashan:xx
+right: haq:xx
+wow:wah:xx
+tiding:baha lejana:xx
+good habits:khubiya:xx
+advise:hidayat:xx
+mercy:reham:xx
+G:Mashaa Allah:xx
+G:Subhanallah:xx
+a:Ameen:xx
+a:khob:xx
+a:janatul firdus:xx
+a:alla:xx
+a:aala:xx
+a:maghfirat:xx
+a:darjaat:xx
+a:junat:xx
+a:insaf:xx
+a:jani:xx
+a:dost:xx
+a:Inshaallah:xx
+a:love:xx
+a:khubsurt:xx
+a:sadgi:xx
+a:saadgi:xx
+a:elahi:xx
+a:khoobsurat:xx
+a:beshak:xx
+a:alaa:xx
+a:khudari:xx
+a:emandari:xx
+a:doston:xx
+a:passand:xx
+a:jannatul:xx
+a:firdous:xx
+a:kamal:xx
+a:InshAllah:xx
+a:alaw:xx
+a:MashaAllah:xx
+a:sabar:xx
+a:izzat:xx
+a:pyary:xx
+a:mehmaan:xx
+a:eid:xx
+a:shareef:xx
+a:gum:xx
+a:funny:xx
+a:alaa:xx
+a:parcham:xx
+a:zaberdast:xx
+a:hans:xx
+a:gulabi:xx
+a:mast:xx
+a:perfect:xx
+a:shukar:xx
+a:hadayat:xx
+a:zaberdst:xx
+a:casual:xx
+a:style:xx
+a:muaaf:xx
+a:Zabardust:xx
+a:ala:xx
+a:khobsurat:xx
+a:umda:xx
+a:beshak:xx
+a:achy:xx
+a:beshak:xx
+a:khub:xx
+a:bahoot:xx
+a:bemsal:xx
+a:sahe:xx
+a:belkul:xx
+a:naseehat:xx
+a:lajawab:xx
+a:zabardast:xx
+a:salamat:xx
+a:mastana:xx
+a:azmat:xx
+a:piyari:xx
+a:mohabt:xx
+a:hausla afzaai:xx
+a:wah:xx
+a:shukriya:xx
+a:hajj:xx
+a:qahqa:xx
+a:thank you:xx
+a:saathi:xx
+a:dilchasp:xx
+a:mazedaar:Xx
+a:khushbu:xx
+a:Ummeed:xx
+a:cute:xx
+a:sanwar:xx
+a:zabrdast:xx
+a:proud:xx
+a:good:xx
+a:mahfooz:xx
+a:lucky:xx
+a:shukria:xx
+a:reham:xx
+a:a:rehm:xx
+a:qoob:xx
+a:wha:xx
+a:khoob:xx
+a:mashaallah:xx
+a:great:xx
+a:shohrat:xx
+a:urooj:xx
+a:shauq:xx
+a:charcha:xx
+a:munfarid:xx
+a:judagana:xx
+a:loha manwaya:xx
+a:fitt:xx
+a:famous:xx
+a:millionaire:xx
+a:chuta zahen:xx
+a:kamyab:xx

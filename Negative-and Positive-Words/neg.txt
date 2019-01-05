@@ -1,0 +1,4948 @@
+﻿2-faced:﻿2-چہرے:JJ
+2-faces:2-چہرے:NNS
+abnormal:ghair mamooli:JJ
+abolish:khatam:NN
+abominable:makrooh:JJ
+abominably:gunah:RB
+abominate:nafrat karna:NN
+abomination:nafrat:NN
+abort:isqaat hamal ho sakta:NN
+aborted:isqaat hamal ho sakta:JJ
+aborts:aborts:NNS
+abrade:abrade:NN
+abrasive:khurachnay:JJ
+abrupt:achanak:NN
+abruptly:achanak:RB
+abscond:inkhilah:NN
+absence:ghair mojoodgi:NN
+absent-minded:بلککڑ:JJ
+absentee:تخپستیت:NN
+absurd:mazhaka khaiz:NN
+absurdity:hamaqat:NN
+absurdly:hamaqat se:RB
+absurdness:absurdness:NN
+abuse:istemaal ki ittila den:NN
+abused:ke sath zayad-ti:VBN
+abuses:gaaliyan:NNS
+abusive:bud sulooki:JJ
+abysmal:athah:NN
+abysmally:intahi:RB
+abyss:utah kund:NN
+accidental:hadsati:NN
+accost:khitaab:NN
+accursed:شاپت:VBN
+accusation:ilzaam:NN
+accusations:ilzamaat:NNS
+accuse:ilzaam aed:NN
+accuses:par ilzaam lagaya hai:NNS
+accusing:ilzaam lagaya:VBG
+accusingly:accusingly:RB
+acerbate:acerbate:NN
+acerbic:acerbic:NN
+acerbically:acerbically:RB
+ache:dard:NN
+ached:dard:VBN
+aches:dard:NNS
+achey:achey:NN
+aching:dard:VBG
+acrid:teekhi:NN
+acridly:acridly:RB
+acridness:acridness:NN
+acrimonious:acrimonious:JJ
+acrimoniously:acrimoniously:RB
+acrimony:کٹوتا:NN
+adamant:zid:NN
+adamantly:uray:RB
+addict:aadi:NN
+addicted:aadi:VBN
+addicting:ادیکٹانگ:VBG
+addicts:aadi:NNS
+admonish:nasiyaat:JJ
+admonisher:hadaayat:NN
+admonishingly:admonishingly:RB
+admonishment:intibah:NN
+admonition:nasiyaat:NN
+adulterate:milawat:NN
+adulterated:boon:VBN
+adulteration:milawat:NN
+adulterier:adulterier:NN
+adversarial:muanidana:JJ
+adversary:mukhalif:NN
+adverse:manfi:NN
+adversity:museebat:NN
+afflict:dukh:NN
+affliction:museebat:NN
+afflictive:dard naak:JJ
+affront:tauheen:NN
+afraid:dar:NN
+aggravate:barh:NN
+aggravating:اتیجک:VBG
+aggravation:اتیجنا:NN
+aggression:jarhiyat:NN
+aggressive:jarehana:JJ
+aggressiveness:ke aggressiveness:NN
+aggressor:hamla:NN
+aggrieve:aggrieve:NN
+aggrieved:mutasirah:VBN
+aggrivation:aggrivation:NN
+aghast:shashdar:NN
+agonies:azeeyaten:NNS
+agonize:agonize:VB
+agonizing:aziat:VBG
+agonizingly:agonizingly:RB
+agony:Weeta:NN
+aground:tika howa:NN
+ail:ail:NN
+ailing:bemaar:VBG
+ailment:bemari:NN
+aimless:be hadaf:NN
+alarm:ularam:NN
+alarmed:fikar mand:JJ
+alarming:khatray ki ghanti:VBG
+alarmingly:pareshani ka baais:RB
+alienate:allag thalag:NN
+alienated:allag thalag:VBN
+alienation:wehshat:NN
+allegation:ilzaam:NN
+allegations:ilzamaat:NNS
+allege:ilzaam:NN
+allergic:allergic:NN
+allergies:یلرجی:NNS
+allergy:allergy:NN
+aloof:allag:NN
+altercation:jhagra:NN
+ambiguity:ibham:NN
+ambiguous:mabham:JJ
+ambivalence:mutazaad jazbaat:NN
+ambivalent:mabham:NN
+ambush:ghaat laga kar hamla:NN
+amiss:bura:NN
+amputate:kaatna:NN
+anarchism:اراجکتا:NN
+anarchist:اراجکتاوادی:NN
+anarchistic:anarchistic:JJ
+anarchy:inteshaar:NN
+anemic:khoon ki kami:JJ
+anger:gussa:NN
+angrily:ghusse:RB
+angriness:angriness:NN
+angry:gussa:JJ
+anguish:gham:NN
+animosity:dushmani:NN
+annihilate:tabah:NN
+annihilation:fanaa:NN
+annoy:tang:NN
+annoyance:جھوبجھلاہٹ:NN
+annoyances:الجھینیں:NNS
+annoyed:naraaz:NNS
+annoying:pareshan:VBG
+annoyingly:se annoyingly:RB
+annoys:aeza deti:NNS
+anomalous:ویشم:JJ
+anomaly:اسنگتی:NN
+antagonism:شتروتا:NN
+antagonist:mukhalif:NN
+antagonistic:mukhalif:JJ
+antagonize:ناراج:VB
+anti-:mukhalif:NN
+anti-american:America mukhalif:JJ
+anti-israeli:Israel ke mukhalif:JJ
+anti-occupation:anti qabzay:NN
+anti-proliferation:anti phelao:NN
+anti-semites:mukhalif Sami:NNS
+anti-social:samaaj mukhalif:JJ
+anti-us:America mukhalif:NN
+anti-white:mukhalif safaid:JJ
+antipathy:nafrat:NN
+antiquated:farsodah:VBN
+antithetical:mutazaad:JJ
+anxieties:tashweesh:NNS
+anxiety:be cheeni:NN
+anxious:fikar mand:JJ
+anxiously:be cheeni:RB
+anxiousness:anxiousness:NN
+apathetic:اداسین:JJ
+apathetically:apathetically:RB
+apathy:be hisi:NN
+apocalypse:apocalypse ke:NN
+apocalyptic:ilhaami:JJ
+apologist:himayati:NN
+apologists:himayati:NNS
+appal:darata hai:NN
+appall:darana:NN
+appalled:heran:JJ
+appalling:ghnona:VBG
+appallingly:se appallingly:RB
+apprehension:khadshaat:NN
+apprehensions:khadshaat:NNS
+apprehensive:khadsha:JJ
+apprehensively:apprehensively:RB
+arbitrary:sawab dedi:JJ
+arcane:jaadoo:NN
+archaic:qadeemi:NN
+arduous:mushkil:JJ
+arduously:arduously:RB
+argumentative:jhagralu:JJ
+arrogance:taqqabur:NN
+arrogant:taqqabur:JJ
+arrogantly:taqqabur:RB
+ashamed:sharam:VBN
+asinine:par asinine:NN
+asininely:asininely:RB
+asinininity:asinininity:NN
+askance:mein askance:NN
+asperse:asperse:NN
+aspersion:aspersion:NN
+aspersions:aspersions:NNS
+assail:hamla:NN
+assassin:ہتیارا:NN
+assassinate:qatal:NN
+assault:hamla:NN
+assult:assult:NN
+astray:gumraah:NN
+asunder:phatt:NN
+atrocious:zalimana:JJ
+atrocities:mzalm:NNS
+atrocity:کرورتا:NN
+atrophy:atrophy ke:NN
+attack:hamlay:NN
+attacks:hamlon:NNS
+audacious:bahadur:JJ
+audaciously:audaciously:RB
+audaciousness:audaciousness:NN
+audacity:jurrat:NN
+audiciously:audiciously:RB
+austere:saada:RB
+authoritarian:aamranah:JJ
+autocrat:Amir:NN
+autocratic:نرنکش:JJ
+avalanche:ہمسھلن:NN
+avarice:hiras:NN
+avaricious:laalchi:JJ
+avariciously:avariciously:RB
+avenge:badla lainay:NN
+averse:napasand:NN
+aversion:nafrat:NN
+aweful:aweful:NN
+awful:khofnaak:NN
+awfully:bohat:RB
+awfulness:awfulness:NN
+awkward:ajeeb:NN
+awkwardness:sharmindagi:NN
+ax:kulhari:NN
+babble:barbarana:JJ
+back-logged:two wapas karna:JJ
+back-wood:back lakri:NN
+back-woods:جنگل-بیک:NNS
+backache:peeth mein dard:NN
+backaches:backaches:NNS
+backaching:backaching:NN
+backbite:gheebat:NN
+backbiting:gheebat:NN
+backward:pasmandah:NN
+backwardness:pasmandagi:NN
+backwood:backwood:NN
+backwoods:se backwoods:NNS
+bad:bura:JJ
+badly:buri terhan:RB
+baffle:chakra:NN
+baffled:hakka bakka reh gaya:VBN
+bafflement:bafflement:NN
+baffling:chonkanay:NN
+bait:charah:NN
+balk:balk:NN
+banal:huzoor:NN
+banalize:banalize:NN
+bane:banay:NN
+banish:nikaal:NN
+banishment:نرواسن:NN
+bankrupt:dewalia:NN
+barbarian:jungli:NN
+barbaric:wehshiana:NN
+barbarically:barbarically:RB
+barbarity:bar bariat:NN
+barbarous:اسبی:JJ
+barbarously:barbarously:RB
+barren:banjar:NNS
+baseless:be bunyaad:NN
+bash:aik shandaar hartaal:NN
+bashed:bashed raha:VBN
+bashful:سنکوچی:NN
+bashing:tanqeed:NN
+bastard:kaminey:NN
+bastards:kaminiye:NNS
+battered:tabah:VBN
+battering:thpirhe:VBG
+batty:batty ki:NN
+bearish:mandi:JJ
+beastly:کرورتاپورن:RB
+bedlam:bedlam ki:NN
+bedlamite:bedlamite:NN
+befoul:kharab karna:NN
+beg:bag:NN
+beggar:bikhaari:NN
+beggarly:nikammi:RB
+begging:bheek maang:VBG
+beguile:fraib:NN
+belabor:belabor:NN
+belated:takheer:VBN
+beleaguer:frame:NN
+belie:jutlatay:NN
+belittle:chhota:NN
+belittled:haqeer jana:VBN
+belittling:be izzati:NN
+bellicose:larako:NN
+belligerence:belligerence hai:NN
+belligerent:جوجھارو:NN
+belligerently:belligerently:RB
+bemoan:afsos:NN
+bemoaning:bemoaning:VBG
+bemused:ke bemused:VBN
+bent:muri hui:NN
+berate:ko berate:NN
+bereave:be aulaad kere gi:NN
+bereavement:gham:NN
+bereft:khaali:NN
+berserk:nidar:NN
+beseech:minnat:NN
+beset:ghair:NN
+besiege:ghair:NN
+besmirch:mela karna:NN
+bestial:wehshi:NN
+betray:dhoka:NN
+betrayal:dhoka:NN
+betrayals:ghaddari:NNS
+betrayer:وشواسگھاتی:NN
+betraying:dhoka:NN
+betrays:insurance:NNS
+bewail:maatam:NN
+beware:hooshiyar:NN
+bewilder:bewilder:NN
+bewildered:shashdar kar deta:VBN
+bewildering:pareshan kin:NN
+bewilderingly:bewilderingly:RB
+bewilderment:herani:NN
+bewitch:jaadoo:NN
+bias:taasub:NN
+biased:mutasib:VBN
+biases:tasbat:NNS
+bicker:mein bicker:NN
+bickering:kulah:NN
+bid-rigging:boli dhandli:NN
+bigotries:bigotries:NNS
+bigotry:taasub:NN
+bitch:kutia:NN
+bitchy:bitchy:NN
+biting:kaatetay:NN
+bitingly:bitingly:RB
+bitter:talkh:NN
+bitterly:talkhi:RB
+bitterness:talkhi:NN
+bizarre:ajeeb:NN
+blab:bikna:NN
+blabber:جھککی:NN
+blackmail:بلیکمیل:NN
+blah:بلاہ:NN
+blame:ilzaam:NN
+blameworthy:malamat:NN
+bland:kamzor:NN
+blandish:blandish:NN
+blaspheme:نندا:NN
+blasphemous:gustakhana:JJ
+blasphemy:tauheen risalat:NN
+blasted:tanqeed:VBN
+blatant:Sarih:NN
+blatantly:wazeh:RB
+blather:blather ke:NN
+bleak:tareek:NN
+bleakly:bleakly:NN
+bleakness:bleakness:NN
+bleed:khoon:NN
+bleeding:khoon beh raha hai:NN
+bleeds:khoon ke ansoo rota:NNS
+blemish:daagh:NN
+blind:andha:NN
+blinding:chkachond:NN
+blindingly:blindingly:RB
+blindside:blindside:NN
+blister:chaala:NN
+blistering:jordar:NN
+bloated:فولا howa:VBN
+blockage:rukawat:NN
+blockhead:mein blockhead:NN
+bloodshed:khonrizi:VBN
+bloodthirsty:khonkhawar:NN
+bloody:khooni:NN
+blotchy:blotchy:NN
+blow:dhachka:NN
+blunder:ghalti:NN
+blundering:ghalatiyan:NN
+blunders:ghaltion:NNS
+blunt:kund:NN
+blur:kalank:NN
+bluring:bluring:NN
+blurred:dhundlapan:VBN
+blurring:دھندلاہٹ:NN
+blurry:blurry ki:NN
+blurs:kya blurs:NNS
+blurt:zor se bolna:NN
+boastful:ghamandi:NN
+boggle:shuba:NN
+bogus:jaali:NN
+boil:فوڑا:NN
+boiling:ublatey:VBG
+boisterous:ؤشمی:JJ
+bomb:bomb:NN
+bombard:bombari:NN
+bombardment:bombari:NN
+bombastic:bombastic ke:JJ
+bondage:pabandi:NN
+bonkers:mein bonkers:NNS
+bore:bore:NN
+bored:bore:VBN
+boredom:boriat:NN
+bores:bores:NNS
+boring:borng:NN
+botch:چکتی:NN
+bother:pareshan:NN
+bothered:pareshan:VBN
+bothering:pareshan:VBG
+bothers:pareshan:NNS
+bothersome:yeh bothersome:NN
+bowdlerize:bowdlerize:NN
+boycott:boycott:NN
+braggart:ڈینگمار:NN
+bragger:bragger:NN
+brainless:mein brainless:NN
+brainwash:ڈماگ dhona:NN
+brash:بیدڑک:NN
+brashly:brashly:RB
+brashness:brashness:NN
+brat:chhokri:NN
+bravado:واہواہی:NN
+brazen:dhatai ke sath:NN
+brazenly:deedaa:RB
+brazenness:be لگامی:NN
+breach:ki khilaaf warzi:NN
+break:waqfay:NN
+break-up:alehadgi:NN
+break-ups:up toar:NNS
+breakdown:kharabi:NN
+breaking:toar:VBG
+breaks:toot jata hai:NNS
+breakup:alehadgi:NN
+breakups:break:NNS
+bribery:rishwat:NN
+brimstone:gandhak:NN
+bristle:bristle ke:NN
+brittle:aasani se totnay wali:NN
+broke:toar diya:NN
+broken:toota howa:NN
+broken-hearted:shakista dil wala:JJ
+brood:bachay:NN
+browbeat:دمکانا:NN
+bruise:خروںچ:NN
+bruised:zakhmi:VBN
+bruises:chout jaisay nishanaat:NNS
+bruising:phir:NN
+brusque:brusque:NN
+brutal:sifakana:NN
+brutalising:brutalizing:NN
+brutalities:hewaniyat:NNS
+brutality:zulm:NN
+brutalize:brutalize:NN
+brutalizing:brutalizing:NN
+brutally:بیرہمی:RB
+brute:janwar:NN
+brutish:hewan khaslat:NN
+bs:bs:NN
+buckle:baksuwa:NN
+bug:big:NN
+bugging:bugging ke:NN
+buggy:choti gaari:NN
+bugs:keeray:NNS
+bulkier:mein bulkier:NN
+bulkiness:bulkiness:NN
+bulky:bara:NN
+bulkyness:bulkyness:NN
+bull****:bail * * * *:NN
+bull----:bail ----:NN
+bullies:bullies ke:NNS
+bullshit:qisam ki mamooli Hadayat:NN
+bullshyt:bullshyt:NN
+bully:badmaash samajte hain:RB
+bullying:ghunda gardi:NN
+bullyingly:bullyingly:RB
+bum:bum ke:NN
+bump:takrana:NN
+bumped:takra:NN
+bumping:jab bumping:NN
+bumpping:bumpping:NN
+bumps:bumps ke:NNS
+bumpy:ؤبڑ:NN
+bungle:ghpla:NN
+bungler:bungler:NN
+bungling:golmaal:NN
+bunk:bunk ke:NN
+burden:boojh:NN
+burdensome:sharai:NN
+burdensomely:burdensomely:RB
+burn:jalanay:NN
+burned:jala diya:VBN
+burning:jalanay:NN
+burns:jal:NNS
+bust:toot:NN
+busts:mujasmon:NNS
+busybody:busybody:NN
+butcher:کسائ:NN
+butchery:khoon raizi:NN
+buzzing:بنبنا:NN
+byzantine:bazan-teeni:NN
+cackle:کھلکھلکر hansna:NN
+calamities:afaat:NNS
+calamitous:sakht:JJ
+calamitously:calamitously:RB
+calamity:aafat:NN
+callous:kathor:JJ
+calumniate:badnaam karna:NN
+calumniation:calumniation:NN
+calumnies:tohmaton:NNS
+calumnious:calumnious:JJ
+calumniously:calumniously:RB
+calumny:bohtan:NN
+cancer:cancer:NN
+cancerous:cancer:JJ
+cannibal:نربکشک:NN
+cannibalize:cannibalize:NN
+capitulate:آتمسمرپن:NN
+capricious:moji:JJ
+capriciously:capriciously:RB
+capriciousness:capriciousness:NN
+capsize:ulat jana:NN
+careless:la parwah:NN
+carelessness:la parwahi:NN
+caricature:cartoon:NN
+carnage:qatal aam:NN
+carp:کارپ:NN
+cartoonish:cartoonish ne:NN
+cash-strapped:paison ki tangi:JJ
+castigate:ترسکار:NN
+castrated:ko castrated:VBN
+casualty:giray:NN
+cataclysm:kawaif nama:NN
+cataclysmal:cataclysmal:NN
+cataclysmic:ke cataclysmic:NN
+cataclysmically:cataclysmically:RB
+catastrophe:tabahi:NN
+catastrophes:tabahi:NNS
+catastrophic:tabah kin:JJ
+catastrophically:catastrophically mein:RB
+catastrophies:catastrophies:NNS
+caustic:caustic:JJ
+caustically:caustically:RB
+cautionary:intibah:NN
+cave:ghaar:NN
+censure:muzammat:NN
+chafe:chafe:NN
+chaff:pyaal:NN
+chagrin:charh:NN
+challenging:challenge:VBG
+chaos:afratafri:NN
+chaotic:اراجک:JJ
+chasten:tanbeeh:NNS
+chastise:azaab:NN
+chastisement:azaab:NN
+chatter:chehchhana:NN
+chatterbox:chatterbox:NN
+cheap:sastay:NN
+cheapen:sasta:NN
+cheaply:sastay:NN
+cheat:dhoka:NN
+cheat:do numberi:NN
+cheated:dhoka:VBN
+cheater:dhokay baz:NN
+cheating:dhoka dahi:VBG
+cheats:dhoka deti hai:NNS
+checkered:chacker:VBN
+cheerless:ملان:NN
+cheesy:mein cheesy:NN
+chide:dantna:NN
+childish:بچکانا:NN
+chill:sard:NN
+chilly:mirch:RB
+chintzy:chintzy:NN
+choke:gala ghontna:NN
+choleric:choleric:NN
+choppy:choppy hai:JJ
+chore:niklana:NN
+chronic:daimi:NN
+chunky:chunky ki:NN
+clamor:shore:NN
+clamorous:taiz o tund:JJ
+clash:tassadum:NN
+cliche:kahawat:NN
+cliched:cliched:NNS
+clique:giroh:NN
+clog:rokna:NN
+clogged:bhara howa:VBN
+clogs:موزری:NNS
+cloud:baadal:NN
+clouding:baadal chhaa jatay hain:VBG
+cloudy:abr alood:NN
+clueless:pata:NN
+clumsy:anaari:NN
+clunky:bhaari bharkam:NN
+coarse:motay:NN
+cocky:ghamandi:NN
+coerce:majaboor:NN
+coercion:jabar:NN
+coercive:tashadud aamaiz:NN
+cold:sardi:NN
+coldly:sard Mehri:RB
+collapse:kholeen band karen:NN
+collude:saaz baz:NN
+collusion:mili bhagat:NN
+combative:jangju:NN
+combust:combust:NN
+comical:ہاسیکر:JJ
+commiserate:reham:NN
+commonplace:aam:NN
+commotion:hungama:NN
+commotions:فسادوں:NNS
+complacent:mutmaen:NN
+complain:shikayat:NN
+complained:shikayat:VBD
+complaining:shikayat:VBG
+complains:shikayat:NNS
+complaint:shikayat:NN
+complaints:shikayaat:NNS
+complex:paicheeda:JJ
+complicated:paicheeda:VBN
+complication:paicheedgi:NN
+complicit:shareek:NN
+compulsion:jabar:NN
+compulsive:بابیکاری:NN
+concede:tasleem:NN
+conceded:tasleem:VBN
+conceit:gakhmeen:NN
+conceited:ابمانی:VBN
+concen:concen:NN
+concens:concens:NNS
+concern:tashweesh:NN
+concerned:talluq:JJ
+concerns:khadshaat:NNS
+concession:riayat:NN
+concessions:mara-aat:NNS
+condemn:muzammat:NN
+condemnable:muzammat:JJ
+condemnation:muzammat:NN
+condemned:muzammat:VBN
+condemns:muzammat:NN
+condescend:mutwajjah:NN
+condescending:karam farmai:VBG
+condescendingly:se condescendingly:RB
+condescension:condescension ke:NN
+confess:iqraar:NN
+confession:aitraaf:NN
+confessions:bayan:NNS
+confined:mehdood:VBN
+conflict:tanaza:NN
+conflicted:mein conflicted:VBN
+conflicting:mutazaad:VBG
+conflicts:tanazeaat:NNS
+confound:darham barham:NN
+confounded:sharminda:VBN
+confounding:bar aks:VBG
+confront:ka saamna:NN
+confrontation:tassadum:NN
+confrontational:mahaaz aarai:NN
+confuse:uljhane:NN
+confused:uljan:VBN
+confuses:pal confuses:NNS
+confusing:mabham:VBG
+confusion:uljan:NN
+confusions:badam:NNS
+congested:ghunjaan:VBN
+congestion:bheer:NN
+cons:cons ke:NNS
+conscons:conscons:NNS
+conservative:qadamat pasand:JJ
+conspicuous:numaya:JJ
+conspicuously:numaya:RB
+conspiracies:sazishon:NNS
+conspiracy:saazish:NN
+conspirator:شڈینترکاری:NN
+conspiratorial:sazshi:NN
+conspire:شڈینتر:NN
+consternation:saraseemgi:NN
+contagious:mutaddi:JJ
+contaminate:aaloda:NN
+contaminated:aaloda:VBN
+contaminates:gandah:NNS
+contaminating:aaloda:VBG
+contamination:aloodgi:NN
+contempt:tauheen:NN
+contemptible:ghnona:JJ
+contemptuous:tauheen aamaiz:JJ
+contemptuously:hiqarat:RB
+contend:jhagra:NN
+contention:tanaza:NN
+contentious:mutanazia:JJ
+contort:marorna:NN
+contortions:contortions:NNS
+contradict:tardeed:NN
+contradiction:tazaad:NN
+contradictory:mutazaad:NN
+contrariness:contrariness:NN
+contravene:khilaaf warzi:NN
+contrive:tadbeer:NN
+contrived:kar contrived:VBN
+controversial:mutanazia:JJ
+controversy:tanaza:NN
+convoluted:gnjlk:VBN
+corrode:khurachna:NN
+corrosion:سنکنرن:NN
+corrosions:corrosions:NNS
+corrosive:سنکنرن:NN
+corrupt:bad unwaan:NN
+corrupted:kharab:VBN
+corrupting:fasid:VBG
+corruption:corruption:NN
+corrupts:fasaad:NNS
+corruptted:corruptted:VBN
+costlier:mehanga:NN
+costly:mehanga:JJ
+counter-productive:insidaad pedawari:JJ
+counterproductive:ulta:NN
+coupists:coupists:NNS
+covetous:laalchi:JJ
+coward:buzdil:NN
+cowardly:buzdilana:RB
+crabby:crabby:NN
+crack:shagaaf:NN
+cracked:phatay:VBN
+cracks:درار:NNS
+craftily:craftily:RB
+craftly:craftly:RB
+crafty:chalaak:NN
+cramp:cramp ki:NN
+cramped:tang:NN
+cramping:cramping ke:VBG
+cranky:khabti:NN
+crap:ghatiya:NN
+crap:bakwas:NN
+crappy:بددا:JJ
+craps:creeps:NNS
+crash:haadsay:NN
+crashed:gir kar tabah:NNS
+crashes:gir kar tabah:NNS
+crashing:ijlaas honay ke tanazur:VBG
+crass:crass:NN
+craven:darpook:NN
+cravenly:cravenly:RB
+craze:sunk:NN
+crazily:se crazily:RB
+craziness:paglpn:NN
+crazy:pagal:NN
+creak:چرمراہٹ:NN
+creaking:creaking:VBG
+creaks:creaks:NNS
+credulous:zaeef al aitqaad:JJ
+creep:ریںگنا:NN
+creeping:captain bilal:VBG
+creeps:creeps ke:NNS
+creepy:daraona:NN
+crept:ghis:NN
+crime:jurm:NN
+criminal:mujremana:JJ
+cringe:chaploosi:NN
+cringed:aajzi dekhata:NN
+cringes:cringes:NNS
+cripple:png:NN
+crippled:mazoor:VBN
+cripples:tabah:NNS
+crippling:mazoor:VBG
+crisis:bohraan:NN
+critic:tanqeed:NN
+critical:ahem:JJ
+criticism:tanqeed:NN
+criticisms:tanqeed:NNS
+criticize:tanqeed:VB
+criticized:tanqeed:VBN
+criticizing:tanqeed:VBG
+critics:naqideen:NNS
+cronyism:cronyism:NN
+crook:chor:NN
+crooked:tedhi:NNS
+crooks:بدماش:NNS
+crowded:hajhoom:VBN
+crowdedness:crowdedness:NN
+crude:khaam:NN
+cruel:zalimana:NN
+crueler:crueler:NN
+cruelest:cruelest:NN
+cruelly:cruelly ke:RB
+cruelness:cruelness:NN
+cruelties:zulm:NNS
+cruelty:zulm:NN
+crumble:choora choora:JJ
+crumbling:crumbling ke:VBG
+crummy:ke crummy:NN
+crumple:crumple:NN
+crumpled:khamdaar:VBN
+crumples:crumples ke:NNS
+crush:kuchalnay:NN
+crushed:kuchal diya:VBN
+crushing:krshng:VBG
+cry:faryaad:NN
+culpable:mujrim:JJ
+culprit:mujrim:NN
+cumbersome:boujhal:NN
+cunt:ki cunt:NN
+cunts:ki cunt:NNS
+cuplrit:cuplrit:NN
+curse:laanat:NN
+cursed:laanat:VBN
+curses:shop:NNS
+curt:روھا:NN
+cuss:cuss:NN
+cussed:cussed:VBN
+cutthroat:mein cutthroat:NN
+cynical:نندک:JJ
+cynicism:mayoosi:NN
+d*mn:d * mn:NN
+damage:nuqsaan:NN
+damaged:nuqsaan pouncha:VBN
+damages:nuqsanaat:NNS
+damaging:nuqsaan da:VBG
+damn:laat:NN
+damnable:نندنیی:JJ
+damnably:damnably:RB
+damnation:azaab:NN
+damned:jahannum wasil:VBN
+damning:laanti:VBG
+damper:damper ke:NN
+danger:khatrah:NN
+dangerous:khatarnaak:JJ
+dangerousness:khatarnaak:NN
+dark:siyah:NN
+darken:udasi chhana:NN
+darkened:tareek:VBN
+darker:siyah:NN
+darkness:andheray:NN
+dastard:dastard:NN
+dastardly:نرشنس:RB
+daunt:دمکانا:NN
+daunting:mushkil:VBG
+dauntingly:dauntingly:RB
+dawdle:dawdle:NN
+daze:daze ki:NN
+dazed:chindhya:VBN
+dead:murda:JJ
+deadbeat:se deadbeat:NN
+deadlock:ta-attul:NN
+deadly:mohlik:RB
+deadweight:deadweight:NN
+deaf:berha:NN
+dearth:kami:NN
+death:mout:NN
+debacle:shikast:NN
+debase:qeemat kam karna:NN
+debasement:debasement:NN
+debaser:debaser:NN
+debatable:mutanazia:JJ
+debauch:marhalay par bhi فساق:JJ
+debaucher:debaucher:NN
+debauchery:کامکتا:NN
+debilitate:kamzor:NN
+debilitating:kamzor:VBG
+debility:دربلتا:NN
+debt:qarz:NN
+debts:qarz:NNS
+decadence:oti:NN
+decadent:kashi:NN
+decay:kashi:NN
+decayed:par decayed:NN
+deceit:fraib:NN
+deceitful:dhokay baz:NN
+deceitfully:fraib:RB
+deceitfulness:fraib:NN
+deceive:dhoka:NN
+deceiver:dhokay baz:NN
+deceivers:gumraah:NNS
+deceiving:dhoka:VBG
+deception:dhoka dahi:NN
+deceptive:برامک:NN
+deceptively:badam:RB
+declaim:declaim:NN
+decline:kami:NN
+declines:kami:NNS
+declining:kami:VBG
+decrement:tadreej:NN
+decrepit:purana:NN
+decrepitude:جیرنتا:NN
+decry:muzammat:NN
+defamation:badnami:NN
+defamations:defamations:NNS
+defamatory:hattak aamaiz:NN
+defame:badnaam:NN
+defect:aib:NN
+defective:aib daar:JJ
+defects:naqais:NNS
+defensive:difai:NN
+defiance:challenge:NN
+defiant:اددنڈ:NN
+defiantly:sar kashi:RB
+deficiencies:kami:NNS
+deficiency:kami:NN
+deficient:kami:NN
+defile:napak:NN
+defiler:defiler:NN
+deform:crop:NN
+deformed:durust shakal:VBN
+defrauding:fraud:VBG
+defunct:kaladam:NN
+defy:inhiraf:NN
+degenerate:zawaal:NN
+degenerately:degenerately:RB
+degeneration:اپکرش:NN
+degradation:hraas:NN
+degrade:neecha:NN
+degrading:aamaiz:VBG
+degradingly:degradingly:RB
+dehumanization:soaz:NN
+dehumanize:ghair insani:VB
+deign:liye deign:NN
+deject:ہتوتساہ karna:NN
+dejected:udaas:VBN
+dejectedly:udaas lehjey mein:RB
+dejection:udasi:NN
+delay:takheer:NN
+delayed:takheer:NNS
+delaying:takheer:VBG
+delays:takheer:NNS
+delinquency:jurm:NN
+delinquent:mujrim:NN
+delirious:بیسد:JJ
+delirium:becheni:NN
+delude:dhoka:NN
+deluded:moht:VBN
+deluge:jharri:NN
+delusion:badam:NN
+delusional:par delusional:NN
+delusions:badam:NNS
+demean:neecha:NN
+demeaning:demeaning raha:VBG
+demise:intqaal:NN
+demolish:tabah:NN
+demolisher:naash:NN
+demon:demon:NN
+demonic:shaytani:JJ
+demonize:badnaam:VB
+demonized:asaib zada:VBN
+demonizes:demonizes:NNS
+demonizing:propignda:VBG
+demoralize:hauslay pust:VB
+demoralizing:hosla shikan:VBG
+demoralizingly:demoralizingly:RB
+denial:inkaar:NN
+denied:tardeed:VBD
+denies:inkaar karte hain:NNS
+denigrate:badnaam:NN
+denounce:muzammat:NN
+dense:ghany:NN
+dent:kaatnay ka nishaan:NN
+dented:nuqsaan pouncha:VBN
+dents:dents ko:NNS
+denunciate:denunciate:NN
+denunciation:muzammat:NN
+denunciations:muzammat:NNS
+deny:inkaar:NN
+denying:inkaar:VBG
+deplete:khaali:NN
+deplorable:napasandeedah:JJ
+deplorably:deplorably:RB
+deplore:muzammat:NN
+deploring:afsos:VBG
+deploringly:deploringly:RB
+deprave:bigaarna:NN
+depraved:maskh shuda:VBN
+depravedly:depravedly:RB
+deprecate:deprecate:NN
+depress:jhukana:NN
+depressed:udaas:JJ
+depressing:mayoosi:VBG
+depressingly:depressingly:RB
+depression:zehni dabao:NN
+depressions:kasaad bazari:NNS
+deprive:mahroom:NN
+deprived:mahroom:VBN
+deride:hansi urana:NN
+derision:اپہاس:NN
+derisive:maazi:NN
+derisively:derisively:RB
+derisiveness:derisiveness:NN
+derogatory:tauheen aamaiz:NN
+desecrate:اپویترا:NN
+desert:sehraa:NN
+desertion:تبتیاگ:NN
+desiccate:suhana:NN
+desiccated:desiccated:VBN
+desititute:desititute:NN
+desolate:ujaarr:NN
+desolately:desolately:RB
+desolation:ujaarr:NN
+despair:mayoosi:NN
+despairing:mayoos:VBG
+despairingly:ایوسی:RB
+desperate:mayoos:NN
+desperately:shiddat:RB
+desperation:mayoosi:NN
+despicable:neech:JJ
+despicably:despicably:RB
+despise:nafrat:NN
+despised:تچرچھ:VBN
+despoil:lootna:NN
+despoiler:despoiler:NN
+despondence:despondence:NN
+despondency:afsurdagi:NN
+despondent:dil shakista:NN
+despondently:despondently:RB
+despot:Tanashah:NN
+despotic:نرنکش:JJ
+despotism:mutlaq alananit:NN
+destabilisation:Adam istehkaam:NN
+destains:destains:NNS
+destitute:ghareeb:NN
+destitution:muflisi:NN
+destroy:tabah:NN
+destroyer:naash:NN
+destruction:tabahi:NN
+destructive:tabah kin:NN
+desultory:اسمبدق:NN
+deter:rok:NN
+deteriorate:kharab:NN
+deteriorating:bgrhti hui:VBG
+deterioration:bigaar:NN
+deterrent:Ibrat:NN
+detest:nafrat:NN
+detestable:makrooh:JJ
+detestably:detestably:RB
+detested:kitney zalim aur:VBN
+detesting:nafrat:VBG
+detests:ghinn khata hai:NNS
+detract:kami:NN
+detracted:detracted:VBN
+detracting:hai detracting:VBG
+detraction:detraction hai:NN
+detracts:itna hi kam:NNS
+detriment:nuqsaan:NN
+detrimental:nuqsaan da:NN
+devastate:ujarna:NN
+devastated:tabah:VBN
+devastates:devastates:NNS
+devastating:tabah kin:VBG
+devastatingly:devastatingly:RB
+devastation:tabahi:NN
+deviate:inhiraf:NN
+deviation:inhiraf:NN
+devil:shetan:NN
+devilish:shaytani:NN
+devilishly:devilishly:RB
+devilment:shararat:NN
+devilry:devilry:NN
+devious:کپٹی:JJ
+deviously:deviously:RB
+deviousness:rok satke:NN
+devoid:mubara:NN
+diabolic:پیشاچک:NN
+diabolical:shaytani:JJ
+diabolically:diabolically:RB
+diametrically:bilkul:RB
+diappointed:diappointed:VBN
+diatribe:tanqeed:NN
+diatribes:diatribes:NNS
+dick:duck:NN
+dictator:Amir:NN
+dictatorial:aamranah:NN
+die:mar:NN
+die-hard:mushkil se marna:NN
+died:mar gaya:VBD
+dies:faut ho jaye:NNS
+difficult:mushkil:JJ
+difficulties:mushkilaat:NNS
+difficulty:mushkil:NN
+diffidence:diffidence hai:NN
+dilapidated:khasta:VBN
+dilemma:mashkook:NN
+dilly-dally:dilly karna:RB
+dim:dheema:NN
+dimmer:dimmer ke:NN
+din:Aldeen:NN
+ding:dang:VBG
+dings:dings ke:NNS
+dinky:ڈنکی:NN
+dire:sangeen:NN
+direly:ashad:RB
+direness:direness:NN
+dirt:matti:NN
+dirtbag:dirtbag ki:NN
+dirtbags:dirtbags:NNS
+dirts:dirts:NNS
+dirty:gandi:NN
+disable:ghair fa-aal:JJ
+disabled:mazoor:JJ
+disaccord:disaccord:NN
+disadvantage:nuqsaan:NN
+disadvantaged:pasmandah:VBN
+disadvantageous:zarrar rasan:JJ
+disadvantages:nuqsanaat:NNS
+disaffect:disaffect:NN
+disaffected:baigane:VBN
+disaffirm:disaffirm:NN
+disagree:ikhtilaaf:NN
+disagreeable:na pasandeeda:JJ
+disagreeably:disagreeably:RB
+disagreed:ikhtilaaf:NN
+disagreeing:mutfiq:VBG
+disagreement:ikhtilaaf:NN
+disagrees:ittafaq:NNS
+disallow:ijazat:NN
+disapointed:disapointed:VBN
+disapointing:disapointing:VBG
+disapointment:disapointment:NN
+disappoint:mayoos:NN
+disappointed:mayoos:JJ
+disappointing:mayoos kin:VBG
+disappointingly:disappointingly:RB
+disappointment:mayoosi:NN
+disappointments:نراشاوں:NNS
+disappoints:na umeed:NNS
+disapprobation:ناپسندگی:NN
+disapproval:na pasandeedgi:NN
+disapprove:napasand:NN
+disapproving:disapproving raha:VBG
+disarm:ghair musallah:NN
+disarray:garbar:NN
+disaster:aafat:NN
+disasterous:disasterous:JJ
+disastrous:tabah kin:JJ
+disastrously:disastrously:RB
+disavow:mkrna:NN
+disavowal:disavowal:NN
+disbelief:kufar:NN
+disbelieve:kufar:NN
+disbeliever:kafir:NN
+disclaim:inkaar karna:NN
+discombobulate:se discombobulate:NN
+discomfit:haraana:NN
+discomfititure:discomfititure:NN
+discomfort:takleef:NN
+discompose:ویاکل karna:NN
+disconcert:bigaarna:NN
+disconcerted:pareshan:VBN
+disconcerting:tashweesh-naak:VBG
+disconcertingly:disconcertingly:RB
+disconsolate:disconsolate:NN
+disconsolately:disconsolately:RB
+disconsolation:disconsolation:NN
+discontent:Adam itminan:NN
+discontented:Adam itminan:VBN
+discontentedly:discontentedly:RB
+discontinued:band:VBN
+discontinuity:inqita:NN
+discontinuous:se discontinuous:JJ
+discord:ikhtilaaf:NN
+discordance:discordance:NN
+discordant:بیطال:NN
+discountenance:اسمتی:NN
+discourage:ki hosla shikni:NN
+discouragement:discouragement hai:NN
+discouraging:hosla shikni:VBG
+discouragingly:discouragingly:RB
+discourteous:اسبی:JJ
+discourteously:discourteously:RB
+discoutinous:discoutinous:JJ
+discredit:badnaam:NN
+discrepant:discrepant:NN
+discriminate:imtiazi sulooq:NN
+discrimination:imtiazi sulooq:NN
+discriminatory:imtiazi:NN
+disdain:nafrat:NN
+disdained:zillat:VBN
+disdainful:taqqabur:NN
+disdainfully:disdainfully ka:RB
+disfavor:disfavor:NN
+disgrace:zillat:NN
+disgraced:badnaam:VBN
+disgraceful:sharamnaak:NN
+disgracefully:disgracefully:RB
+disgruntle:disgruntle:NN
+disgruntled:mutmaen:VBN
+disgust:nafrat:NN
+disgusted:mutma_en:VBN
+disgustedly:disgustedly:RB
+disgustful:disgustful:NN
+disgustfully:disgustfully:RB
+disgusting:nafrat:VBG
+disgustingly:disgustingly:RB
+dishearten:dishearten:NN
+disheartening:hosla shikan:VBG
+dishearteningly:dishearteningly:RB
+dishonest:بیئمان:NN
+dishonestly:bddyanti:RB
+dishonesty:بیئمانی:NN
+dishonor:zillat:NN
+dishonorable:لججاجنک:JJ
+dishonorablely:dishonorablely:RB
+disillusion:موہبنگ:NN
+disillusioned:موہبنگ:VBN
+disillusionment:موہبنگ:NN
+disillusions:disillusions:NNS
+disinclination:انچرچھا:NN
+disinclined:انچرچھک:VBN
+disingenuous:کپٹی:JJ
+disingenuously:disingenuously:RB
+disintegrate:tukre tukre:NN
+disintegrated:وکھنڈت:VBN
+disintegrates:tahleel:NNS
+disintegration:ویگھٹن:NN
+disinterest:Adam dilchaspi:NN
+disinterested:اداسین:VBN
+dislike:na pasandeedgi:NN
+disliked:napasand:NNS
+dislikes:napasand karta hai:NNS
+disliking:کوناپسند:VBG
+dislocated:haddi اھڑ gayi hai:VBN
+disloyal:baawafa:NN
+disloyalty:bewafaai:NN
+dismal:mayoos kin:NN
+dismally:afsoosnaak hadd taq:RB
+dismalness:dismalness:NN
+dismay:mayoosi:NN
+dismayed:nirasha:NN
+dismaying:baais:VBG
+dismayingly:dismayingly:RB
+dismissive:inkaar:NN
+dismissively:dismissively:RB
+disobedience:nafarmani:NN
+disobedient:nafarman:NN
+disobey:nafarmani:NN
+disoobedient:disoobedient:NN
+disorder:kharabi ki shikayat:NN
+disordered:کوطرح:VBN
+disorderly:اویوستیت:RB
+disorganized:اویوستیت:VBN
+disorient:gumraah:NN
+disoriented:disoriented kya:VBN
+disown:inkaar:NN
+disparage:hattak:NN
+disparaging:ihaanat aamaiz:VBG
+disparagingly:ko disparagingly:RB
+dispensable:par dispensable:JJ
+dispirit:udaas karna:NN
+dispirited:اداسین:VBN
+dispiritedly:dispiritedly:RB
+dispiriting:mayoos kin:VBG
+displaced:be ghar:VBN
+displease:naraaz:NN
+displeased:naraaz:JJ
+displeasing:napasand:VBG
+displeasure:narazgi:NN
+disproportionate:ghair mutanasib:NN
+disprove:lasn thehrana:NN
+disputable:mutanazia:JJ
+dispute:tanaza:NN
+disputed:mutanazia:VBN
+disquiet:pareshan:NN
+disquieting:ulajh:VBG
+disquietingly:disquietingly:RB
+disquietude:becheni:NN
+disregard:nazar andaz:NN
+disregardful:disregardful:NN
+disreputable:لججاجنک:JJ
+disrepute:badnami:NN
+disrespect:tauheen:NN
+disrespectable:disrespectable:JJ
+disrespectablity:disrespectablity:NN
+disrespectful:اسبی:NN
+disrespectfully:disrespectfully:RB
+disrespectfulness:disrespectfulness:NN
+disrespecting:انادر:VBG
+disrupt:mein khlal:NN
+disruption:rukawat:NN
+disruptive:ویگھٹنکاری:NN
+diss:se diss:NN
+dissapointed:dissapointed:VBN
+dissappointed:dissappointed:VBN
+dissappointing:dissappointing:VBG
+dissatisfaction:Adam itminan:NN
+dissatisfactory:dissatisfactory:NN
+dissatisfied:mutmaen:JJ
+dissatisfies:dissatisfies:NNS
+dissatisfy:dissatisfy:NN
+dissatisfying:dissatisfying:VBG
+dissed:dissed:VBN
+dissemble:hai dissemble:JJ
+dissembler:کپٹی:NN
+dissension:jhagra:NN
+dissent:ikhtilaaf raye:NN
+dissenter:dissenter:NN
+dissention:dissention:NN
+disservice:nuqsaan:NN
+disses:disses:NNS
+dissidence:اسنتوش:NN
+dissident:baaghi:NN
+dissidents:mukhalfin:NNS
+dissing:dissing:VBG
+dissocial:dissocial:NN
+dissolute:dissolute:NN
+dissolution:tahleel:NN
+dissonance:dissonance ke:NN
+dissonant:کرکش:NN
+dissonantly:dissonantly:RB
+dissuade:rok:NN
+dissuasive:dissuasive:NN
+distains:distains:NNS
+distaste:be zaari:NN
+distasteful:bad mazah:NN
+distastefully:distastefully:RB
+distort:bigaarna:NN
+distorted:tahreef:VBN
+distortion:maskh:NN
+distorts:maskh:NNS
+distract:mashgool:NN
+distracting:pareshan:VBG
+distraction:tabahi:NN
+distraught:pareshan:NN
+distraughtly:distraughtly:RB
+distraughtness:distraughtness:NN
+distress:takleef:NN
+distressed:pareshan:JJ
+distressing:pareshan kin:VBG
+distressingly:tashweesh naak baat:RB
+distrust:bad itmadi:NN
+distrustful:bud zan:NN
+distrusting:distrusting:VBG
+disturb:pareshan:NN
+disturbance:rukawat:NN
+disturbed:pareshan:NN
+disturbing:pareshan:VBG
+disturbingly:pareshan kin:RB
+disunity:na ittifaqi:NN
+disvalue:disvalue:NN
+divergent:mukhtalif:NN
+divisive:taqseem:NN
+divisively:divisively:RB
+divisiveness:darare:NN
+dizzing:dizzing:VBG
+dizzingly:dizzingly:RB
+dizzy:chakkar:NN
+doddering:doddering:VBG
+dodgey:dodgey:NN
+dogged:ghiri:VBN
+doggedly:doggedly:RB
+dogmatic:kattar:JJ
+doldrums:udasi:NNS
+domineer:atyachar karna:NN
+domineering:dabang:VBG
+donside:donside:NN
+doom:azaab:NN
+doomed:barbaad:VBN
+doomsday:پرلی ka din:NN
+dope:doop:NN
+doubt:shak:NN
+doubtful:mashkook:NN
+doubtfully:doubtfully:RB
+doubts:shukook o shubhat:NNS
+douchbag:douchbag:NN
+douchebag:mein douchebag:NN
+douchebags:mein douchebags:NNS
+downbeat:par downbeat:NN
+downcast:udaas:NN
+downer:downer:NN
+downfall:khatmay:NN
+downfallen:downfallen:NN
+downgrade:ghata:NN
+downhearted:downhearted:VBN
+downheartedly:downheartedly:RB
+downhill:ڈاؤنہل:NN
+downside:manfi pehlu:NN
+downsides:downsides mein:NNS
+downturn:bohraan:NN
+downturns:bhrani:NNS
+drab:matyala:NN
+draconian:kalay:JJ
+draconic:draconic:NN
+drag:drig:NN
+dragged:ghaseet:VBD
+dragging:ghaseetnay:VBG
+dragoon:dragoon:NN
+drags:khech laita:NNS
+drain:naali:NN
+drained:سوھا:VBN
+draining:draining ke:VBG
+drains:naalon:NNS
+drastic:sakht:JJ
+drastically:barri taizi se:RB
+drawback:wapsi:NN
+drawbacks:kharabion:NNS
+dread:khauf:NN
+dreadful:khofnaak:NN
+dreadfully:dreadfully:RB
+dreadfulness:dreadfulness:NN
+dreary:udaas:JJ
+dripped:dripped:NN
+dripping:ٹپکاو:VBG
+drippy:drippy:JJ
+drips:drips ke:NNS
+drones:drone:NNS
+droop:droop ki:NN
+droops:droops:NNS
+drop-out:bahar chore:NN
+drop-outs:oot drop:NNS
+dropout:bahar chore:NN
+dropouts:drop out:NNS
+drought:khushk:NN
+drowning:doobnay:VBG
+drunk:nashay:NN
+drunkard:sharaabii:NN
+drunken:sharaabii:NN
+dubious:mashkook:JJ
+dubiously:dubiously:RB
+dubitable:dubitable:JJ
+dud:virt:NN
+dull:sust:NN
+dullard:dullard:NN
+duffer:jahil:NN
+dumb:goonga:NN
+dumbfound:dumbfound:NN
+dump:dmp:NN
+dumped:pheink:NNS
+dumping:dmpng:VBG
+dumps:dheron:NNS
+dunce:مورھ:NN
+dungeon:تہھانے:NN
+dungeons:dungeons aur:NNS
+dupe:shikaar:NN
+dust:matti:NN
+dusty:dhool:NN
+dwindling:kami:VBG
+dying:mar:VBG
+earsplitting:earsplitting:VBG
+eccentric:sanki:JJ
+eccentricity:eccentricity ke:NN
+effigy:patla:NN
+effrontery:effrontery:NN
+egocentric:anaa parast:NN
+egomania:egomania:NN
+egotism:اہنکار:NN
+egotistical:egotistical:JJ
+egotistically:khud gharzi:RB
+egregious:پربل:JJ
+egregiously:egregiously:RB
+election-rigger:intikhabi rigger:NN
+elimination:khatmay:NN
+emaciated:lagar:VBN
+emasculate:Baddia:NN
+embarrass:pareshan:NN
+embarrassing:sharamnaak:VBG
+embarrassingly:sharamnaak:RB
+embarrassment:sharmindagi:NN
+embattled:brsrpikar:VBN
+embroil:embroil:NN
+embroiled:ulajhney:VBN
+embroilment:garbar:NN
+emergency:emergency:NN
+emphatic:zordar:JJ
+emphatically:zor:RB
+emptiness:ھالیپن:NN
+encroach:tajawaz:NN
+encroachment:tjavzat:NN
+endanger:khatray mein daal:NN
+enemies:dushmanon:NNS
+enemy:dushman:NN
+enervate:kamzor:NN
+enfeeble:enfeeble:JJ
+enflame:enflame:NN
+engulf:harap:NN
+enjoin:hukum:NN
+enmity:dushmani:NN
+enrage:gussa:NN
+enraged:gussa:VBN
+enraging:gussa dila:VBG
+enslave:ghulam:VB
+entangle:mubtala:NN
+entanglement:uljhao:NN
+entrap:فںسانے:NN
+entrapment:entrapment ki:NN
+envious:rashk:JJ
+enviously:enviously:RB
+enviousness:enviousness:NN
+epidemic:مہاماری:JJ
+equivocal:equivocal ki:JJ
+erase:mitanay:NN
+erode:tabah:NN
+erodes:ko erodes:NNS
+erosion:کشرن:NN
+err:ارر:NN
+errant:gumraah:NN
+erratic:انیدوست:JJ
+erratically:erratically:RB
+erroneous:ghalat:JJ
+erroneously:ghalti se:RB
+error:ghalti:NN
+errors:ghalatiyan:NNS
+eruptions:eruptions ke:NNS
+escapade:shararat:NN
+eschew:zaya:NN
+estranged:allag allag:VBN
+evade:se bachney:NN
+evasion:chori:NN
+evasive:کپٹپورن:JJ
+evil:buraiee:NN
+evildoer:fajir aur gunah gaar:NN
+evils:buraiyon:NNS
+eviscerate:eviscerate:NN
+exacerbate:kharab:NN
+exagerate:exagerate:NN
+exagerated:exagerated:VBN
+exagerates:exagerates:NNS
+exaggerate:mubaligha aarai:NN
+exaggeration:mubaligha:NN
+exasperate:exasperate ke:NN
+exasperated:ہتاش:VBN
+exasperating:exasperating:VBG
+exasperatingly:exasperatingly:RB
+exasperation:gussa:NN
+excessive:zaroorat se ziyada:JJ
+excessively:zaroorat se ziyada:RB
+exclusion:ikhraj:NN
+excoriate:excoriate:NN
+excruciating:shadeed takleef da:VBG
+excruciatingly:excruciatingly:RB
+excuse:bahana:NN
+excuses:bahanay:NNS
+execrate:kosna:NN
+exhaust:rasta:NN
+exhausted:khatam:VBN
+exhaustion:thakan:NN
+exhausts:aygzast:NNS
+exhorbitant:exhorbitant:NN
+exhort:nasiyaat:NN
+exile:jala watni:NN
+exorbitant:hadd se ziyada:NN
+exorbitantance:exorbitantance:NN
+exorbitantly:exorbitantly:RB
+expel:be dakhal:NN
+expensive:mehngi:JJ
+expire:meyaad khatam:NN
+expired:meyaad khatam:VBD
+explode:dhamakay:NN
+exploit:istehsal:NN
+exploitation:istehsal:NN
+explosive:dhamaka khaiz mawaad:JJ
+expropriate:زبت:NN
+expropriation:expropriation ke:NN
+expulse:expulse:RB
+expunge:hazf:NN
+exterminate:khatam:NN
+extermination:qatal:NN
+extinguish:bujha:JJ
+extort:بٹورتے:NN
+extortion:bhatta khori:NN
+extraneous:bairooni:JJ
+extravagance:israaf:NN
+extravagant:israaf:NN
+extravagantly:fuzool kharchi:RB
+extremism:intiha pasandi:NN
+extremist:intahaa pasand:NN
+extremists:ant_hapsndon:NNS
+eyesore:eyesore:NN
+f**k:f * * * k:NN
+fabricate:taamer:NN
+fabrication:taamer:NN
+facetious:facetious:JJ
+facetiously:پرہاس:RB
+fail:nakaam:NN
+failed:nakaam:VBD
+failing:nakami:VBG
+fails:nakaam ho jata hai:NNS
+failure:nakami:NN
+failures:nakami:NNS
+faint:behosh:NN
+fainthearted:fainthearted:VBN
+faithless:baawafa:NN
+fake:jaali:NN
+fall:gir:NN
+fallacies:fraib:NNS
+fallacious:ghalat:JJ
+fallaciously:fallaciously:RB
+fallaciousness:fallaciousness:NN
+fallacy:ہیتواباس:NN
+fallen:gir:VBN
+falling:girnay:VBG
+fallout:asraat:NN
+falls:falls:NNS
+false:jhutay:JJ
+falsehood:jhoot:NN
+falsely:jhoota:RB
+falsify:jutlana:NN
+falter:haklana:NN
+faltered:dhair:VBN
+famine:qeht:NN
+famished:bhooka:VBN
+fanatic:junooni:JJ
+fanatical:junooni:JJ
+fanatically:fanatically:RB
+fanaticism:junoon:NN
+fanatics:junooni:NNS
+fanciful:ghair haqeeqi:JJ
+far-fetched:daur dlwaya:JJ
+farce:swaangh:NN
+farcical:mazhaka khaiz:JJ
+farcical-yet-provocative:mazhaka خیز-اشتعال angaiz abhi taq:JJ
+farcically:farcically:RB
+farfetched:baeed:VBN
+fascism:fashzm:NN
+fascist:fashst:NN
+fastidious:mein fastidious:JJ
+fastidiously:fastidiously:RB
+fastuous:fastuous:JJ
+fat:charbi:NN
+fat-cat:charbi billi:NN
+fat-cats:charbi billiyon:NNS
+fatal:mohlik:NN
+fatalistic:mohlik:JJ
+fatalistically:fatalistically:RB
+fatally:buri terhan:RB
+fatcat:fatcat:NN
+fatcats:fatcats:NNS
+fateful:ahem:NN
+fatefully:fatefully:RB
+fathomless:fathomless:NN
+fatigue:thakawat:NN
+fatigued:thaka:VBN
+fatique:fatique:NN
+fatty:fatty:NN
+fatuity:fatuity:NN
+fatuous:مورھ:JJ
+fatuously:fatuously:RB
+fault:ghalti:NN
+faults:gunah:NNS
+faulty:naaqis:NN
+fawningly:fawningly:RB
+faze:faze is:NN
+fear:khauf:NN
+fearful:khaufzadah:NN
+fearfully:Jalali:RB
+fears:khauf:NNS
+fearsome:daraona:NN
+feckless:شکتہین:NN
+feeble:kamzor:JJ
+feeblely:feeblely:RB
+feebleminded:feebleminded:VBN
+feign:bahana:NN
+feint:feint ki:NN
+fell:gir:VBD
+felon:mujrim:NN
+felonious:felonious:JJ
+ferociously:ferociously:RB
+ferocity:بینکرتا:NN
+fetid:fetid:NN
+fever:bukhaar:NN
+feverish:اتیجیت:JJ
+fevers:bukhaar:NNS
+fiasco:nakami:NN
+fib:fib:NN
+fibber:fibber:NN
+fickle:chanchal:NN
+fiction:fiction:NN
+fictional:ghair haqeeqi:JJ
+fictitious:farzi:JJ
+fidget:fidget ke:NN
+fidgety:ادیر:NN
+fiend:preet:NN
+fiendish:پیشاچک:JJ
+fierce:shadeed:NN
+figurehead:hesiyat:NN
+filth:gandagi:NN
+filthy:gandi:NN
+finagle:finagle:NN
+finicky:mein finicky:NN
+fissures:درارے noon:NNS
+fist:muthi:NN
+flabbergast:flabbergast:NN
+flabbergasted:flabbergasted:VBN
+flagging:halaat sudharnay:VBG
+flagrant:khuli:NN
+flagrantly:flagrantly:RB
+flair:ravani:NN
+flairs:flairs:NNS
+flak:tashkeel:NN
+flake:flake ki:NN
+flakey:flakey:NN
+flakieness:flakieness:NN
+flaking:flaking ke:VBG
+flaky:فلیکی:NN
+flare:bharak uthna:NN
+flares:mashalen:NNS
+flareup:آگبگولہ:NN
+flareups:flareups:NNS
+flat-out:flat ke bahar:NN
+flaunt:shaan dikhnana:NN
+flaw:dosh:NN
+flawed:naaqis:VBN
+flaws:khamion:NNS
+flee:bhaag:NN
+fleed:fleed:NN
+fleeing:faraar:VBG
+fleer:اپہاس:NN
+flees:bhaag:NNS
+fleeting:کشنبنگر:NN
+flicering:flicering:VBG
+flicker:ٹمٹماہٹ:NN
+flickering:flickering ke:VBG
+flickers:flickers ke:NNS
+flighty:chanchal:NN
+flimflam:flimflam:NN
+flimsy:kamzor:NN
+flirt:اشکبازی:NN
+flirty:dil pheink:NN
+floored:chorney ke nateejay:VBN
+flounder:فلاؤنڈر:NN
+floundering:floundering:VBG
+flout:اوشتھا:NN
+fluster:گھبڑانا:NN
+foe:dushman:NN
+fool:بیوکوف:NN
+fooled:بیوکوف bana diya:VBN
+foolhardy:foolhardy:NN
+foolish:be waqoof:JJ
+foolishly:bewakofi:RB
+foolishness:hamaqat:NN
+forbid:mana:NN
+forbidden:haraam:NN
+forbidden:haram:NN
+forbidding:mana:VBG
+forceful:zabardasti:NN
+foreboding:foreboding ke:VBG
+forebodingly:forebodingly:RB
+forfeit:haar:NN
+forged:jaali:VBN
+forgetful:bhoolnay wala:NN
+forgetfully:bhool:RB
+forgetfulness:bhool:NN
+forlorn:udaas:NN
+forlornly:forlornly:RB
+forsake:tark:NN
+forsaken:tark:NN
+forswear:jaane se qisam khalin:NN
+foul:ganday:NN
+foully:foully:RB
+foulness:foulness:NN
+fractious:taqseem:JJ
+fractiously:fractiously:RB
+fracture:fracture:NN
+fragile:naazuk:NN
+fragmented:bhikri:VBN
+frail:kamzor:NN
+frantic:majnu:JJ
+frantically:badhawasi:RB
+franticly:franticly:NN
+fraud:dhoka dahi:NN
+fraudulent:dhoka dahi:NN
+fraught:bhara:NN
+frazzle:frazzle:NN
+frazzled:frazzled:VBN
+freak:pagal:NN
+freaking:pagal:VBG
+freakish:freakish:JJ
+freakishly:freakishly:RB
+freaks:shetan:NNS
+freeze:munjamad:NN
+freezes:jim:NNS
+freezing:munjamad:VBG
+frenetic:kattar:JJ
+frenetically:frenetically:RB
+frenzied:junooni:VBN
+frenzy:انماد:NN
+fret:karhna:NN
+fretful:ghabra uthta:NN
+frets:frets ke:NNS
+friction:ragar:NN
+frictions:frictions ke:NNS
+fried:tali hui:VBN
+friggin:friggin ke:NN
+frigging:frigging:VBG
+fright:dar:NN
+frighten:khaufzadah:NNS
+frightening:khofnaak:VBG
+frighteningly:frighteningly:RB
+frightful:daraona:NN
+frightfully:holnaak:RB
+frigid:munjamad:NN
+frost:thand:NN
+frown:برانبنگ:NN
+froze:munjamad:NN
+frozen:munjamad:NNS
+fruitless:فلہین:NN
+fruitlessly:fruitlessly:RB
+frustrate:aajiz:NN
+frustrated:mayoos:VBN
+frustrates:frustrates karne:NNS
+frustrating:nirasha:VBG
+frustratingly:mayoosi:RB
+frustration:mayoosi:NN
+frustrations:mehroomion:NNS
+fuck:bhaar mein jao:NN
+fucking:, utaarna fucking:VBG
+fudge:fudge ki:NN
+fugitive:mafroor:JJ
+full-blown:mukammal tabah kar diya gaya:JJ
+fulminate:fulminate:NN
+fumble:tatolna:JJ
+fume:دوآن:NN
+fumes:dhowen:NNS
+fundamentalism:bunyaad parasti:NN
+funky:funky:NN
+funnily:se funnily:RB
+funny:mazhaka khaiz:NN
+furious:ghusse:JJ
+furiously:taiz taiz:RB
+furor:iztiraab peda honay:NN
+fury:gussa:NN
+fuss:اپددر:NN
+fussy:aur fussy:NN
+fustigate:fustigate:NN
+fusty:fusty:NN
+futile:bekar:NN
+futilely:futilely:RB
+futility:نررتکتا:NN
+fuzzy:فجی:NN
+gabble:barbarana:JJ
+gaff:gaff:NN
+gaffe:be tukki harkat:NN
+gainsay:mukhalfat karna:NN
+gainsayer:gainsayer:NN
+gall:patt:NN
+galling:par galling:VBG
+gallingly:gallingly:RB
+galls:galls:NNS
+gangster:gingstr:NN
+gape:فاڑنا:NN
+garbage:raddi ki tokri:NN
+garish:دکھاوٹی:NN
+gasp:ہاںفتے:NN
+gauche:بددا:NN
+gaudy:بڑکیلا:NN
+gawk:gawk:NN
+gawky:sharmeela:NN
+geezer:boorha:NN
+genocide:nasal kashi:NN
+get-rich:haasil Ameer:JJ
+ghastly:khofnaak:RB
+ghetto:گھیٹو:NN
+ghosting:aur ghosting:VBG
+gibber:bar bar:NN
+gibberish:ghair wazeh:NN
+gibe:اپہاس:NN
+giddy:chakkar:NN
+gimmick:notnki:NN
+gimmicked:gimmicked:NNS
+gimmicking:gimmicking:VBG
+gimmicks:chalon:NNS
+gimmicky:تزویری:NN
+glare:chkachond:NN
+glaringly:glaringly:RB
+glib:glib:NN
+glibly:چیکنائی:RB
+glitch:kharabi:NN
+glitches:glitches ke:NNS
+gloatingly:gloatingly:RB
+gloom:udasi:NN
+gloomy:udaas:NN
+glower:ki glower:NN
+glum:udaas:NN
+glut:برمار:NN
+gnawing:gnawing ki:NN
+goad:انکش:NN
+goading:goading:VBG
+god-awful:khuda khofnaak:JJ
+god's wrath:lanat:NN
+goof:مورھ:NN
+goofy:مورھ:NN
+goon:ganndi:NN
+gossip:gup ship:NN
+graceless:par graceless:NN
+gracelessly:gracelessly:RB
+graft:گرافٹ:NN
+grainy:danay daar:NN
+grapple:nimatnay:NN
+grate:ghusna:NN
+grating:jangla:VBG
+gravely:shadeed:RB
+greasy:چیکنا:NN
+greed:lalach:NN
+greedy:laalchi:NN
+grief:gham:NN
+grievance:shikayat:NN
+grievances:shikayaat:NNS
+grieve:gham:NN
+grieving:ghumzdaa:VBG
+grievous:dard naak:JJ
+grievously:shadeed:RB
+grim:sangeen:NN
+grimace:mun banana:NN
+grind:peesna:NN
+gripe:gripe hai:NN
+gripes:gripes ke:NNS
+grisly:اختٹ:RB
+gritty:kirkira:NN
+gross:majmoi:JJ
+grossly:bhaari:RB
+grotesque:ولکشن:NN
+grouch:barbarana:JJ
+grouchy:grouchy:NN
+groundless:be bunyaad:NN
+grouse:shikayat:NN
+growl:garajna:NN
+grudge:shikayat:NN
+grudges:shikayat:NNS
+grudging:jalan:VBG
+grudgingly:انچرچھا:RB
+gruesome:larzah khaiz:NN
+gruesomely:gruesomely:RB
+gruff:کرکش:NN
+grumble:بنبنانا:JJ
+grumpier:grumpier:NN
+grumpiest:grumpiest:NN
+grumpily:grumpily:RB
+grumpish:grumpish:NN
+grumpy:badmizaaj:NN
+guile:fraib:NN
+guilt:jurm:NN
+guiltily:mujrim:RB
+guilty:mujrim:JJ
+gullible:saada looh:JJ
+gutless:gutless:NN
+gutter:gtr:NN
+hack:hik:NN
+hacks:naqal:NNS
+haggard:haggard:NN
+haggle:soda:NN
+hairloss:hairloss:NN
+halfhearted:halfhearted:VBN
+halfheartedly:halfheartedly:RB
+hallucinate:برانت:NN
+hallucination:haziyan:NN
+hamper:rukawat:NN
+hampered:mutasir:VBN
+handicapped:mazoor:NNS
+hang:hang:NN
+hangs:lataki hui hai:NNS
+haphazard:اویوستیت:NN
+hapless:اباگی:NN
+harangue:taqreer:NN
+harass:harasan:NN
+harassed:harasan:VBN
+harasses:pareshan:NNS
+harassment:harasan:NN
+harboring:panah:VBG
+harbors:bandar gahon:NNS
+hard:mushkil:JJ
+hard-hit:mutasirah:NN
+hard-line:sakht geer:NN
+hard-liner:hard لائنر:NN
+hardball:mein hardball:NN
+harden:kathor:NN
+hardened:sakht:VBN
+hardheaded:hardheaded:VBD
+hardhearted:hardhearted:VBN
+hardliner:کٹرپنتی:NN
+hardliners:sakht geer:NNS
+hardship:mushkilaat:NN
+hardships:mushkilaat:NNS
+harm:nuqsaan:NN
+harmed:nuqsaan:VBN
+harmful:nuqsaan da:NN
+harms:nuqsaan pohanchana:NNS
+harpy:harpy:NN
+harridan:harridan:NN
+harried:pareshan:VBN
+harsh:sakht:NN
+harshly:sakhti:RB
+hasseling:hasseling:VBG
+hassle:pareshani:NN
+hassled:pareshan:VBN
+hassles:hassles ke:NNS
+haste:jaldi:NN
+hastily:ujlat mein:RB
+hasty:jldbazi:NN
+hate:nafrat:NN
+hated:nafrat:VBN
+hateful:nafrat:NN
+hatefully:nafrat:RB
+hatefulness:hatefulness:NN
+hater:dushman:NN
+haters:nafrat karne walay:NNS
+hates:nafrat:NNS
+hating:nafrat:VBG
+hatred:nafrat:VBN
+haughtily:taqqabur:RB
+haughty:ghamandi:NN
+haunt:pareshan:NN
+haunting:bhotya:VBG
+havoc:tabahi:NN
+hawkish:aqaabi:NN
+haywire:baggar:NN
+hazard:khatrah:NN
+hazardous:muzir:JJ
+haze:دوبد:NN
+hazy:pyar:NN
+head-aches:sir mein dard:NNS
+headache:sar dar:NN
+headaches:sir dard:NNS
+heartbreaker:heartbreaker ki:NN
+heartbreaking:dil:VBG
+heartbreakingly:heartbreakingly:RB
+heartless:sangdil:NN
+heathen:بتپرست:NN
+heavy-handed:bhaari haath:JJ
+heavyhearted:heavyhearted:VBN
+heck:kya heck:NN
+heckle:heckle:NN
+heckled:heckled kya:VBN
+heckles:heckles:NNS
+hectic:masroof:JJ
+hedge:hadge:NN
+hedonistic:hedonistic:JJ
+heedless:ghaafil:NN
+hefty:bhaari:NN
+hegemonism:hegemonism:NN
+hegemonistic:hegemonistic:JJ
+hegemony:qayadat:NN
+heinous:جگھنی:JJ
+hell:jahannum:NN
+hell-bent:jahannum muri hui:NN
+hellion:hellion:NN
+hells:jahannum:NNS
+helpless:majaboor:NN
+helplessly:be basi:RB
+helplessness:be basi:NN
+heresy:پاننڈ:NN
+heretic:ودرمی:JJ
+heretical:bidatti:JJ
+hesitant:hchkcha:NN
+hestitant:hestitant:NN
+hideous:banker:JJ
+hideously:hideously:RB
+hideousness:hideousness:NN
+high-priced:Alla qeemat:JJ
+hiliarious:hiliarious:JJ
+hinder:ki raah mein rukawat:NN
+hindrance:rukawat:NN
+hiss:سسکارنا:NN
+hissed:hissed:VBN
+hissing:ka hissing:VBG
+ho-hum:ho hum:NN
+hoard:jama:NN
+hoax:jaali:NN
+hobble:langrana:JJ
+hogs:سورؤں:NNS
+hollow:khokhli:NN
+hoodium:hoodium:NN
+hoodwink:dhoka dena:NN
+hooligan:ganndi:NN
+hopeless:آشاہین:NN
+hopelessly:mayusana:RB
+hopelessness:na umeedi:NN
+horde:bheer:NN
+horrendous:holnaak:JJ
+horrendously:horrendously ka:RB
+horrible:khofnaak:JJ
+horrid:banker:NN
+horrific:holnaak:NN
+horrified:khaufzadah:VBN
+horrifies:dhsht zada:NNS
+horrify:darana:NN
+horrifying:holnaak:VBG
+horrifys:horrifys:NN
+hostage:yarghamal:NN
+hostile:mukhalif:NN
+hostilities:dushmani:NNS
+hostility:dushmani:NN
+hotbeds:garh:NNS
+hothead:gumraah:NN
+hotheaded:hotheaded:VBD
+hothouse:hothouse:NN
+hubris:ابمان:NN
+huckster:huckster:NN
+hum:hum:NN
+humid:martoob:NN
+humiliate:tauheen:NN
+humiliating:zillat:VBG
+humiliation:zillat:NN
+humming:gungunaa:VBG
+hung:latka:NN
+hurt:chout:NN
+hurted:hurted:VBN
+hurtful:دھد:NN
+hurting:chout pohanchanay:VBG
+hurts:dard hota hai:NNS
+hustler:ہسلر:NN
+hype:hype ke:NN
+hypocricy:hypocricy:NN
+hypocrisy:nifaq:NN
+hypocrite:munafiq:NN
+hypocrites:munafiq:NNS
+hypocritical:munafiq:JJ
+hypocritically:munafqat:RB
+hysteria:histeria:NN
+hysteric:hysteric:NN
+hysterical:pagal:JJ
+hysterically:pagalon:RB
+hysterics:hysterics:NNS
+idiocies:idiocies:NNS
+idiocy:ke idiocy:NN
+idiot:بیوکوف:NN
+idiotic:مورھتاپورن:JJ
+idiotically:idiotically:RB
+idiots:kaminiye:NNS
+idle:bekar:JJ
+ignoble:اکلین:JJ
+ignominious:sharamnaak:JJ
+ignominiously:zillat ka izafah karkay:RB
+ignominy:badnami:NN
+ignorance:jahalat:NN
+ignorant:jaahil:NN
+ignore:nazar andaaz:NN
+ill-advised:bemaar mahswara diya:JJ
+ill-conceived:soochey samjhay:JJ
+ill-defined:bemaar muqarrar:JJ
+ill-designed:bemaar ke liye design kya:JJ
+ill-fated:budqismat:JJ
+ill-favored:bay dool:JJ
+ill-formed:bemaar qaim:JJ
+ill-mannered:bad tameez:JJ
+ill-natured:bemaar noiyat:JJ
+ill-sorted:bemaar hal:JJ
+ill-tempered:bemaar gussa:JJ
+ill-treated:bemaar ka ilaaj:JJ
+ill-treatment:bdslokyon:NN
+ill-usage:bemaar istemaal:NN
+ill-used:bemaar istemaal:JJ
+illegal:ghair qanooni:JJ
+illegally:ghair qanooni tor par:RB
+illegitimate:zina se peda shuda:NN
+illicit:ghair qanooni:NN
+illiterate:nakhawanda:NN
+illness:bemari:NN
+illogic:illogic:NN
+illogical:ghair mantaqi:JJ
+illogically:illogically:RB
+illusion:badam:NN
+illusions:badam:NNS
+illusory:rakhna be car hai:NN
+imaginary:khayaali:JJ
+imbalance:Adam tawazun:NN
+imbecile:مورھ:NN
+imbroglio:paicheeda sorat e haal:NN
+immaterial:سارہین:JJ
+immature:nadaan:NN
+imminence:anqareeb barpaa honay:NN
+imminently:imminently ko:RB
+immobilized:mustahkam:VBN
+immoderate:immoderate:NN
+immoderately:immoderately:RB
+immodest:اونیت:NN
+immoral:fasik o fajir:JJ
+immorality:bud ikhlaqi:NN
+immorally:zina:RB
+immovable:ghair manqola:JJ
+impair:kharab:NN
+impaired:Basarat ka shikaar:JJ
+impasse:ta-attul:NN
+impatience:ادیرتا:NN
+impatient:ادیر:NN
+impatiently:بیسبری:RB
+impeach:mwakhze:NN
+impedance:مائبادا:NN
+impede:rokna:NN
+impediment:rukawat:NN
+impending:آسنن:VBG
+impenitent:pasheman:NN
+imperfect:namukammal:NN
+imperfection:اپورنتا:NN
+imperfections:imperfections ke:NNS
+imperfectly:imperfectly:RB
+imperialist:samraji:NN
+imperil:khatray mein daalna:NN
+imperious:Shahi:JJ
+imperiously:htin:RB
+impermissible:jaaiz:JJ
+impersonal:اوییکتیک:JJ
+impertinent:darj:NN
+impetuous:پرچنڈ:JJ
+impetuously:impetuously:RB
+impiety:zalim:NN
+impinge:takrana:NN
+impious:nafarman:JJ
+implacable:sangdil:JJ
+implausible:ke implausible:JJ
+implausibly:implausibly:RB
+implicate:فنسانا:NN
+implication:matlab:NN
+implode:implode kar:NN
+impolite:munasib:NN
+impolitely:impolitely:RB
+impolitic:impolitic:JJ
+importunate:importunate:NN
+importune:importune:NN
+impose:musallat:VB
+imposers:imposers:NNS
+imposing:nafiz:VBG
+imposition:nifaz:NN
+impossible:namumkin:JJ
+impossiblity:impossiblity:NN
+impossibly:namumkin:RB
+impotent:namard:NN
+impoverish:ghareeb:JJ
+impoverished:ghareeb:VBN
+impractical:اویوہارک:JJ
+imprecate:kosna:NN
+imprecise:imprecise:NN
+imprecisely:imprecisely:RB
+imprecision:gayi imprecision:NN
+imprison:qaid:NN
+imprisonment:qaid:NN
+improbability:wujood mein aana:NN
+improbable:namumkin:JJ
+improbably:improbably:RB
+improper:na munasib:NN
+improperly:ghalat tareeqay se:RB
+impropriety:ghalti:NN
+imprudence:اویویک:NN
+imprudent:اویویکی:NN
+impudence:درجتا:NN
+impudent:gustaakh:NN
+impudently:impudently:RB
+impugn:aitrazaat:NN
+impulsive:سنوتشیل:JJ
+impulsively:آوتشیل:RB
+impunity:دنڈ se mstsni:NN
+impure:najas:NN
+impurity:najasat:NN
+inability:اسمرتتا:NN
+inaccuracies:ghalti:NNS
+inaccuracy:ghalti:NN
+inaccurate:ghalat:NN
+inaccurately:ghalat:RB
+inaction:نشکریتا:NN
+inactive:ghair fa-aal:JJ
+inadequacy:مجریاپتتا:NN
+inadequate:na kafi:NN
+inadequately:na kafi:RB
+inadverent:inadverent:NN
+inadverently:inadverently:RB
+inadvisable:inadvisable:JJ
+inadvisably:inadvisably:RB
+inane:ehmaqana:NN
+inanely:inanely:RB
+inappropriate:na munasib:NN
+inappropriately:na munasib:RB
+inapt:na ahal:NN
+inaptitude:inaptitude:NN
+inarticulate:inarticulate:NN
+inattentive:اساودان:JJ
+inaudible:اشراوی:JJ
+incapable:aajiz:JJ
+incapably:incapably:RB
+incautious:اساودان:JJ
+incendiary:aag laganay wala:JJ
+incense:Bukhoor:NN
+incessant:musalsal:NN
+incessantly:mutawatar:RB
+incite:mushtael:NN
+incitement:uksanay:NN
+incivility:incivility:NN
+inclement:manfi:NN
+incognizant:incognizant:NN
+incoherence:incoherence:NN
+incoherent:اسمبدق:NN
+incoherently:incoherently:RB
+incommensurate:incommensurate:NN
+incomparable:lajawab:JJ
+incomparably:incomparably:RB
+incompatability:incompatability ki:NN
+incompatibility:Adam mutabqat:NN
+incompatible:mutabqat:JJ
+incompetence:na-ahli:NN
+incompetent:na ahal:NN
+incompetently:incompetently:RB
+incomplete:namukammal:NN
+incompliant:incompliant:NN
+incomprehensible:samajh se bahar:JJ
+incomprehension:kaayenaat:NN
+inconceivable:na qabil yaqeen:JJ
+inconceivably:inconceivably:RB
+incongruous:bay mail:JJ
+incongruously:incongruously:RB
+inconsequent:inconsequent:NN
+inconsequential:mamooli:JJ
+inconsequentially:inconsequentially:RB
+inconsequently:inconsequently:RB
+inconsiderate:اویویکی:NN
+inconsiderately:inconsiderately:RB
+inconsistence:inconsistence:NN
+inconsistencies:inconsistencies ke:NNS
+inconsistency:usooli:NN
+inconsistent:mutazaad:NN
+inconsolable:se inconsolable:JJ
+inconsolably:شکشتہ:RB
+inconstant:mustahkam:NN
+inconvenience:takleef:NN
+inconveniently:inconveniently:RB
+incorrect:ghalat:NN
+incorrectly:ghalat:RB
+incorrigible:اسداری:JJ
+incorrigibly:islaah:RB
+incredulous:se incredulous:JJ
+incredulously:incredulously:RB
+inculcate:peda:NN
+indecency:be hiyai:NN
+indecent:na munasib:NN
+indecently:indecently:RB
+indecision:ke indecision:NN
+indecisive:mashkook mein para:JJ
+indecisively:indecisively:RB
+indecorum:indecorum:NN
+indefensible:اسمرتنیی:JJ
+indelicate:اسبی:NN
+indeterminable:indeterminable:JJ
+indeterminably:indeterminably:RB
+indeterminate:indeterminate:NN
+indifference:be hisi:NN
+indifferent:latalq:NN
+indigent:faqeero:NN
+indignant:روج:NN
+indignantly:gussa:RB
+indignation:gussa:NN
+indignity:tauheen aamaiz rawaiyon:NN
+indiscernible:اپرتیکش:JJ
+indiscreet:indiscreet:NN
+indiscreetly:indiscreetly:RB
+indiscretion:اویویک:NN
+indiscriminate:andha dhund:NN
+indiscriminately:andha dhund:RB
+indiscriminating:indiscriminating:VBG
+indistinguishable:dushwaar:JJ
+indoctrinate:nazriati taleem:NN
+indoctrination:Talqeen:NN
+indolent:آلسی:NN
+indulge:mulawis:NN
+ineffective:ghair mo-asar:JJ
+ineffectively:ineffectively:RB
+ineffectiveness:ineffectiveness ke:NN
+ineffectual:ghair muasar:JJ
+ineffectually:ineffectually:RB
+ineffectualness:ineffectualness:NN
+inefficacious:بیاسر:JJ
+inefficacy:inefficacy:NN
+inefficiency:اکشمتا:NN
+inefficient:ghair fa-aal:NN
+inefficiently:inefficiently:RB
+inelegance:inelegance:NN
+inelegant:ke liye inter dabayen:NN
+ineligible:na ahal:JJ
+ineloquent:ineloquent:NN
+ineloquently:ineloquently:RB
+inept:na ahal:NN
+ineptitude:ایوگیتا:NN
+ineptly:ineptly:RB
+inequalities:اسماتایں:NNS
+inequality:Adam masawaat:NN
+inequitable:munsifana:JJ
+inequitably:inequitably:RB
+inequities:Adam masawaat:NNS
+inescapable:مجرہاری:JJ
+inescapably:inescapably:RB
+inessential:inessential:JJ
+inevitable:na guzeer:JJ
+inevitably:lamhalh:RB
+inexcusable:اکشمی:JJ
+inexcusably:bulaa izr:RB
+inexorable:انمنیی:JJ
+inexorably:inexorably ki:RB
+inexperience:تخبوہیتا:NN
+inexperienced:na tajarba car:JJ
+inexpert:inexpert:NN
+inexpertly:inexpertly:RB
+inexpiable:inexpiable:JJ
+inexplainable:inexplainable:JJ
+inextricable:inextricable:JJ
+inextricably:paicheedgi:RB
+infamous:badnaam:JJ
+infamously:infamously:RB
+infamy:badnami:NN
+infamy:begairat:NN
+infected:mutasirah:VBN
+infection:infection:NN
+infections:infection:NNS
+inferior:kamtar:NN
+inferiority:ہیتا:NN
+infernal:راکشسی:JJ
+infest:hamla:NN
+infested:mutasir:VBN
+infidel:kafir:NN
+infidels:kafiroon:NNS
+infiltrator:rasnay wala:NN
+infiltrators:گھسپیٹھیوں:NNS
+infirm:kamzor:NN
+inflame:پرجولت:NN
+inflammation:soozish:NN
+inflammatory:soozish:NN
+inflammed:inflammed:VBN
+inflated:فلایا:VBN
+inflationary:afraat zar:JJ
+inflexible:انمی:JJ
+inflict:دنڈ:NN
+infraction:khilaaf warzi:NN
+infringe:ki khilaaf warzi:NN
+infringement:ki khilaaf warzi:NN
+infringements:khilaaf:NNS
+infuriate:infuriate:NN
+infuriated:mushtael:VBN
+infuriating:se infuriating:VBG
+infuriatingly:infuriatingly:RB
+inglorious:لججاجنک:JJ
+ingrate:nashukray:NN
+ingratitude:nashukri:NN
+inhibit:rokna:NN
+inhibition:سندمن:NN
+inhospitable:درگم:JJ
+inhospitality:inhospitality:NN
+inhuman:ghiransani:NN
+inhumane:ghiransani:NN
+inhumanity:insaaniyat soaz:NN
+inimical:dushman:JJ
+inimically:inimically:RB
+iniquitous:zaalmon:JJ
+iniquity:gunah:NN
+injudicious:ghair zurori:JJ
+injure:zakhmi:NN
+injurious:nuqsaan da:JJ
+injury:chout:NN
+injustice:na-insafi:NN
+injustices:na ansafyon:NNS
+innuendo:innuendo ne:NN
+inoperable:nakara:JJ
+inopportune:اسامییک:NN
+inordinate:sarkash:NN
+inordinately:zayad-ti:RB
+insane:pagal:NN
+insanely:intahi:RB
+insanity:paglpn:NN
+insatiable:اتوشنیی:JJ
+insecure:ghair mehfooz:NN
+insecurity:Adam tahaffuz:NN
+insensible:بیسد:JJ
+insensitive:be hisi:JJ
+insensitively:insensitively:RB
+insensitivity:be hisi:NN
+insidious:کپٹی:JJ
+insidiously:insidiously:RB
+insignificance:تچرچھتا:NN
+insignificant:مہتوہین:NN
+insignificantly:insignificantly:RB
+insincere:lasn:RB
+insincerely:insincerely:RB
+insincerity:نشٹھاہیتا:NN
+insinuate:ishara:NN
+insinuating:insinuating:VBG
+insinuation:آکشیپ:NN
+insociable:insociable:JJ
+insolence:sar kashi:NN
+insolent:gustaakh:NN
+insolently:shararat:RB
+insolvent:دوالیا:NN
+insouciance:insouciance:NN
+instability:Adam istehkaam:NN
+instable:instable:JJ
+instigate:بڑکانے:NN
+instigator:muharrak car:NN
+instigators:bharkanay:NNS
+insubordinate:sarkash:NN
+insubstantial:insubstantial:JJ
+insubstantially:insubstantially:RB
+insufferable:اسہی:JJ
+insufferably:insufferably:RB
+insufficiency:kami:NN
+insufficient:na kafi:NN
+insufficiently:na kafi:RB
+insular:دویپیی:NN
+insult:tauheen:NN
+insulted:tauheen:VBN
+insulting:tauheen:VBG
+insultingly:insultingly:RB
+insults:tauheen:NNS
+insupportable:اسہنیی:JJ
+insupportably:insupportably:RB
+insurmountable:na qabil taskheer:JJ
+insurmountably:insurmountably:RB
+insurrection:baghaawat:NN
+intefere:intefere:RB
+inteferes:inteferes:NNS
+intense:shadeed:NN
+interfere:mudakhlat:RB
+interfere:mudakhlat:RB
+interference:mudakhilat:NN
+interferes:mudakhlat:NNS
+intermittent:waqfay waqfay se:NN
+interrupt:rukawat:NN
+interruption:rukawat:NN
+interruptions:rukawat:NNS
+intimidate:darana:NN
+intimidating:dhamki:VBG
+intimidatingly:intimidatingly:RB
+intimidation:dhamkion:NN
+intolerable:na qabil bardasht:JJ
+intolerablely:intolerablely:RB
+intolerance:Adam bardasht:NN
+intoxicate:nasha:NN
+intractable:اسبی:JJ
+intransigence:hatt dharmi:NN
+intransigent:دراگرہی:NN
+intrude:ghusnay:NN
+intrusion:گھسپیٹھ:NN
+intrusive:mudakhlat:JJ
+inundate:zair aabb:NN
+inundated:doob:VBN
+invader:hamla aawar:NN
+invalid:jaali:JJ
+invalidate:baatil:NN
+invalidity:baatil:NN
+invasive:nagawaar:JJ
+invective:فٹکار:JJ
+inveigle:لوبانا:NN
+invidious:invidious:JJ
+invidiously:invidiously:RB
+invidiousness:invidiousness:NN
+invisible:posheeda:JJ
+involuntarily:انایاس:RB
+involuntary:انیچرچھیک:JJ
+irascible:irascible:JJ
+irate:taish mein aakar:NN
+irately:irately:RB
+ire:gussa:NN
+irk:irk:NN
+irked:keh kar mushtael:VBN
+irking:irking:VBG
+irks:shehri pareshan:NNS
+irksome:irksome:NN
+irksomely:irksomely:RB
+irksomeness:irksomeness:NN
+irksomenesses:irksomenesses:NNS
+ironic:sitam zrifi:NN
+ironical:وڈمبنا:JJ
+ironically:sitam zrifi yeh hai:RB
+ironies:وڈمبناوں:NNS
+irony:sitam zrifi:NN
+irragularity:irragularity:NN
+irrational:ghair maqool:JJ
+irrationalities:irrationalities:NNS
+irrationality:ترکہیتا:NN
+irrationally:par irrationally:RB
+irrationals:irrationals:NNS
+irreconcilable:na qabil mafahmat:JJ
+irrecoverable:mein irrecoverable:JJ
+irrecoverableness:irrecoverableness:NN
+irrecoverablenesses:irrecoverablenesses:NNS
+irrecoverably:irrecoverably:RB
+irredeemable:irredeemable:JJ
+irredeemably:irredeemably:RB
+irreformable:irreformable:JJ
+irregular:fasid:NN
+irregularity:be qaidgi:NN
+irrelevance:ghair mutaliqa:NN
+irrelevant:ghair mutaliqa:NN
+irreparable:na qabil talaafi:JJ
+irreplacible:irreplacible:JJ
+irrepressible:admi:JJ
+irresolute:irresolute:NN
+irresolvable:irresolvable:JJ
+irresponsible:ghair zimma daarana:JJ
+irresponsibly:ghair zimma daarana:RB
+irretating:irretating:VBG
+irretrievable:irretrievable:JJ
+irreversible:na qabil wapsi:JJ
+irritable:chirchira pan:JJ
+irritably:irritably:RB
+irritant:arrchan:NN
+irritate:pareshan:NN
+irritated:charh:JJ
+irritating:pareshan:VBG
+irritation:jalan:NN
+irritations:soozish:NNS
+isolate:allag thalag:NN
+isolated:allag thalag:JJ
+isolation:tanhai:NN
+issue:masla:NN
+issues:masail:NNS
+itch:khujli:NN
+itching:khujli:VBG
+itchy:khujli:NN
+jabber:jibr:NN
+jaded:mein jaded:VBD
+jagged:kingri daar:NN
+jam:jaam:NN
+jarring:na mawafiq:NN
+jaundiced:yarqaan ke mareez:NNS
+jealous:jalan:JJ
+jealously:choksi:RB
+jealousness:jealousness:NN
+jealousy:hasad:NN
+jeer:jeer:NN
+jeering:jeering:NN
+jeeringly:jeeringly:RB
+jeers:jeers:NNS
+jeopardize:khatray mein daal:NN
+jeopardy:khatray:NN
+jerk:jhatka:NN
+jerky:دکرکا dainay wala:NN
+jitter:pur josh:NN
+jitters:dar:NNS
+jittery:pareshan:NN
+job-killing:mulazmat qatal:NN
+jobless:be rozgaar:NN
+joke:mazaq:NN
+joker:joker:NN
+jolt:jhatka:NN
+judder:judder:NN
+juddering:juddering:NN
+judders:judders:NNS
+jumpy:par jumpy:NN
+junk:raddi:NN
+junky:junky ki:NN
+junkyard:junk yard:NN
+jutter:jutter:NN
+jutters:jutters:NNS
+kaput:se kaput:NN
+kill:qatal:NN
+killed:halaak:VBN
+killer:qaatil:NN
+killing:qatal:VBG
+killjoy:killjoy ki:NN
+kills:afraad halaak:NNS
+knave:daas:VB
+knife:chaako:NN
+knock:dastak:NN
+knotted:banay:VBN
+kook:kook ki:NN
+kooky:kooky:NN
+lack:kami:NN
+lackadaisical:lackadaisical:JJ
+lacked:ka fuqdaan:VBN
+lackey:nokar:NN
+lackeys:ptho:NNS
+lacking:kami:VBG
+lackluster:mayoos:NN
+lacks:ka fuqdaan:NNS
+laconic:se laconic:NN
+lag:waqfa:NN
+lagged:reh gay:VBN
+lagging:peechay reh:VBG
+laggy:laggy:NN
+lags:lags ke:NNS
+laid-off:peecha chore diya:NN
+lambast:lambast:NN
+lambaste:lambaste:NN
+lame:lngrhe:NN
+lame-duck:bith lngrhe:NN
+lament:noha:NN
+lamentable:afsos naak:JJ
+lamentably:lamentably ke:RB
+languid:sust:NN
+languish:شتل:JJ
+languor:languor:NN
+languorous:languorous:JJ
+languorously:languorously:RB
+lanky:patla:NN
+lapse:guzar jaane ke:NN
+lapsed:ویپگت:VBN
+lapses:chowkun:NNS
+lascivious:fehash:JJ
+last-ditch:aakhri khayi:NN
+latency:ولمبتا:NN
+laughable:ہاسیکر:JJ
+laughably:bahar haal:RB
+laughingstock:hansi:NN
+lawbreaker:mujrim:NN
+lawbreaking:lawbreaking:VBG
+lawless:ghair qanooni:NN
+lawlessness:laqanoniat:NN
+layoff:par layoff:NN
+layoff-happy:par layoff khush:JJ
+lazy:sust:NN
+leak:lake:NN
+leakage:رساؤ:NN
+leakages:chori:NNS
+leaking:lake:VBG
+leaks:lake:NNS
+leaky:rasao:NN
+lech:lake:NN
+lecher:lecher:NN
+lecherous:lecherous:JJ
+lechery:lechery:NN
+leech:jonk:NN
+leer:Charmi:NN
+leery:tazabzub:NN
+left-leaning:baen جھکاو:NN
+lemon:neebu:NN
+lengthy:taweel:NN
+less-developed:kam taraqqi Yafta:JJ
+lesser-known:kam Maroof:JJ
+letch:letch:NN
+lethal:mohlik:NN
+lethargic:sust:NN
+lethargy:susti:NN
+lewd:wahyat:NN
+lewdly:lewdly:RB
+lewdness:be hiyai:NN
+liability:zimma daari:NN
+liable:zimma daar:JJ
+liar:jhoota:NN
+liars:jhutay:NNS
+licentious:licentious:JJ
+licentiously:licentiously:RB
+licentiousness:licentiousness:NN
+lie:jhoot:NN
+lied:jhoot:VBN
+lier:lier:NN
+lies:jhoot:NNS
+life-threatening:zindagi ke liye khatarnaak:NN
+lifeless:beejan:NN
+limit:hadd:NN
+limitation:hadd:NN
+limitations:hudood:NNS
+limited:mehdood:JJ
+limits:hudood:NNS
+limp:langra:NN
+listless:اساودان:NN
+litigious:litigious:JJ
+little-known:ghirmarof:JJ
+livid:ناراج:NN
+lividly:lividly:RB
+loath:انچرچھک:NN
+loathe:nafrat karna:NN
+loathing:loathing ke:VBG
+loathly:loathly:RB
+loathsome:گھنونی:NN
+loathsomely:loathsomely:RB
+lone:wahid:NN
+loneliness:tanhai:NN
+lonely:tanha:RB
+loner:akailey:NN
+lonesome:لونسم:NN
+long-time:taweel arsay se:NN
+long-winded:taweel winded:JJ
+longing:taras:NN
+longingly:longingly:RB
+loophole:nijaat ka rasta:NN
+loopholes:کمیان:NNS
+loose:dheelay:JJ
+loot:lout:NN
+lorn:lorn ki:NN
+lose:kho:VB
+loser:haara howa:NN
+losers:nuqsaan uthany walay:NNS
+loses:kho deta hai:NNS
+losing:khonay:VBG
+loss:nuqsaan:NN
+losses:nuqsanaat:NNS
+lost:kho:VBN
+loud:buland:NN
+louder:zor:NN
+lousy:naaqis:NN
+loveless:mohabbat se aari:NN
+lovelorn:lovelorn:NN
+low-rated:kam درزا diya gaya hai:JJ
+lowly:neech:RB
+ludicrous:mazhaka khaiz:JJ
+ludicrously:ludicrously:RB
+lugubrious:lugubrious:JJ
+lukewarm:gungunaa:NN
+lull:تپکیان day kar sulana:NN
+lumpy:ڑیلے daar:NN
+lunatic:pagal:JJ
+lunaticism:lunaticism:NN
+lurch:hichkola:NN
+lure:lalach:NN
+lurid:khofnaak shakal:NN
+lurk:ghaat mein rehna:NN
+lurking:mein lurking:VBG
+lying:jhoot:VBG
+macabre:banker:NN
+mad:pagal:NN
+madden:pagal:NN
+maddening:maddening hai:VBG
+maddeningly:maddeningly:RB
+madder:madder:NN
+madly:pagalon ki terhan:RB
+madman:deewana:NN
+madness:junoon:NN
+maladjusted:maladjusted:VBN
+maladjustment:اپسایڈجن:NN
+malady:bemari:NN
+malaise:be cheeni:NN
+malcontent:baaghi:NN
+malcontented:malcontented:VBN
+maledict:maledict:NN
+malevolence:droh:NN
+malevolent:دروہی:NN
+malevolently:malevolently:RB
+malice:bughz:NN
+malicious:badniyati par mabni:JJ
+maliciously:badniyati:RB
+maliciousness:maliciousness:NN
+malign:zarrar rasan:NN
+malignant:mohlik:NN
+malodorous:malodorous:JJ
+maltreatment:narawa sulooq:NN
+mangle:nauroze:NN
+mangled:zakhmi:VBN
+mangles:mangles:NNS
+mangling:mangling:VBG
+mania:انماد:NN
+maniac:pagal:NN
+maniacal:maniacal ki:JJ
+manic:unmmat:NN
+manipulate:جوڑتوڑ:NN
+manipulation:heera pheri:NN
+manipulative:joor toar:NN
+manipulators:joor toar:NNS
+mar:feb:NN
+marginal:mamooli:JJ
+marginally:mamooli:RB
+martyrdom:shahadat:NN
+martyrdom-seeking:shahadat ke husool:NN
+mashed:میشڈ:VBN
+massacre:qatal aam:NN
+massacres:qatal aam:NNS
+matte:dhundlaa:NN
+mawkish:mawkish:NN
+mawkishly:mawkishly:RB
+mawkishness:mawkishness:NN
+meager:mamooli:NN
+meaningless:maienay:NN
+meanness:نیچتا:NN
+measly:تچرچھ:RB
+meddle:mudakhlat:NN
+meddlesome:se meddlesome:NN
+mediocre:mamooli:NN
+mediocrity:mediocrity ke:NN
+melancholy:udasi:NN
+melodramatic:ناٹکیی:JJ
+melodramatically:melodramatically:RB
+meltdown:tabahi:NN
+menace:laanat:NN
+menacing:dhamki aamaiz:VBG
+menacingly:dhamki aamaiz andaaz mein:RB
+mendacious:lasn:JJ
+mendacity:mendacity:NN
+menial:suroor:NN
+merciless:نردیی:NN
+mercilessly:نردیتا:RB
+mess:gandagi:NN
+messed:garbar:VBN
+messes:میسز:NNS
+messing:khalt malt:VBG
+messy:ganda:NN
+midget:bona:NN
+miff:miff:NN
+militancy:askriat pasandi:NN
+mindless:مورھ:NN
+mindlessly:mindlessly:RB
+mirage:miraj:NN
+mire:keechar:NN
+misalign:misalign:NN
+misaligned:misaligned ke:VBN
+misaligns:misaligns:NNS
+misapprehend:misapprehend:NN
+misbecome:misbecome:NN
+misbecoming:misbecoming:VBG
+misbegotten:دوگلا:NNS
+misbehave:najaaiz istemaal:NN
+misbehavior:najaaiz istemaal:NN
+miscalculate:ghalat hisaab:NN
+miscalculation:ghalat hisaab:NN
+miscellaneous:mutafarraq:JJ
+mischief:fasaad:NN
+mischievous:shararti:JJ
+mischievously:shaytani:RB
+misconception:ghalat fehmi:NN
+misconceptions:mein ghalat fehmiya:NNS
+miscreant:shrpsnd:NN
+miscreants:sharpasandon:NNS
+misdirection:misdirection ke:NN
+miser:kanjoos:NN
+miserable:dukhi:JJ
+miserableness:miserableness:NN
+miserably:buri terhan:RB
+miseries:masaaib:NNS
+miserly:laalchi:RB
+misery:masaaib:NN
+misfit:na ahal:NN
+misfortune:bad qismati:NN
+misgiving:misgiving:VBG
+misgivings:shuba:NNS
+misguidance:gumraahi:NN
+misguide:gumraah:NN
+misguided:gumraah:VBN
+mishandle:mishandle:NN
+mishap:haadsay:NN
+misinform:misinform:NN
+misinformed:ghalat maloomat:VBN
+misinterpret:ghalat tashreeh:NN
+misjudge:ghalat faisla:NN
+misjudgment:andaza:NN
+mislead:gumraah:NN
+misleading:gumraah kin:VBG
+misleadingly:misleadingly:RB
+mislike:mislike:NN
+mismanage:mismanage:NN
+mispronounce:mispronounce:NN
+mispronounced:mispronounced:VBN
+mispronounces:mispronounces:NNS
+misread:ghalat parhna:NN
+misreading:misreading:VBG
+misrepresent:ghalat bayani:NN
+misrepresentation:ghalat bayani:NN
+miss:miss:NN
+missed:yaad:VBN
+misses:yaad karte hain:NNS
+misstatement:ghalat bayani:NN
+mist:دوبد:NN
+mistake:ghalti:NN
+mistaken:ghalti:NN
+mistakenly:ghalti se:RB
+mistakes:ghaltion:NNS
+mistified:mistified:VBN
+mistress:malikan:NN
+mistrust:bad itmadi:NN
+mistrustful:shak o shuba:NN
+mistrustfully:mistrustfully:RB
+mists:mists ki:NNS
+misunderstand:ghalat:NN
+misunderstanding:ghalat fehmi:VBG
+misunderstandings:ghalat fehmiya:NNS
+misunderstood:ghalat fehmi:NN
+misuse:ghalat istemaal:NN
+moan:krah:NN
+mobster:mein mobster:NN
+mock:farzi:NN
+mocked:mazaq uraya:NNS
+mockeries:mockeries:NNS
+mockery:mazaq:NN
+mocking:mazaq:VBG
+mockingly:mazaq:RB
+mocks:mazhaka uratay:NNS
+molest:چھیڑچھاڑ:JJS
+molestation:چھیڑچھاڑ:NN
+monotonous:نیرس:JJ
+monotony:ایکرستا:NN
+monster:dano:NN
+monstrosities:monstrosities:NNS
+monstrosity:khofnaak hewan:NN
+monstrous:راکشسی:JJ
+monstrously:khofnaak hadd taq:RB
+moody:modi:NN
+moot:mutanazia:NN
+mope:mope:NN
+morbid:mareez:NN
+morbidly:morbidly:RB
+mordant:رنگستاپک:NN
+mordantly:mordantly:RB
+moribund:مرتاسنن:NN
+moron:bewaqoof:NN
+moronic:moronic:NN
+morons:ahmaq:NNS
+mortification:khtkta:NN
+mortified:se mortified:VBN
+mortify:اپمانت:NN
+mortifying:mortifying:VBG
+motionless:گتہین:NN
+motley:پنچمیل:NN
+mourn:maatam:NN
+mourner:mourner:NN
+mournful:شوکاکل:NN
+mournfully:mournfully:RB
+muddle:garbar:NN
+muddy:keechar:NN
+mudslinger:mudslinger:NN
+mudslinging:mudslinging:VBG
+mulish:mulish:NN
+multi-polarization:kaseer پولرائزیشن:NN
+mundane:اشیاءہوسکتی:NN
+murder:qatal:NN
+murderer:qaatil:NN
+murderous:qatilana:JJ
+murderously:qatilana:RB
+murky:andeera:NN
+muscle-flexing:azla flexing ke:NN
+mushy:mushy hai:NN
+musty:boseedah:NN
+mysterious:pur asraar:JJ
+mysteriously:pur asraar:RB
+mystery:asaraar:NN
+mystify:گوڑھ:NN
+myth:متک:NN
+nag:sheh:NN
+nagging:saata:VBG
+naive:boli:JJ
+naively:naively ka khayaal:RB
+narrower:kam:NN
+nastily:nastily:RB
+nastiness:nastiness mein:NN
+nasty:gandi:JJ
+naughty:shararti:NN
+nauseate:nafrat karna:NN
+nauseates:nauseates:NNS
+nauseating:nauseating:VBG
+nauseatingly:nauseatingly:RB
+na�ve:boli:NN
+nebulous:bohat mabham hai:JJ
+nebulously:nebulously:RB
+needless:zaroorat:NN
+needlessly:bekar:RB
+needy:zaroorat mandoon:NN
+nefarious:mzmom:JJ
+nefariously:nefariously:RB
+negate:nifi:NN
+negation:nifi:NN
+negative:manfi:JJ
+negatives:manfi:NNS
+negativity:manfi:NN
+neglect:ghaflat:NN
+neglected:nazar andaaz:VBN
+negligence:la parwahi:NN
+negligent:ghaafil:NN
+nemesis:ke nemesis:NN
+nepotism:uqarba parwari:NN
+nervous:aasabi:JJ
+nervously:iztiraab:RB
+nervousness:ghabrahat:NN
+nettle:nettle ke:NN
+nettlesome:nettlesome:NN
+neurotic:karne neurotic:JJ
+neurotically:neurotically:RB
+niggle:niggle:NN
+niggles:niggles:NNS
+nightmare:drowna khawab:NN
+nightmarish:bhayanak:JJ
+nightmarishly:nightmarishly:RB
+nitpick:nitpick yeh:NN
+nitpicking:nahi nitpicking:VBG
+noise:shore:NN
+noises:shore:NNS
+noisier:noisier:NN
+noisy:shore:NN
+non-confidence:ghair itmadi:NN
+nonexistent:nabood:NN
+nonresponsive:nonresponsive:JJ
+nonsense:qisam ki mamooli Hadayat:NN
+nosey:بدبدار:NN
+notoriety:badnaam:NN
+notorious:badnaam:JJ
+notoriously:badnaam:RB
+noxious:nuqsaan da:JJ
+nuisance:pareshani:NN
+numb:sunan:NN
+obese:motay:JJ
+object:aitraaz:NN
+objection:aitraaz:NN
+objectionable:aitraaz:JJ
+objections:aitrazaat:NNS
+oblique:tircha:NN
+obliterate:mitanay:NN
+obliterated:mita:VBN
+oblivious:ghaafil:JJ
+obnoxious:qabil nafrat:JJ
+obnoxiously:hai obnoxiously:RB
+obscene:fehash:NN
+obscenely:obscenely:RB
+obscenity:behoodgi:NN
+obscure:ghair wazeh:NN
+obscured:ghair wazeh:VBN
+obscures:اوبسکوقریس:NNS
+obscurity:andeera:NN
+obsess:lena:NN
+obsessive:junooni:JJ
+obsessively:junoon ki hadd taq:RB
+obsessiveness:obsessiveness:NN
+obsolete:matrooq:NN
+obstacle:rukawat:NN
+obstinate:ہٹھی:NN
+obstinately:obstinately:RB
+obstruct:rukawat:NN
+obstructed:mutasir:VBN
+obstructing:rukawat:VBG
+obstruction:rukawat:NN
+obstructs:rokti:NNS
+obtrusive:obtrusive:JJ
+obtuse:par obtuse:NN
+occlude:occlude:NN
+occluded:occluded:VBN
+occludes:occludes:NNS
+occluding:occluding:VBG
+odd:ajeeb:NN
+odder:odder:NN
+oddest:oddest ke:JJS
+oddities:se oddities:NNS
+oddity:ویشمتا:NN
+oddly:ajeeb:RB
+odor:gannd:NN
+offence:jurm:NN
+offend:tauheen:NN
+offender:mujrim:NN
+offending:aamaiz:VBG
+offenses:juraim:NNS
+offensive:jarehana:JJ
+offensively:offensively:RB
+offensiveness:offensiveness:NN
+officious:karnay wala:JJ
+ominous:اشوب:JJ
+ominously:barri nahosat:RB
+omission:bhool:NN
+omit:tark:NN
+one-sided:yaktarfa:JJ
+onerous:droh:JJ
+onerously:onerously:RB
+onslaught:hamlay:NN
+opinionated:raye di:VBN
+opponent:mukhalif:NN
+opportunistic:mauqa:JJ
+oppose:mukhalfat:NN
+opposition:oppostion:NN
+oppositions:oppostion:NNS
+oppress:zulm:NN
+oppression:jabar:NN
+oppressive:jabirana:JJ
+oppressively:zulm o tashadud:RB
+oppressiveness:atyachar:NN
+oppressors:zalim:NNS
+ordeal:azmaish:NN
+orphan:yateem:NN
+ostracize:ostracize:VB
+outbreak:phelnay:NN
+outburst:dhamaka:RB
+outbursts:tqriron:NNS
+outcast:جلاوتن:NN
+outcry:چللاہٹ:NN
+outlaw:daku:NN
+outmoded:puranay dhang ka:VBN
+outrage:gham o gussa:NN
+outraged:gham o gussa:VBN
+outrageous:ishtial angaiz:JJ
+outrageously:tauheen:RB
+outrageousness:ghazab naak:NN
+outrages:zayad-ti:NNS
+outsider:bahar:NN
+over-acted:ziyada kaam:JJ
+over-awe:ziyada khauf:NN
+over-balanced:ziyada mutawazan:JJ
+over-hyped:ziyada hyped:JJ
+over-priced:ziyada qeemat:JJ
+over-valuation:ziyada tashkhees:NN
+overact:اتیکتی:NN
+overacted:overacted:VBN
+overawe:zabardasti:NN
+overbalance:overbalance:NN
+overbalanced:overbalanced:VBN
+overbearing:dabang:VBG
+overbearingly:overbearingly:RB
+overblown:hadd se ziyada:NN
+overdo:ziyada:NN
+overdone:overdone ke:NN
+overdue:اتدیئ:JJ
+overemphasize:overemphasize:VB
+overheat:zaroorat se ziyada garam:NN
+overkill:mein overkill:NN
+overloaded:baar:VBN
+overlook:nazar andaaz:NN
+overpaid:fazil adaigi:NN
+overpayed:overpayed:NNS
+overplay:overplay:NN
+overpower:پربل:NN
+overpriced:par overpriced:VBN
+overrated:اہنکاری:VBN
+overreach:tajawaz:NN
+overrun:se overrun:NN
+overshadow:nazron se oojhal:NN
+oversight:nigrani:NN
+oversights:ghaltion:NNS
+oversimplification:sahal:NN
+oversimplified:oversimplified:VBN
+oversimplify:oversimplify:NN
+oversize:bara:VB
+overstate:mubaligha aarai:NN
+overstated:overstated kar:VBN
+overstatement:overstatement:NN
+overstatements:overstatements:NNS
+overstates:overstates:NNS
+overtaxed:overtaxed:NN
+overthrow:takhta:NN
+overthrows:ulat:NNS
+overturn:tabdeel:NN
+overweight:ziyada wazan:NN
+overwhelm:maghloob:NN
+overwhelmed:ابیبھوت:JJ
+overwhelming:hadd se ziyada:VBG
+overwhelmingly:intahaa:RB
+overwhelms:maghloob:NNS
+overzealous:se overzealous:JJ
+overzealously:overzealously:RB
+overzelous:overzelous:JJ
+pain:dard:NN
+painful:dard naak:NN
+painfull:painfull:NN
+painfully:takleef da:RB
+pains:dard:NNS
+pale:peela:NN
+pales:pales:NNS
+paltry:mamooli:NN
+pan:pain:NN
+pandemonium:shore:NN
+pander:ktna:NN
+pandering:waqoof bananay ki koshish:VBG
+panders:dalali karti hai:NNS
+panic:ghabrahat:NN
+panick:panick:NN
+panicked:dar:NNS
+panicking:dar:VBG
+panicky:آتنکت:NN
+paradoxical:وڈمبناپورن:JJ
+paradoxically:وڈمبنا:RB
+paralize:paralize:NN
+paralyzed:maflooj:VBN
+paranoia:سنویبرم:NN
+paranoid:pagal:NN
+parasite:پرجیوی:NN
+pariah:achhot:NN
+parody:بڑوآ:NN
+partiality:tarfdaari:NN
+partisan:haami:NN
+partisans:hamion:NNS
+passe:tafseelaat:NN
+passive:ghair fa-aal:NN
+passiveness:passiveness:NN
+pathetic:intahi afsos naak baat:JJ
+pathetically:pathetically:RB
+patronize:sarparasti:NN
+paucity:kami:NN
+pauper:kangaal:NN
+paupers:کمگال:NNS
+payback:adaigi:NN
+peculiar:ajeeb:NN
+peculiarly:ajeeb:RB
+pedantic:pedantic:JJ
+peeled:khuli:VBN
+peeve:ki peeve:NN
+peeved:ناراج:VBN
+peevish:jhagralu:NN
+peevishly:peevishly:RB
+penalize:دنڈت:NN
+penalty:jurmana:NN
+perfidious:ehad shikan:JJ
+perfidity:perfidity:NN
+perfunctory:بیپرواہ:NN
+peril:khatarnaak:NN
+perilous:khatarnaak:JJ
+perilously:khatarnaak:RB
+perish:halaak:NN
+pernicious:nuqsaan da:JJ
+perplex:perplex:NN
+perplexed:uljan:NN
+perplexing:se perplexing:VBG
+perplexity:herani:NN
+persecute:satain:NN
+persecution:zulm o sitam:NN
+pertinacious:آگرہی:JJ
+pertinaciously:pertinaciously:RB
+pertinacity:pertinacity:NN
+perturb:perturb:NN
+perturbed:pareshan:NN
+pervasive:wasee:NN
+perverse:tedhi:NN
+perversely:perversely hai:RB
+perversion:اخترتی:NN
+perversity:اخترتی:NN
+pervert:kharab:NN
+perverted:bhatak:VBN
+perverts:gumrahon:NNS
+pessimism:mayoosi:NN
+pessimistic:نراشاوادی:JJ
+pessimistically:pessimistically:RB
+pest:keeron par:NN
+pestilent:pestilent ki:NN
+petrified:dar lagta:VBN
+petrify:petrify:NN
+pettifog:pettifog:NN
+petty:paiti:NN
+phobia:khauf:NN
+phobic:phobic ke:NN
+phony:jaali:NN
+picket:dharna:NN
+picketed:bahar dharna:VBN
+picketing:dharnon:VBG
+pickets:pkts:NNS
+picky:mein picky:NN
+pig:soor:NN
+pigs:soor:NNS
+pillage:ghaarat giri:NN
+pillory:malamat karna:NN
+pimple:فوبسی:NN
+pinch:چوٹکی:NN
+pique:peda karna:NN
+pitiable:badnaseeb:JJ
+pitiful:qabil reham:NN
+pitifully:pitifully:RB
+pitiless:نردی:NN
+pitilessly:pitilessly:RB
+pittance:pittance ke:NN
+pity:afsos ki baat hai:NN
+plagiarize:chori:NN
+plague:taoon:NN
+plasticky:plasticky:NN
+plaything:khilona:VBG
+plea:darkhwast:NN
+pleas:apilin:NNS
+plebeian:plebeian:JJ
+plight:haalat zaar:NN
+plot:plat:NN
+plotters:پلاٹرز:NNS
+ploy:chaal:NN
+plunder:lout:NN
+plunderer:plunderer:NN
+pointless:bekar:NN
+pointlessly:pointlessly:RB
+poison:zeher:NN
+poisonous:zahrili:JJ
+poisonously:poisonously:RB
+pokey:pokey ki:NN
+poky:poky:NN
+polarisation:پولرائزیشن:NN
+polemize:polemize:NN
+pollute:aaloda:NN
+polluter:aloodgi phelanay:NN
+polluters:polluters ko:NNS
+polution:polution:NN
+pompous:se pompous:JJ
+poor:ghareeb:JJ
+poorer:ghareeb:NN
+poorest:ghareeb tareen:NN
+poorly:ghair tasalii bakhash:RB
+posturing:namoonay:NN
+pout:mun فلانا:NN
+poverty:gurbat:NN
+powerless:شکتہین:NN
+prate:prate:NN
+pratfall:pratfall:NN
+prattle:بکبک:NN
+precarious:naazuk:JJ
+precariously:precariously:RB
+precipitate:jald:NN
+precipitous:khara:JJ
+predatory:shikari:NN
+predicament:دردشا:NN
+prejudge:faisla:NN
+prejudice:taasub:NN
+prejudices:tasbat:NNS
+prejudicial:taasub:NN
+premeditated:پوروچنتیت:VBN
+preoccupy:preoccupy:NN
+preposterous:ehmaqana:JJ
+preposterously:preposterously:RB
+presumptuous:be baki:JJ
+presumptuously:gustaakhi:RB
+pretence:dikhavay:NN
+pretend:drama:NN
+pretense:dikhavay:NN
+pretentious:کپٹی:JJ
+pretentiously:pretentiously:RB
+prevaricate:prevaricate:NN
+pricey:mehanga:NN
+pricier:mein pricier:NN
+prick:چوبن:NN
+prickle:achaar:NN
+prickles:prickles:NNS
+prideful:prideful:NN
+prik:se prik:NN
+primitive:aadam:NN
+prison:jail:NN
+prisoner:qaidi:NN
+problem:masla:NN
+problematic:mushkilaat:JJ
+problems:masail:NNS
+procrastinate:aaj kal:NN
+procrastinates:procrastinates:NNS
+procrastination:takheer:NN
+profane:اپویترا:NN
+profanity:tehqeer:NN
+prohibit:momanat:NN
+prohibitive:Maney:NN
+prohibitively:manfi:RB
+propaganda:propignda:NN
+propagandize:propagandize:NN
+proprietary:mlkiti:JJ
+prosecute:ke khilaaf qanooni karwai:NN
+protest:ehtijaj:NN
+protested:ehtijaj:VBN
+protesting:ehtijaj:VBG
+protests:ehtijaj:NNS
+protracted:taweel:VBN
+provocation:ishtial angazi:NN
+provocative:ishtial angaiz:NN
+provoke:uksanay:NN
+pry:pry ka:NN
+pugnacious:jhagralu:JJ
+pugnaciously:pugnaciously:RB
+pugnacity:جھگڑالوپن:NN
+punch:cartoon:NN
+punish:saza:NN
+punishable:saza:JJ
+punitive:tadeebi:JJ
+punk:ganda:NN
+puny:chhota aur دربل:NN
+puppet:kath patli:NN
+puppets:کٹھپتلیاں:NNS
+puzzled:heran:VBN
+puzzlement:pareshani:NN
+puzzling:puzzling ke:VBG
+quack:kaway k:NN
+qualm:qualm:NN
+qualms:baak:NNS
+quandary:ویاکلتا:JJ
+quarrel:jhagra:NN
+quarrellous:quarrellous:JJ
+quarrellously:quarrellously:RB
+quarrels:jhagrre:NNS
+quarrelsome:jhagralu:NN
+quash:kaladam qarar:NN
+queer:ajeeb:NN
+questionable:aitraaz:JJ
+quibble:quibble ki:JJ
+quibbles:quibbles ke:NNS
+quitter:quitter:NN
+rabid:pagal:NN
+racism:nasal parasti:NN
+racist:nasli imtiaz par mabni:NN
+racists:nasal paraston:NNS
+racy:shehwat angaiz:NN
+radical:bunyaad parast:JJ
+radicalization:bunyaad parasti:NN
+radically:yaksar:RB
+radicals:ذراتی:NNS
+rage:ghaiz o ghazab hai:NN
+ragged:mein ragged:VBN
+raging:mushtael:VBG
+rail:rail:NN
+raked:se raked:VBN
+rampage:ہساتمک tarz e amal:NN
+rampant:roz baroz barhti hui:NN
+ramshackle:جیرن:NN
+rancor:malni:NN
+randomly:tasadeeqi:RB
+rankle:rankle:NN
+rant:shekhi:NN
+ranted:ranted:VBN
+ranting:se ranting:VBG
+rantingly:rantingly:RB
+rants:rants ke:NNS
+rape:asmat darri:NN
+raped:asmat darri:VBD
+raping:asmat darri:VBG
+rascal:بدماش:JJ
+rascals:rascals ki:NNS
+rash:ددورا:NN
+rattle:ھڑھڑ:NN
+rattled:pareshan:VBN
+rattles:جھنجھنی:NNS
+ravage:tabah:NN
+raving:pagal:VBG
+reactionary:rjati:NN
+rebellious:baaghi:JJ
+rebuff:jhirki:NN
+rebuke:jhirki:NN
+recalcitrant:aryal:NN
+recant:munkir:NN
+recession:kasaad bazari:NN
+recessionary:recessionary:NN
+reckless:la parwah:NN
+recklessly:la parwahi:RB
+recklessness:laparwai:NN
+recoil:peechay hatna:NN
+recourses:recourses:NNS
+redundancy:فالتوپن:NN
+redundant:be car:NN
+refusal:inkaar:NN
+refuse:inkaar:NN
+refused:se inkaar kar diya:VBD
+refuses:inkaar:NNS
+refusing:inkaar:VBG
+refutation:radd:NN
+refute:tardeed:NN
+refuted:tardeed:VBN
+refutes:tardeed:NNS
+refuting:tardeed:VBG
+regress:dhachka:NN
+regression:rajat:NN
+regressive:avrohi:NN
+regret:afsos:NN
+regreted:regreted:VBN
+regretful:nadim:NN
+regretfully:afsos:RB
+regrets:afsos:NNS
+regrettable:afsoosnaak:JJ
+regrettably:afsos:RB
+regretted:afsos:VBN
+reject:mustard:NN
+rejected:mustard:VBN
+rejecting:mustard:VBG
+rejection:mustard:NN
+rejects:mustard:NNS
+relapse:lagtay:NN
+relentless:lagataar:NN
+relentlessly:musalsal:RB
+relentlessness:relentlessness:NN
+reluctance:hichkichahat:NN
+reluctant:tazabzub ka shikaar:NN
+reluctantly:انچرچھا:RB
+remorse:pachtaawa:NN
+remorseful:mutasif:NN
+remorsefully:remorsefully:RB
+remorseless:mujremana wehshat-naak:NN
+remorselessly:remorselessly:RB
+remorselessness:remorselessness:NN
+renounce:tark:NN
+renunciation:istirdaad:NN
+repel:peechay hatana:NN
+repetitive:baar baar:NN
+reprehensible:muzammat:JJ
+reprehensibly:reprehensibly:RB
+reprehension:نندا:NN
+reprehensive:reprehensive:NN
+repress:dabanay:NN
+repression:jabar:NN
+repressive:jabirana:NN
+reprimand:ڈاںٹ:NN
+reproach:نندا:NN
+reproachful:mayoob:NN
+reprove:malamat:VB
+reprovingly:reprovingly:RB
+repudiate:tardeed:NN
+repudiation:tardeed:NN
+repugn:repugn:NN
+repugnance:nafrat:NN
+repugnant:nakhushgawaar:NN
+repugnantly:repugnantly:RB
+repulse:paspaa:NN
+repulsed:paspaa:VBN
+repulsing:paspaa:VBG
+repulsive:مائکارک:NN
+repulsively:repulsively:RB
+repulsiveness:repulsiveness:NN
+resent:gussa:NN
+resentful:aazurda:NN
+resentment:narazgi:NN
+resignation:istifa:NN
+resigned:istifa day diya:VBD
+resistance:muzahmat:NN
+restless:becheni:NN
+restlessness:becheni:NN
+restrict:mehdood:NN
+restricted:mehdood:VBN
+restriction:pabandi:NN
+restrictive:pabandion:NN
+resurgent:baghion:NN
+retaliate:jawabi karwai:NN
+retaliatory:jawabi:NN
+retard:sust:NN
+retarded:pagal:VBD
+retardedness:retardedness:NN
+retards:ke retards:NNS
+reticent:mein reticent:NN
+retract:rujoo:NN
+retreat:aitekaf:NN
+retreated:peechay hatt:VBN
+revenge:badla:NN
+revengeful:intiqami:NN
+revengefully:revengefully:RB
+revert:wapas:NN
+revile:gaali dena:NN
+reviled:laan ta'an:VBN
+revoke:mansookh:NN
+revolt:baghaawat:NN
+revolting:baaghi:VBG
+revoltingly:revoltingly:RB
+revulsion:nafrat:NN
+revulsive:revulsive:NN
+rhapsodize:rhapsodize:VB
+rhetoric:bayanaat:NN
+rhetorical:bayan baazi:JJ
+ricer:ricer:NN
+ridicule:mazaq:NN
+ridicules:mazaq uratay hain:NNS
+ridiculous:mazhaka khaiz:JJ
+ridiculously:mazhaka khaiz:RB
+rife:jhagra zoroan par:NN
+rift:درار:NN
+rifts:inteshaar:NNS
+rigid:kattar:JJ
+rigidity:درڑھتا:NN
+rigidness:rigidness:NN
+rile:charhana:NN
+riled:riled:VBN
+rip:rp:NN
+rip-off:rp band:NN
+ripoff:ripoff:NN
+ripped:phaar:NN
+risk:khatrah:NN
+risks:khatraat:NNS
+risky:pur khatar:JJ
+rival:hareef:NN
+rivalry:dushmani:NN
+roadblocks:باداوں:NNS
+rocky:pathreli:NN
+rogue:دج:NN
+rollercoaster:ruler kostr:NN
+rot:saraand:NN
+rotten:sara howa:VB
+rough:kacha:NN
+rremediable:rremediable:JJ
+rubbish:kora cricket:NN
+rude:اشج:NN
+rue:gham karna:NN
+ruffian:بدماش:NN
+ruffle:ke ruffle:NN
+ruin:tabahi:NN
+ruined:barbaad:VBN
+ruining:barbaad kar:VBG
+ruinous:tabah kin:JJ
+ruins:khndrat:NNS
+rumbling:cheekh:VBG
+rumor:afwaah:NN
+rumors:afwahen:NNS
+rumours:afwahen:NNS
+rumple:rumple:NN
+run-down:run neechay:JJ
+runaway:bhgorhe:NN
+rupture:tootna:NN
+rust:zang:NN
+rusts:rusts:NNS
+rusty:zang alood:NN
+rut:lake:NN
+ruthless:karor:NN
+ruthlessly:بیرہمی:RB
+ruthlessness:be rehmi:NN
+ruts:ruts ke:NNS
+sabotage:takhreeb kaari:NN
+sack:bori:NN
+sacrificed:qurbaan:VBN
+sad:dukh ki baat hai:NN
+sadden:udaas:NN
+sadly:afsos ki baat hai:RB
+sadness:udasi:NN
+sag:sag:NN
+sagged:sagged:VBN
+sagging:sagging ke:VBG
+saggy:larke:NN
+sags:sags neechay:NNS
+salacious:sath salacious:JJ
+sanctimonious:پاھنڈی:JJ
+sap:sap:NN
+sarcasm:sarcasm ke:NN
+sarcastic:وینگیپورن:JJ
+sarcastically:وینگی:RB
+sardonic:ننداپورن:JJ
+sardonically:sardonically:RB
+sass:sass:NN
+satirical:طنزنگار:JJ
+satirize:satirize:VB
+savage:jungli:NN
+savaged:se savaged:VBN
+savagery:بربرتا:NN
+savages:wehshi:NNS
+scaly:ke scaly:NN
+scam:jaali:NN
+scams:ghotalon:NNS
+scandal:scandal:NN
+scandalize:gussa mein lana:VB
+scandalized:scandalized:VBN
+scandalous:nndi:JJ
+scandalously:scandalously ke:RB
+scandals:اسکینڈلوں:NNS
+scandel:scandel:NN
+scandels:scandels:NNS
+scant:bohat kam:NN
+scapegoat:qurbani ka bakra:NN
+scar:daagh:NN
+scarce:qaleel:NN
+scarcely:shayad:RB
+scarcity:qillat:NN
+scare:khaufzadah:NN
+scared:dar:VBN
+scarier:scarier ke:NN
+scariest:scariest:NN
+scarily:mein scarily:RB
+scarred:zad mein liya huwa hai:VBN
+scars:nishanaat:NNS
+scary:daraona:JJ
+scathing:shadeed:VBG
+scathingly:scathingly:RB
+sceptical:shuba:JJ
+scoff:اپہاس:NN
+scoffingly:scoffingly:RB
+scold:dantna:NN
+scolded:danta:VBD
+scolding:daant:VBG
+scoldingly:scoldingly:RB
+scorching:chilchelati:VBG
+scorchingly:scorchingly:RB
+scorn:hiqarat:NN
+scornful:taqqabur:JJ
+scornfully:sar kashi karte:RB
+scoundrel:بدماش:NN
+scourge:laanat:NN
+scowl:برانبنگ:NN
+scramble:jad-o-jehad:JJ
+scrambled:scrambled ke:VBN
+scrambles:taqub:NNS
+scrambling:daud dhoop:VBG
+scrap:sukrap:NN
+scratch:skrich:NN
+scratched:نوچا:VBN
+scratches:خروںچ:NNS
+scratchy:ke scratchy:NN
+scream:cheekh:NN
+screech:se screech on the:NN
+screw-up:sakro up:NN
+screwed:museebat:VBN
+screwed-up:museebat زده:NN
+screwy:screwy:NN
+scuff:paiir رگڑکر chalna:NN
+scuffs:scuffs ke:NNS
+scum:gandagi:NN
+scummy:scummy:NN
+second-class:dosray darjay ke:NN
+second-tier:dosray darjay ke:NN
+secretive:khufia:NN
+sedentary:گتہین:JJ
+seedy:بیجپورن:NN
+seethe:ubalna:NN
+seething:ablti:VBG
+self-coup:khud baghaawat:NN
+self-criticism:khud ahtsabi:NN
+self-defeating:khud ko shikast dainay:NN
+self-destructive:khud ko tabah karne:JJ
+self-humiliation:khud zillat:NN
+self-interest:khud dilchaspi:NN
+self-interested:khud dilchaspi:JJ
+self-serving:khud ki khidmat:NN
+selfinterested:selfinterested:VBN
+selfish:khud gharz:NN
+selfishly:khud gharzi:RB
+selfishness:khud gharzi:NN
+semi-retarded:name pagal:JJ
+senile:par senile:NN
+sensationalize:sensationalize:VB
+senseless:behosh:NN
+senselessly:jaahil:RB
+seriousness:sanjeedgi:NN
+sermonize:sermonize:VB
+servitude:bandagi:NN
+set-up:set up:NN
+setback:dhachka:NN
+setbacks:nakamiyoo:NNS
+sever:toar:NN
+severe:shadeed:JJ
+severity:shiddat:NN
+sh*t:ایسیچ * t:NN
+shabby:ke shabby:NN
+shadowy:mabham:NN
+shady:mashkook:NN
+shake:hila:NN
+shaky:larzaan:NN
+shallow:اتلی:NN
+sham:shaam:NN
+shambles:garbar:NNS
+shame:sharam ki baat hai:NN
+shameful:sharamnaak:NN
+shamefully:be sharmi:RB
+shamefulness:shamefulness:NN
+shameless:بیشرم:NN
+shamelessly:bay sharmi:RB
+shamelessness:be sharmi:NN
+shark:shark:NN
+sharply:taizi:RB
+shatter:chknachor:NN
+shemale:ہجڑا:NN
+shimmer:timtimana:NN
+shimmy:se shimmy:NN
+shipwreck:jahaaz ki tabahi:NN
+shirk:shirk:NN
+shirker:kamchor:NN
+shit:gandagi:NN
+shiver:کاںپنا:NN
+shock:jhatka:NN
+shocked:heran:VBN
+shocking:chonkanay wali:VBG
+shockingly:heran kin:RB
+shoddy:naaqis:NN
+short-lived:الپجیوی:JJ
+shortage:kami:NN
+shortchange:ghalat hisaab:NN
+shortcoming:nuqs:VBG
+shortcomings:kotahyon:NNS
+shortness:mein shortness:NN
+shortsighted:andesh:VBN
+shortsightedness:shortsightedness:NN
+showdown:showdown ke:NN
+shrew:کرکشا:NN
+shriek:چللاہٹ:NN
+shrill:taiz:NN
+shrilly:shrilly:RB
+shrivel:shrivel ki:NN
+shroud:kafan:NN
+shrouded:se shrouded:VBD
+shrug:shrug ke:NN
+shun:khatam kar deti hain:NN
+shunned:jhtlaya:VBN
+sick:bemaar:NN
+sicken:دربل hona:NN
+sickening:ghnona:VBG
+sickeningly:sickeningly:RB
+sickly:bemaar:NN
+sickness:bemari:NN
+sidetrack:sidetrack:NN
+sidetracked:se sidetracked:VBN
+siege:muhasra:NN
+sillily:sillily:RB
+silly:pagal:RB
+simplistic:saada:JJ
+simplistically:simplistically:RB
+sin:gunah:NN
+sinful:gunah:NN
+sinfully:gunahgaar:RB
+sinister:اشوب:NN
+sinisterly:sinisterly:RB
+sink:sunk:NN
+sinking:doob:NN
+skeletons:کنکال:NNS
+skeptic:سندہوادی:JJ
+skeptical:shuba:JJ
+skeptically:skeptically:RB
+skepticism:shukook o shubhat:NN
+sketchy:khaka:NN
+skimpy:tang:NN
+skinny:patli:NN
+skittish:skittish:NN
+skittishly:skittishly:RB
+skulk:chupna:NN
+slack:slik:NN
+slander:bohtan:NN
+slanderer:jhutay:NN
+slanderous:ننداتمک:JJ
+slanderously:slanderously:RB
+slanders:bohtan:NNS
+slap:تپپڑ:NN
+slashing:kami:VBG
+slaughter:zibah:NN
+slaughtered:zibah:VBN
+slave:ghulam:NN
+slaves:bundon:NNS
+sleazy:aur sleazy:NN
+slime:keechar:NN
+slog:guzarnay:NN
+slogged:slogged:VBN
+slogging:slogging:VBG
+slogs:slogs:NNS
+sloooooooooooooow:sloooooooooooooow:NN
+sloooow:sloooow:NN
+slooow:slooow:NN
+sloow:sloow:NN
+sloppily:sloppily:RB
+sloppy:mela:JJ
+sloth:kahili:NN
+slothful:kaahil:NN
+slow:sust:VB
+slow-moving:sust raftaar se chalti:NN
+slowed:sust:VBD
+slower:sust:JJR
+slowest:sust:NN
+slowly:aahista aahista:RB
+sloww:sloww:NN
+slowww:slowww:NN
+slowwww:slowwww:NN
+slug:sulag:NN
+sluggish:sust:JJ
+slump:bohraan:NN
+slumping:slumping ke:VBG
+slumpping:slumpping:VBG
+slur:kalank:NN
+sluts:sluts ke:NNS
+sly:چھپکر:RB
+smack:zayega:NN
+smallish:smallish:NN
+smash:masmaar kar dete:NN
+smear:sameer:NN
+smell:bo:NN
+smelled:badboo aati thi:VBN
+smelling:mehak:VBG
+smells:mehak:NNS
+smelly:badbudar:RB
+smelt:pighlana:NN
+smoke:dhuwan:NN
+smokescreen:smokescreen:NN
+smolder:sulagna:NN
+smoldering:سلگنیوالا:VBG
+smother:gala ghontna:NN
+smoulder:sulagna:NN
+smouldering:سلگنیوالا:VBG
+smudge:دببا:NN
+smudged:aaloda:VBN
+smudges:smudges:NNS
+smudging:smudging ke:VBG
+smug:khush:NN
+smugly:smugly:RB
+smut:smut ke:NN
+smuttier:smuttier:NN
+smuttiest:smuttiest:NN
+smutty:ganda:NN
+snag:mushkil:NN
+snagged:se snagged:VBN
+snagging:snagging ke:VBG
+snags:snags ko:NNS
+snappish:snappish:NN
+snappishly:snappishly:RB
+snare:phanda:NN
+snarky:snarky ke:NN
+snarl:snarl:NN
+sneak:chupkay:NN
+sneakily:sneakily:RB
+sneaky:darpook:NN
+sneer:اپہاس:NN
+sneering:sneering:VBG
+sneeringly:sneeringly:RB
+snob:ghamandi:NN
+snobbish:mein snobbish:NN
+snobby:snobby:NN
+snobish:snobish:NN
+snobs:snobs:NN
+snub:chapti:NN
+so-cal:to keel:JJ
+soapy:sabun:NN
+sob:siski:NN
+sober:saada:NN
+sobering:sangeen:VBG
+solemn:pukhta:NN
+solicitude:fikar:NN
+somber:afsurdah:NN
+sore:zakham:NN
+sorely:sorely ki:RB
+soreness:dard:NN
+sorrow:afsos:NN
+sorrowful:afsos:NN
+sorrowfully:مگرافسوس:RB
+sorry:moazrat:NN
+sour:ھٹا:NN
+sourly:sourly:RB
+spade:فاوڑا:NN
+spank:maro:NN
+spendy:spendy:NN
+spew:qay:NN
+spewed:kharij:VBN
+spewing:aglne:VBG
+spews:spews:NNS
+spilling:spilling ke:VBG
+spinster:کںواری:NN
+spiritless:spiritless:NN
+spite:bawajood:NN
+spiteful:ki spiteful:NN
+spitefully:spitefully:RB
+spitefulness:spitefulness:NN
+splatter:splatter ki:NN
+split:taqseem:NN
+splitting:taiz:NN
+spoil:kharab:NN
+spoilage:spoilage ke:NN
+spoilages:spoilages:NNS
+spoiled:kharab:VBN
+spoilled:spoilled:VBN
+spoils:lout:NNS
+spook:ghost:NN
+spookier:spookier:NN
+spookiest:spookiest:NN
+spookily:spookily:RB
+spooky:daraona:NN
+spoon-fed:chamach khilaya:NN
+spoon-feed:chamach fid:NN
+spoonfed:spoonfed:NN
+sporadic:چھٹپٹ:NN
+spotty:دببیدار:NN
+spurious:jaali:JJ
+spurn:nafrat:NN
+sputter:sputter:NN
+squabble:jhagra:JJ
+squabbling:takraar:VBG
+squander:ura:NN
+squash:askwash:NN
+squeak:ککیانا:NN
+squeaks:squeaks hai:NNS
+squeaky:cheekh:NN
+squeal:چللاہٹ:NN
+squealing:squealing kar:VBG
+squeals:squeals:NNS
+squirm:squirm:NN
+stab:koshish:NN
+stagnant:jamood ka shikaar:NN
+stagnate:mustahkam:NN
+stagnation:jamood:NN
+staid:sangeen:NN
+stain:daagh:NN
+stains:daagh:NNS
+stale:baasi:NN
+stalemate:ta-attul:NN
+stall:astal:NN
+stalls:stal:NNS
+stammer:haklana:NN
+stampede:bhagdar:NN
+standstill:ruk:NN
+stark:bilkul:NN
+starkly:sabab aam:NN
+startle:chonkna:NN
+startling:chonka dainay wali:VBG
+startlingly:wehshat-naak:RB
+starvation:bhook:NN
+starve:bhooka:NN
+static:mustahkam:JJ
+steal:chori:NN
+stealing:chori:VBG
+steals:chura:NNS
+steep:khari:NN
+steeply:taizi:NN
+stench:badboo:NN
+stereotype:daqyanoosi tasawurat:NN
+stereotypical:daqyanoosi:JJ
+stereotypically:par stereotypically:RB
+stern:sakht:NN
+stew:stow:NN
+sticky:chip chapa:NN
+stiff:sakht:NN
+stiffness:sakhti:NN
+stifle:gala ghontna:NN
+stifling:gala ghoontnay:VBG
+stiflingly:stiflingly:RB
+stigma:kalank:NN
+stigmatize:ruswai samajte:VB
+sting:dank:VBG
+stinging:چوبنے:VBG
+stingingly:stingingly:RB
+stingy:کمجوس:NN
+stink:badboo:NN
+stinks:badboo aa rahi hai:NNS
+stodgy:stodgy:NN
+stole:chura liya:NN
+stolen:chori:VBN
+stooge:kath patli:NN
+stooges:kath putliyoun:NNS
+stormy:tofani:NN
+straggle:بٹک jana:NN
+straggler:برمنشیل:NN
+strain:kasheedgi:NN
+strained:kasheeda:VBN
+straining:tanao:VBG
+strange:ajeeb:NN
+strangely:ajeeb:RB
+stranger:ajnabi:NN
+strangest:ajeeb:NN
+strangle:gala ghoont:NN
+streaky:mustahkam:NN
+strenuous:sakht:JJ
+stress:kasheedgi:NN
+stresses:kasheedgi:NNS
+stressful:dabao:NN
+stressfully:stressfully:RB
+stricken:zada:NN
+strict:sakht:NN
+strictly:sakhti:RB
+strident:taiz:NN
+stridently:stridently:RB
+strife:hungama aarai:NN
+strike:hartaal:NN
+stringent:sakht:NN
+stringently:sakhti:RB
+struck:mara:NN
+struggle:jad-o-jehad:NN
+struggled:jad-o-jehad:VBN
+struggles:jad-o-jehad:NNS
+struggling:jad-o-jehad:VBG
+strut:اکڑکر chalna:NN
+stubborn:zid:NN
+stubbornly:stubbornly ko:RB
+stubbornness:zid:NN
+stuck:phas:NN
+stuffy:jkrhi hui:NN
+stumble:thokar:JJ
+stumbled:thokar khayi:VBN
+stumbles:thokar:NNS
+stump:stmp:NN
+stumped:pareshani:VBD
+stumps:stmp:NNS
+stun:اچیت:NN
+stunt:stnt:NN
+stunted:ki stunted:VBN
+stupid:pagal:JJ
+stupidest:بیوکوفی:NN
+stupidity:hamaqat:NN
+stupidly:bewakofi ki hadd taq:RB
+stupified:stupified:VBN
+stupify:stupify:NN
+stupor:ویاموہ:NN
+stutter:haklana:NN
+stuttered:stuttered:VBN
+stuttering:stuttering ke:VBG
+stutters:yeh stutters:NNS
+sty:aankhh ki بلنی:NN
+stymied:se stymied:VBN
+sub-par:zeli barabar:NN
+subdued:dab:VBN
+subjected:nishana:VBN
+subjection:ادیتا:NN
+subjugate:surangoon:NN
+subjugation:ادیتا:NN
+submissive:Mutee:NN
+subordinate:matehat:NN
+subpoena:parwana talabi:NN
+subpoenas:subpoenas ke:NNS
+subservience:ifadiyat:NN
+subservient:maskhar:NN
+substandard:naaqis:NN
+subtract:mnha karen:NN
+subversion:baghaawat:NN
+subversive:takhribi:NN
+subversively:subversively:RB
+subvert:mutasir:NN
+succumb:maroob:NN
+suck:doodh:NN
+sucked:choosa:VBN
+sucker:machhli:NN
+sucks:bekar hai:NNS
+sucky:sucky:NN
+sue:muqadma:NN
+sued:muqadma:VBN
+sueing:sueing:VBG
+sues:par harjanay ka daawa:NNS
+suffer:shikaar:NN
+suffered:ka saamna karna para:VBD
+sufferer:sufferer ke:NN
+sufferers:shikaar:NNS
+suffering:shikaar:VBG
+suffers:dochar:NNS
+suffocate:dam ghatt:NN
+sugar-coat:cheeni coat:NN
+sugar-coated:cheeni لیپت:JJ
+sugarcoated:sugarcoated:VBN
+suicidal:khudkushi:NN
+suicide:khudkush:NN
+sulk:se sulk:NN
+sullen:udaas:NN
+sully:saly:RB
+sunder:sunder:NN
+sunk:doob:NN
+sunken:dooba howa:NN
+superficial:sathi:JJ
+superficiality:superficiality ke:NN
+superficially:sathi tor par:RB
+superfluous:zaroorat se ziyada:JJ
+superstition:اندوشواس:NN
+superstitious:اندوشواسی:JJ
+suppress:dabanay:NN
+suppression:dmn:NN
+surrender:hathyaar daalnay:NN
+susceptible:hassas:JJ
+suspect:mushtaba:NN
+suspicion:shuba:NN
+suspicions:shukook o shubhat:NNS
+suspicious:mashkook:JJ
+suspiciously:shuba:RB
+swagger:akarr:NN
+swamped:swamped kya:VBD
+sweaty:paseenay:NN
+swelled:barh:VBD
+swelling:soojan:VBG
+swindle:گھوٹالی:NN
+swipe:swipe ki:NN
+swollen:soojan:NN
+symptom:alamaat:NN
+symptoms:alamaat:NNS
+syndrome:sndrom:NN
+taboo:mamnoo:NN
+tacky:chip chapa:NN
+taint:kalank:NN
+tainted:daghdar:VBN
+tamper:chhairna:NN
+tangle:ulajhna:NN
+tangled:پیچیدا:VBN
+tangles:tangles ki:NNS
+tank:tank:NN
+tanked:matwala:NNS
+tanks:tank:NNS
+tantrum:جھوبجھلاہٹ ka aavesh:NN
+tardy:sust:NN
+tarnish:دببا:NN
+tarnished:کلنکت:NNS
+tarnishes:tarnishes:NNS
+tarnishing:propignde:VBG
+tattered:phatay:VBN
+taunt:tanz:NN
+taunting:maar:VBG
+tauntingly:tanzia:RB
+taunts:تانوں:NNS
+taut:sakht:NN
+tawdry:tawdry:NN
+taxing:مہسول:VBG
+tease:charhao:NN
+teasingly:teasingly:RB
+tedious:تکاؤ:JJ
+tediously:tediously:RB
+temerity:اتاولاپن:NN
+temper:gussa:NN
+tempest:aandhi:NN
+temptation:fitnah:NN
+tenderness:کوملتا:NN
+tense:kasheedgi:NN
+tension:kasheedgi:NN
+tentative:earzi:NN
+tentatively:earzi tor par:RB
+tenuous:kamzor:JJ
+tenuously:tenuously:RB
+tepid:misbet:NN
+terrible:khofnaak:JJ
+terribleness:Haibat:NN
+terribly:bohat:RB
+terror:dehshat gardi:NN
+terror-genic:dehshat gardi genic:JJ
+terrorism:dehshat gardi:NN
+terrorize:dehshat:VB
+testily:testily:RB
+testy:test:NN
+tetchily:tetchily:RB
+tetchy:tetchy:NN
+thankless:اکرتشتھ:NN
+thicker:mein thicker:NN
+thirst:pyaas:NN
+thorny:dushwaar:NN
+thoughtless:la parwah:NN
+thoughtlessly:fikri:RB
+thoughtlessness:thoughtlessness:NN
+thrash:pataayi:NN
+threat:khatrah:NN
+threaten:khatrah:NNS
+threatening:dhamki:VBG
+threats:khatraat:NNS
+threesome:threesome ke:NN
+throb:دڑکن:NN
+throbbed:throbbed:NN
+throbbing:ki throbbing:VBG
+throbs:throbs:NN
+throttle:gala ghontna:NN
+thug:thag:NN
+thumb-down:angothay neechay:JJ
+thumbs-down:angothon neechay:JJ
+thwart:nakaam:NN
+time-consuming:waqt lagta:NN
+timid:darpook:NN
+timidity:buzdali:NN
+timidly:timidly:RB
+timidness:timidness:NN
+tin-y:ٹن-y:NN
+tingled:tingled:VBN
+tingling:tingling ke:VBG
+tired:thaka howa:VBN
+tiresome:تکاؤ:NN
+tiring:thakawat:VBG
+tiringly:tiringly:RB
+toil:mushaqqat:NN
+toll:tool:NN
+top-heavy:sab se bhaari:JJ
+topple:giranay:NN
+torment:azaab:NN
+tormented:azaab:VBN
+torrent:selaab:NN
+tortuous:کپٹپورن:JJ
+torture:tashadud:NN
+tortured:tashadud ka nishana banaya:VBN
+tortures:tashadud:NNS
+torturing:tashadud:VBG
+torturous:dard naak:JJ
+torturously:torturously:RB
+totalitarian:jabir:JJ
+touchy:jazbati:NN
+toughness:jafa kashi:NN
+tout:taot:NN
+touted:taall diya:VBN
+touts:dlaalon:NNS
+toxic:zahreela:NN
+traduce:traduce:NN
+tragedy:saneha:NN
+tragic:alamnaak:NN
+tragically:alamnaak:RB
+traitor:ghaddar:NN
+traitorous:ghaddar:JJ
+traitorously:traitorously:RB
+tramp:awaraa:NN
+trample:roond:NN
+transgress:hadd se tajawaz:NN
+transgression:gunah:NN
+trap:net work:NN
+traped:traped:NNS
+trapped:phansay:VBN
+trash:raddi ki tokri:NN
+trashed:raddi:VBN
+trashy:trashy:NN
+trauma:sadme:NN
+traumatic:ٹرامیٹک:JJ
+traumatically:traumatically:RB
+traumatize:zakhmi:VB
+traumatized:majrooh:VBN
+travesties:travesties:NNS
+travesty:بڑوآ:NN
+treacherous:ghaddar:JJ
+treacherously:dghabazi:RB
+treachery:khayanat:NN
+treason:ghaddari:NN
+treasonous:treasonous:JJ
+trick:chaal:NN
+tricked:dhoka:NNS
+trickery:dhoka baazi:NN
+tricky:mushkil:NN
+trivial:choti si:JJ
+trivialize:trivialize:VB
+trouble:museebat:NN
+troubled:pareshan:JJ
+troublemaker:museebat:NN
+troubles:mushkilaat:NNS
+troublesome:museebat:NN
+troublesomely:troublesomely:RB
+troubling:pareshan:VBG
+troublingly:troublingly:RB
+truant:truant:NN
+tumble:tumble ke:NN
+tumbled:gira:VBD
+tumbles:gir gayi:NNS
+tumultuous:afratafri:JJ
+turbulent:hungama khaiz:NN
+turmoil:bohraan:NN
+twist:mourr:NN
+twisted:batty hui:VBN
+twists:twists ke:NNS
+two-faced:do chehray:JJ
+two-faces:do chehray:NNS
+tyrannical:اتیاچاری:JJ
+tyrannically:tyrannically:RB
+tyranny:zulm:NN
+tyrant:zalim:NN
+ugh:ah:IN
+uglier:uglier hai:NN
+ugliest:ugliest:NN
+ugliness:بدسورتی:NN
+ugly:بدسورت:RB
+ulterior:mzmom:JJ
+ultimatum:ulti mitm:NN
+ultimatums:ulti mitm:NNS
+ultra-hardline:intahi sakht geer:JJ
+un-viewable:ghair dekha ja sakta:JJ
+unable:qabil:JJ
+unacceptable:na qabil qubool:JJ
+unacceptablely:unacceptablely:RB
+unacceptably:na qabil qubool:RB
+unaccessible:unaccessible:JJ
+unaccustomed:انبیست:JJ
+unachievable:poanch se bahar:JJ
+unaffordable:na qabil istetat:JJ
+unappealing:ghair mtasrkn:VBG
+unattractive:dilkashii se mahroom:JJ
+unauthentic:unauthentic:JJ
+unavailable:dastyab nahi:JJ
+unavoidably:na guzeer:RB
+unbearable:na qabil bardasht:JJ
+unbearablely:unbearablely:RB
+unbelievable:na qabil yaqeen:JJ
+unbelievably:na qabil yaqeen:RB
+uncaring:la parwah:VBG
+uncertain:ghair yakeeni:JJ
+uncivil:ghair mohazab:JJ
+uncivilized:ghair mohazab:JJ
+unclean:napak:JJ
+unclear:wazeh:JJ
+uncollectible:uncollectible:JJ
+uncomfortable:be cheeni:JJ
+uncomfortably:اسوداجنک:RB
+uncomfy:uncomfy:NN
+uncompetitive:se nimatnay ki salahiyat:JJ
+uncompromising:ہٹھیلی:VBG
+uncompromisingly:uncompromisingly:RB
+unconfirmed:ghair musadeqa:JJ
+unconstitutional:ghair aaeni:JJ
+uncontrolled:انینترت:JJ
+unconvincing:na qabil yaqeen:VBG
+unconvincingly:unconvincingly:RB
+uncooperative:uncooperative ke:JJ
+uncouth:بددا:NN
+uncreative:uncreative:JJ
+undecided:tazabzub:JJ
+undefined:jaanch:JJ
+undependability:undependability:NN
+undependable:undependable:JJ
+undercut:qeemat kam:NN
+undercuts:undercuts ke:NNS
+undercutting:kamzor:VBG
+underdog:kamzor:NN
+underestimate:kam andaza:NN
+underlings:underlings:NNS
+undermine:kamzor:NN
+undermined:majrooh:JJ
+undermines:kamzor:NNS
+undermining:nuqsaan pouncha:VBG
+underpaid:underpaid kar:NN
+underpowered:ke underpowered:JJ
+undersized:neecha:JJ
+undesirable:napasandeedah:JJ
+undetermined:taayun:JJ
+undid:undid:JJ
+undignified:undignified ki:JJ
+undissolved:undissolved:JJ
+undocumented:undocumented tarikeen:JJ
+undone:wapas:NN
+undue:اسمیک:JJ
+unease:be cheeni:NN
+uneasily:uneasily:RB
+uneasiness:becheni:NN
+uneasy:becheni:JJ
+uneconomical:uneconomical:JJ
+unemployed:be rozgaar:JJ
+unequal:ghair masawi:JJ
+unethical:ghair ikhlaqi:JJ
+uneven:na hamwar:RB
+uneventful:uneventful ke:JJ
+unexpected:ghair mutawaqqa tor par:JJ
+unexpectedly:ghair mutawaqqa tor par:RB
+unexplained:namaloom:JJ
+unfairly:ghair munsifana:RB
+unfaithful:وشواسگھاتی:JJ
+unfaithfully:وشواسگھات:RB
+unfamiliar:مجریچت:JJ
+unfavorable:تخوداجنک:JJ
+unfeeling:farba:VBG
+unfinished:namukammal:JJ
+unfit:na ahal:NN
+unforeseen:ghair mutawaqqa:JJ
+unforgiving:keena parwar:VBG
+unfortunate:bad qismati:NN
+unfortunately:bad qismati:RB
+unfounded:be bunyaad:JJ
+unfriendly:ghair dostana:RB
+unfulfilled:ادوری:JJ
+unfunded:اندک:JJ
+ungovernable:ungovernable:JJ
+ungrateful:nashukri:JJ
+unhappily:afsos:RB
+unhappiness:dukh:NN
+unhappy:nakhush:JJ
+unhealthy:bemaar:JJ
+unhelpful:mufeed:JJ
+unilateralism:taraf daari:NN
+unimaginable:na qabil tasawwur:JJ
+unimaginably:unimaginably isi:RB
+unimportant:ghair ahem:JJ
+uninformed:la ilm:JJ
+uninsured:bema shuda:JJ
+unintelligible:feham:JJ
+unintelligile:unintelligile:NN
+unipolar:ایکبروویی:JJ
+unjust:zalim:JJ
+unjustifiable:najaaiz:JJ
+unjustifiably:bilajawaz:RB
+unjustified:bulaa juwaz:JJ
+unjustly:zulm:RB
+unkind:نردیی:NN
+unkindly:unkindly:RB
+unknown:namaloom:JJ
+unlamentable:unlamentable:JJ
+unlamentably:unlamentably:RB
+unlawful:ghair qanooni tor par:JJ
+unlawfully:ghair qanooni tor par:RB
+unlawfulness:momanat:NN
+unleash:uthany:NN
+unlicensed:baghair licence:JJ
+unlikely:imkaan:JJ
+unlucky:اشوب:JJ
+unmoved:ts se miss nahi:JJ
+unnatural:ghair mamooli:JJ
+unnaturally:ghair fitri:RB
+unnecessary:ghair zurori:JJ
+unneeded:ghair zurori:JJ
+unnerve:unnerve:NN
+unnerved:hawaas bakhta:JJ
+unnerving:unnerving:VBG
+unnervingly:unnervingly:RB
+unnoticed:kisi ka dheyaan nahi:JJ
+unobserved:unobserved:JJ
+unorthodox:ghair riwayati:NN
+unorthodoxy:unorthodoxy:JJ
+unpleasant:nakhushgawaar:JJ
+unpleasantries:unpleasantries:NNS
+unpopular:ghair maqbool:JJ
+unpredictable:ghair mutawaqqa:JJ
+unprepared:tayyar:JJ
+unproductive:تختپادک:JJ
+unprofitable:لابہین:JJ
+unprove:unprove:NN
+unproved:unproved:JJ
+unproven:ghair saabit shuda:RB
+unproves:unproves:NNS
+unproving:unproving:VBG
+unqualified:na ahal:JJ
+unravel:unravel karne:NN
+unraveled:sljhaya:JJ
+unreachable:taq nahi pouncha ja sakta:JJ
+unreadable:par unreadable:JJ
+unrealistic:ghair haqeeqi:JJ
+unreasonable:akarn:JJ
+unreasonably:na munasib:RB
+unrelenting:bay-dard:VBG
+unrelentingly:unrelentingly:RB
+unreliability:na qabil bharosa:NN
+unreliable:na qabil aetmaad:JJ
+unresolved:hal talab:JJ
+unresponsive:انتردایی:JJ
+unrest:bad amni:NN
+unruly:اپددری:RB
+unsafe:ghair mehfooz:JJ
+unsatisfactory:ghair tasalii bakhash:NN
+unsavory:بیسواد:NN
+unscrupulous:be imaan:JJ
+unscrupulously:unscrupulously:RB
+unsecure:ghair mehfooz:NN
+unseemly:ganda:RB
+unsettle:paon ukharna:JJ
+unsettled:mustahkam:JJ
+unsettling:pareshan kin:VBG
+unsettlingly:unsettlingly aik:RB
+unskilled:اکشل:JJ
+unsophisticated:مجریشکرت:JJ
+unsound:mareez:NN
+unspeakable:na qabil bayan:JJ
+unspeakablely:unspeakablely:RB
+unspecified:mansoob nahi kya gaya:JJ
+unstable:Adam istehkaam ka shikaar:JJ
+unsteadily:unsteadily:RB
+unsteadiness:unsteadiness ke:NN
+unsteady:mustahkam:JJ
+unsuccessful:nakaam:JJ
+unsuccessfully:nakaam:RB
+unsupported:najaaiz:JJ
+unsupportive:unsupportive:JJ
+unsure:be yakeeni ka shikaar:NN
+unsuspecting:pehlay se nah socha:VBG
+unsustainable:ghair mustahkam:JJ
+untenable:difaa:JJ
+untested:untested ke:JJ
+unthinkable:na qabil tasawwur:JJ
+unthinkably:unthinkably:RB
+untimely:اسامییک:RB
+untouched:achoota:JJ
+untrue:jhoot:JJ
+untrustworthy:untrustworthy mein:JJ
+untruthful:untruthful:JJ
+unusable:na qabil istemaal:JJ
+unusably:unusably:RB
+unuseable:unuseable:JJ
+unuseably:unuseably:RB
+unusual:ghair mamooli:JJ
+unusually:ghair mamooli tor par:RB
+unviewable:unviewable:JJ
+unwanted:napasandeedah:JJ
+unwarranted:ghalat:JJ
+unwatchable:unwatchable:JJ
+unwelcome:napasandeedah:JJ
+unwell:bemaar:NN
+unwieldy:unwieldy tha:NN
+unwilling:tayyar:JJ
+unwillingly:nah chahtay hue bhi:RB
+unwillingness:انچرچھا:NN
+unwise:danishmandi:NN
+unwisely:ghair danishmandi:RB
+unworkable:na qabil amal:JJ
+unworthy:na ahal:JJ
+unyielding:poor:VBG
+upbraid:فٹکارنا:NN
+upheaval:inqalaabat:NN
+uprising:baghaawat:VBG
+uproar:hungama:NN
+uproarious:uproarious:JJ
+uproariously:uproariously:RB
+uproarous:uproarous:JJ
+uproarously:uproarously:RB
+uproot:اھاڑ:NN
+upset:udaas:NN
+upseting:upseting:VBG
+upsets:kharabi:NNS
+upsetting:pareshan kin:VBG
+upsettingly:upsettingly:RB
+urgent:fori:NN
+useless:bekar:NN
+usurp:ہڑپنے:NN
+usurper:ghasib:NN
+utterly:sorat e haal:RB
+vagrant:awaraa:NN
+vague:mabham:NN
+vagueness:ibham:NN
+vain:bekar:NN
+vainly:virt:RB
+vanity:baatil:NN
+vehement:sakht:NN
+vehemently:sakhti:RB
+vengeance:intiqam:NN
+vengeful:keena parwar:NN
+vengefully:vengefully:RB
+vengefulness:vengefulness:NN
+venom:zeher:NN
+venomous:zahrili:JJ
+venomously:venomously:RB
+vent:nikaalte:NN
+vestiges:assaar:NNS
+vex:mein vex:NN
+vexation:koshisho:NN
+vexing:takleifein:VBG
+vexingly:vexingly:RB
+vibrate:kampan:NN
+vibrated:vibrated ke:VBN
+vibrates:vibrates hai:NNS
+vibrating:hil:VBG
+vibration:kampan:NN
+vice:naib:NN
+vicious:shaytani:JJ
+viciously:wehshiana:RB
+viciousness:viciousness:NN
+victimize:shikaar:NN
+vile:neech:NN
+vileness:vileness:NN
+vilify:badnaam:NN
+villainous:ھلنایک:JJ
+villainously:villainously:RB
+villains:ھلنایک:NNS
+villian:villian:JJ
+villianous:villianous:JJ
+villianously:villianously:RB
+villify:villify:NN
+vindictive:Muntaqim:NN
+vindictively:vindictively:RB
+vindictiveness:vindictiveness:NN
+violate:ki khilaaf warzi:NN
+violation:khilaaf warzi:NN
+violator:mujrim:NN
+violators:khilaaf warzi karne walon:NNS
+violent:tashadud:NN
+violently:tashadud:RB
+viper:viper:NN
+virulence:virulence ne:NN
+virulent:zahrili:NN
+virulently:virulently:RB
+virus:virus:NN
+vociferous:مخر:JJ
+vociferously:vociferously:RB
+volatile:ghair mustahkam:JJ
+volatility:utaar charhao:NN
+vomit:qay:NN
+vomited:qay:VBN
+vomiting:qay:VBG
+vomits:قئ:NNS
+vulgar:behooda:NN
+vulnerable:kamzor:JJ
+wack:mein wack:NN
+wail:waweela:NN
+wallow:lout poat:NN
+wane:kami:NN
+waning:kamzor par:VBG
+wanton:karor:NN
+war-like:jung ki terhan:NN
+warily:ahthyat:RB
+wariness:ahthyat:NN
+warlike:jungi:NN
+warned:ne khabardaar kya hai:VBD
+warning:intibah:VBG
+warp:warp ke:NN
+warped:neecha:VBD
+wary:hooshiyar:JJ
+washed-out:dho diya:NN
+waste:fzlh:NN
+wasted:barbaad:VBN
+wasteful:bekar:NN
+wastefulness:wastefulness:NN
+wasting:barbaad:VBG
+water-down:pani ke neechay:JJ
+watered-down:pani pilaya neechay:JJ
+wayward:ziddi:NN
+weak:kamzor:JJ
+weaken:kamzor:NN
+weakening:kamzor:VBG
+weaker:kamzor:NN
+weakness:kamzoree:NN
+weaknesses:kamzoriyon:NNS
+weariness:takawat:NN
+wearisome:wearisome:NN
+weary:tukki:JJ
+wedge:pachar:NN
+weed:ghaas:NN
+weep:ronay:NN
+weird:ajeeb:NN
+weirdly:ajeeb:RB
+wheedle:wheedle:NN
+whimper:whimper:NN
+whine:whine ki:NN
+whining:rona:VBG
+whiny:whiny:NN
+whips:chaabak:NNS
+whore:weshia:NN
+whores:whores ke:NNS
+wicked:shareer:VBD
+wickedly:shararat:RB
+wickedness:shararat:NN
+wild:jungli:NN
+wildly:بیتہاشا:RB
+wiles:mansoobon:NNS
+wilt:deti:NN
+wily:chalaak:RB
+wimpy:wimpy ki:NN
+wince:wince:NN
+wobble:wobble ki:JJ
+wobbled:wobbled:VBD
+wobbles:wobbles ke:NNS
+woe:afsos:NN
+woebegone:woebegone:NN
+woeful:buri:NN
+woefully:buri terhan kati hui:RB
+womanizer:womanizer ke:NN
+womanizing:womanizing:VBG
+worn:pehna:NN
+worried:pareshan:JJ
+worriedly:pareshan:RB
+worrier:یودقا:NN
+worries:tashweesh:NNS
+worrisome:tashweesh-naak:NN
+worry:fikar:NN
+worrying:pareshan:VBG
+worryingly:pareshan kin:RB
+worse:badter:JJR
+worsen:kharab:NN
+worsening:bigartai:VBG
+worst:bad tareen:JJS
+worthless:bekar:NN
+worthlessly:worthlessly:RB
+worthlessness:worthlessness:NN
+wound:zakham:NN
+wounds:zakhamo:NNS
+wrangle:wrangle ke:NN
+wrath:ghazab:NN
+wreak:barpaa:NN
+wreaked:machai:VBD
+wreaks:wreaks:NNS
+wreck:malbay:NN
+wrest:cheennay:JJS
+wrestle:kashti:NN
+wretch:neech:NN
+wretched:neech:VBN
+wretchedly:wretchedly:RB
+wretchedness:bad bakhti:NN
+wrinkle:شیکن:NN
+wrinkled:جھرریوں:VBD
+wrinkles:جھرریاں:NNS
+wrip:wrip:NN
+wripped:wripped:VBD
+wripping:wripping:VBG
+writhe:tarapty:NN
+wrong:ghalat:JJ
+wrongful:ghalat:NN
+wrongly:ghalat:RB
+wrought:zahir:NN
+yawn:yawn:NN
+zap:jeep:NN
+zapped:se zapped:NN
+zaps:zaps:NNS
+zealot:Mujahid:NN
+zealous:pur josh:JJ
+zealously:josh:RB
+zombie:zombi:NN
+unlucky:manhoos:xx
+loss:khasarey:xx:
+destruction:bera gharak:xx
+fear:khof:xx
+loot:loot:xx
+humiliate:zaleel:xx
+sick:bemar:xx
+ill:bemar:xx
+sickness:bemari:xx
+sordid: kamina:xx
+sordid: kameena:xx
+dirty: gandey:xx
+vilification:badnam:xx
+vilification:badnaam:xx
+tyrant:zalimo:xx
+torm:azab:xx
+torm:azaab:xx
+sins:gunnaho:xx
+perilious:jaan lewa:xx
+a:kaffan:xx
+a:kahil:xx
+a:kameno:xx
+a:stupid:xx
+a:tohmat:xx
+a:jhuti:xx
+a:taklif:xx
+a:jali:xx
+a:jalny:xx
+a:farigh:xx
+a:reject:xx
+a:tapne:xx
+a:luteray:xx
+a:beghairat:xx
+a:begerat:xx
+a:hadd:xx
+a:had:xx
+a:jhoot:xx
+a:maar:xx
+a:rone:xx
+a:gussy:xx
+a:bachi:xx
+a:khel:xx
+a:majbori:xx
+a:tharki:xx
+a:nangi:xx
+a:ala:xx
+a:lannat:xx
+a:bc:xx
+a:bichari:xx
+a:dafan:xx
+a:baghawat:xx
+a:zakhmon:xx
+a:chirak:xx
+a:badtameez:xx
+a:bicharian:xx
+a:sad:xx
+a:bechariyan:xx
+a:thak:xx
+a:buraay:xx
+a:bicharay:xx
+a:phass:xx
+a:suicide:xx
+a:ghusaa:xx
+a:pabandian:xx
+a:pitogi:xx
+a:zalim:xx
+a:ro:xx
+a:chapal:xx
+a:chappal:xx
+a:roney:xx
+ajuti:xx
+a:loota:xx
+a:guraiz:xx
+a:churail:xx
+a:naachna:xx
+a:kachray:xx
+a:baysharmo:xx
+a:ikhtalafat:xx
+a:jootay:xx
+a:nahein:xx
+a:kamzori:xx
+a:shatan:xx
+a:becharay:xx
+a:lajewab:xx
+a:mufadat:xx
+a:hedayat:xx
+a:nikammapan:xx
+a:jaahiliyat:xx
+a:jhote:xx
+a:zalalat:xx
+a:kafirun:xx
+a:Phaddebaaz:xx
+a:astagfirullah:xx
+a:nakhre:xx
+a:paindo:xx
+a:cheaters:xx
+a:cheating:xx
+a:kanjar:xx
+a:churail:xx
+a:gadhi:xx
+a:sharam karo:xx
+a:gunnah:xx
+a:bigar:xx
+A:bekaar:xx
+a:badtareen:xx
+a:kaategi:xx
+a:dafa:xx
+a:zehmat:xx
+a:marlo:xx
+a:waste:xx
+a:qusoor:xx
+a:jealous:xx
+a:zalil:xx
+a:hara:xx
+a:harta:xx
+a:rony:xx
+a:dhooka:xx
+a:phobia:xx
+a:byzameer:xx
+a:lanati:xx
+a:Galian:xx
+a:saanp:xx
+a:zahar:xx
+a:ugalna:xx
+a:munafik:xx
+a:Gustakh:xx
+a:mukarne:xx
+a:baygairat:xx
+a:zulum:xx
+a:lantio:xx
+a:pahashi:xx
+a:karstani:xx
+a:milibhagat:xx
+a:ghatia:xx
+a:gandy:xx
+a:ghtya:xx
+a:ghatya:xx
+a:tabbah:xx
+a:haram:xx
+a:sharm:xx
+a:bagerat:xx
+a:zalim:xx
+a:gharq:xx
+a:laklanat:xx
+a:lanat:xx
+a:rulaa:xx
+a:lanti:xx
+a:zehreely:xx
+a:gold digger:xx
+a:khabees:xx
+a:hell:xx
+a:rula:xx
+a:khatarnaak:xx
+a:khatarnaaak:xx
+a:kangaaal:xx
+a:kangaal:xx
+a:barbad:xx
+a:bakwas:xx
+a:bakwaas:xx
+a:thaki:xx
+a:fazool:xx

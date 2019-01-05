@@ -1,0 +1,3344 @@
+aab: water
+
+aab: splendor/elegance/polish/brightness/temper(steel)/lustre(gems)/sharpness(sword)aab-e-aa'inah: polish of a mirror
+
+aab-e-talkh: bitter water/tears/wine
+
+aab-e-chashm: tears
+
+aabaad: populated/inhabited/peopled/prosperous/happy
+
+aabru: honor/fame/good name/dignity
+
+aap: self/selves/respectful term of address
+
+aatish: fire
+
+aatmaa: soul/spirit/mind
+
+aasim: sinner/culprit
+
+aakhir: last/final
+
+aadaab: manners (plu. of adab)
+
+aadmi: man (lit. offspring of Adam)
+
+aadmiyyat: humanity/human nature/civility
+
+aaraa: embellishing/adorning
+
+aaraam: rest/repose/respite/relief/ease/comfort
+
+aara'ish: decoration/adornment/beauty
+
+aarzoo: yearning/desire/wish/longing
+
+aaz: ardent desire/lust/covetousness
+
+aazaad: free/unrestrained
+
+aazardah: annoyed/dejected/uneasy/gloomy/sad
+
+aazmaa'ish: trial/experiment/testing/proving
+
+aas: longing/desire/hope/faith/shelter/refuge
+
+aasaan: light/facile/easy
+
+aasraa: means of subsistence/protection/shelter
+
+aasmaan: heaven/sky
+
+aasmaani: heavenly/celestial/azure
+
+aasoodah: opulent/rich/satisfied
+
+aashaa: desire/hope/longing
+
+aashuftah: perplexed/careworn/distracted/confused
+
+aashnaa: aquaintance/friend/lover
+
+aashiyaan: nest/house
+
+aakhaaz: commencement/outset/beginning
+
+aaghosh: embrace/lap/bosom
+
+aafaat: evils/disasters/misfortunes (plu. of aafat)
+
+aaftaab: sun
+
+aag: flame/fire (fig. anger/passion/love/lust)
+
+aalaap: conversation/preparatory tuning
+
+aan.ch: flame/warmth/fervor/loss/grief
+
+aan.chal: corner of the 'dopaTTa' worn by women
+
+aan.dhee: dust-storm/hurricane
+
+aan.soo: tears
+
+aawaarah: without home
+
+aawaarah: wanderer/vagrant/destitute
+
+aawaaz: noise/sound/cry/shout
+
+aawaazah: rumor/fame/report/reputation
+
+aah: sigh
+
+aahistah: softly/leisurely/slowly
+
+aa'inah: mirror
+
+aayandah: hereafter/in the future
+
+ab: now/presently
+
+ubaal: boiling/rage/anger
+
+ibtidaa': commencement/beginning
+
+abtar: ruined/scattered/worthless
+
+ibtisaam: smile/cheerfulness
+
+ibtilaa: trial/misfortune/suffering
+
+abad: eternity
+
+abr: cloud
+
+abroo: eyebrow
+
+absaar: eyes (plu. of basr)
+
+ibn: son
+
+abnaa': sons (plu. of ibn)
+
+ittiHaad: union/alliance
+
+ittifaaq: agreement/concord/chance/event/opportunity
+
+ittifaaqaan: accidentally
+
+ittikaa': dependence/reliance
+
+itlaaf: loss/ruin/decay
+
+itmaam: completion/perfection
+
+ittihaam: charge/imputation/blame
+
+aTak: obstacle/obstruction
+
+isbaat: proof
+
+asar: mark/sign/trace/effect
+
+ujaaR: ruined/waste/abandoned
+
+ijaazat: permission/leave/sanction
+
+ajnabee: stranger/foreigner/alien
+
+iHtiyaaj: need
+
+iHtiyaat: caution/heed
+
+aHzaan: sorrows (plu. of huzn)
+
+iHsaas: feeling/emotion
+
+iHsaan: beneficence/favor/good deed
+
+akhbaar: news/newspaper
+
+ikhtiyaar: choice/option/power/influence/control/authority
+
+akhz: grasping/seizing/taking
+
+ikhlaas: sincerity/purity/love/selfless worship
+
+adaa: payment of debt/settlement
+
+adaa: charm/grace/beauty
+
+idraak: perception/comprehension
+
+adib: learned, man of letters (plu. udabaa')
+
+iraadah: aim/object/will/desire
+
+arjmand: exalted
+
+urdoo: army/camp
+
+irshaad: instruction/order/command/guidance
+
+arz: land/region/earth
+
+armaan: desire/yearning/wish
+
+azal: eternity/without beginning
+
+asaas: foundation
+
+asbaab: causes/motives/means
+
+ustaad: master/professor
+
+isti'faa: resignation
+
+isti'maal: application/usage/use
+
+asad: lion
+
+asraar: secrets (plu. of sirr)
+
+israaf: waste/extravagance
+
+asfaar: voyages/travels (plu. of safar)
+
+asqaam: evils/weaknesses/defects (plu. of suqm)
+
+asir: prisoner/captive
+
+ishaarah: gesture/symbol/wink/sign
+
+ishtihaar: notification/poster/reputation/renown
+
+ishtiyaaq: longing/craving/desire
+
+ishraaq: dawn/day break/lustre
+
+ashfaaq: favors (plu. of shafaq)
+
+ishfaaq: compassion/kindness
+
+ashqiyaa': cruel/heartless (plu. of shaqi)
+
+ashk: tearS
+
+as-haab: lords/masters (plu. of saahib)
+
+israar: obduracy/persistence/obstinacy
+
+asl: root/foundation/essence (plu. usool)
+
+asli: original/genuine/real/true
+
+iztiraab: restlessness/perturbation/anxiety
+
+iztiraar: helplessness/agitation/constraint
+
+atfaal: children/offspring (plu. of tifl)
+
+iz-haar: disclosure/proclamation/statement/testimony
+
+i'tibaar: trust/confidence/faith/reliance
+
+i'tiraaz: objection/criticism/protest
+
+i'jaaz: miracle/marvel/wonder
+
+i'laam: announcing/notifying
+
+aghlaat: mistakes (plu. of ghalat)
+
+aghyaar: strangers/rivals (plu. of ghair)
+
+uftaad: misery/distress/mishap/foundation
+
+iftikhaar: honor/glory/repute/distinction
+
+ifraat: excess/exuberance/plenty
+
+afsaanah: tale/legend/fiction
+
+afsurdah: melancholy/depressed
+
+afsos: regret/remorse/dejection
+
+ufaq: horizon
+
+iqbaal: prosperity/good fortune/success/confession
+
+iqraar: promise/pledge/confession/declaration/covenant
+
+iqtizaa': requirement/need/demand
+
+akbar: greatest (sup. of kabir)
+
+aksar: most/much/many/frequent
+
+aksar: frequently/usually/generally/often
+
+agar: if/in case
+
+al: the
+
+iltifaat: regard/kindness/favor/friendship
+
+alfaaz: words (plu. of lafz)
+
+amaanat: something given in trust/deposit/security
+
+imtiHaan: examination/test/trial/proof/experiment
+
+imtiyaaz: discrimination/discernment/distinction
+
+ummid: hope/expectation/trust
+
+intikhaab: selection/choice/election
+
+intizaar: waiting (anxiously)/expectation
+
+intizaam: management/order/method/arrangement
+
+intiqaam: revenge/reprisal
+
+anjaam: end/conclusion/result/issue
+
+anjuman: assembly/meeting/society/council
+
+andaazah: measurement/guess/rough estimate
+
+an.dar: within/inside/inward
+
+insaan: man/human being/mankind
+
+insaaniyyat: humanity/civility
+
+in'aam: gift/reward/largesse
+
+inqilaab: revolution
+
+inkaar: denial/contradiction
+
+auqaat: times (plu. of waqt)
+
+auqaat: status/position
+
+awwaal: first/excellent/best
+
+aulaad: children (plu. of walad)
+
+imaan: belief/faith/creed/conscience
+
+bi: by/with/from/in/into/near/on/for/towards (Always prefixed to another word)
+
+ba: by/with/from/in/into/to/on/upon/for/upto (prefixed to another word)
+
+baa: with/by/possessed of
+
+baab: door/gate/chapter/topic/subject
+
+baabul: father
+
+baat: word/saying/speech/tale/news/question/businessproposal/point/gossip/substance
+
+baad: wind/air/breeze
+
+baadshaah: emperor/king
+
+baadal: cloud(s)
+
+baadah: wine/spirits
+
+baadiyah: wilderness/desert
+
+baadiyah: goblet/cup
+
+baar: time/turn/chance/opportunity/delay/obstacle
+
+baar: burden/load/permission/grief/court
+
+baarish: rain
+
+baarah: time/turn/about/in regard of
+
+baareek: fine/slender/delicate/difficult/subtle
+
+baaz: denotes doer/agent
+
+baaz: falcon
+
+baaz: again/back/refusing
+
+baazaar: market
+
+baazaaree: common/low/vulgar/relating to the market
+
+baazoo: arm/fold of a door/flank of an army
+
+baazi: sport/game/wager
+
+baazichah: toy/fun/sport
+
+baagh: garden/orchard/grove
+
+baaqee: remaining/lasting
+
+baaqee: residue/remainder/arrears
+
+baalam: a lover/sweet-heart/husband
+
+baam: upper storey/terrace/balcony
+
+baan: signifying keeper or guardian
+
+baan.kaa: curved/crooked/sly/cunning
+
+baano: lady/gentlewoman
+
+bachchah: child
+
+baHaal: status quo/refreshed/happy
+
+baHs: dispute/argument/debate/controversy
+
+bukhaar: steam/temperature/fever/rage
+
+bakht: good fortune/luck/prosperity
+
+bakhshish: gift/donation/reward/alms/tip
+
+bad: bad/wicked/evil
+
+bad akhtar: unfortunate
+
+bad anjaam: having a bad end
+
+bad tar: worse/inferior
+
+bad chalan: of bad conduct/ill-mannered/immoral
+
+bad khwaab: nightmare
+
+bad du'aa: curse/malediction
+
+bad sirat: ill-tempered
+
+bad soorat: ugly
+
+bad m'aash: roguish
+
+bad naam: disreputable/notorious/ignominous
+
+bad naseeb: unfortunate/unlucky
+
+badr: full moon
+
+badal: exchange/change/substitution
+
+badlaa: exchange/retaliation/revenge
+
+badan: body
+
+baraabar: equal/even/level/alike/opposite/accurate
+
+bardaasht: endurance/tolerance/patience
+
+barsaat: rain/rainy season
+
+barkat: abundance/prosperity/blessing/auspiciousness
+
+baRhiyaa: superior/of good quality/expensive
+
+buzurg: great/venerable/aged/noble
+
+bazm: assembly/company (at a feast or entertainment)
+
+bas: sufficient/enough/plenty
+
+bisaat: bedding/carpet/chess board/extent/capacity
+
+bast: obstacle/knot/asylum/sanctuary
+
+bistar: bed
+
+bismil: sacrificial animal/a lover
+
+baseraa: roosting/a night's lodging/shelter
+
+bashar: man/mortal
+
+basheer: a messenger of good news
+
+basar: sight/vision/the eye
+
+baghaawat: revolt/rebellion/disloyalty
+
+baghal: armpit/side
+
+balaa: calamity/distress/trial/misfortune
+
+buland: high/lofty/sublime/exalted/tall/loud
+
+billaur: crystal/crystal glass/transparent
+
+ban.dish: composition/elegance of style/plan/obstruction
+
+ban.dagi: devotion/worship/service
+
+bandah: slave/servant/individual/man
+
+bunyaad: foundation
+
+bood: being/existence
+
+bahaadur: brave/valiant/high-spirited
+
+bahaar: spring/prime/bloom/beauty/glory/delight
+
+bahaanah: excuse/pretext/evasion/reason
+
+bhool: forgetfulness/omission/mistake/lapse/fault
+
+bhool bhulayyaan.: a maze/labyrinth
+
+be: without/void of
+
+be aabroo: dishonorable
+
+be ittifaaqi: discord/disunity
+
+be iHtiyaati: incautiousness
+
+be ikhtiyaari: helplessness/without choice
+
+be adab: rude/unmannerly
+
+be i'tibaar: untrustworthy/discredit
+
+be imtiyaaz: indiscriminating
+
+be an.daazah: unlimited/endless
+
+be insaaf: unfair/unjust
+
+be imaan: faithless/liar/cheat
+
+be bas: helpless/weak
+
+be pardah: unveiled/immodest/exposed
+
+be parwaa: heedless/indifferent/above want
+
+be taab: restless/powerless/impatient
+
+be taasir: ineffectual/useless
+
+be tameez: indiscreet/rude/uncultured
+
+be jaan: lifeless
+
+be jurm: faultless
+
+be chain: restless/uneasy
+
+be Hadd: endless/boundless
+
+be Hayaa: shameless/impudent/bare-faced
+
+be khabar: uninformed/ignorant/stupid
+
+be khataa: faultless/innocent
+
+be khud: enraptured/in ecstasy/delirious/senseless
+
+be daad: iniquity/injustice/oppression
+
+be daagh: spotless/without blemish/innocent
+
+be dard: without feeling/pitiless/merciless
+
+be rahm: merciless/cruel
+
+be riyaa: without guile/candid/sincere
+
+be zaar: disgusted/displeased
+
+be zabaan: dumb/speechless/modest
+
+be zar: destitute/poor
+
+be sakhtah: artless/unaffected/natural/plain
+
+be saaz: without tools or apparatus
+
+be sabab: without cause or reason
+
+be sharm: shameless/immodest
+
+be sabr: impatient
+
+be taaqat: powerless
+
+be 'izzat: without honor or respect
+
+be gham: happy/without sorrow
+
+be fikr: free from care or worry
+
+be qadr: worthless
+
+be qaraar: uneasy/restless/unsettled
+
+be qusoor: innocent/not guilty
+
+be kaar: idle/unemployed/useless
+
+be kas: friendless/lonely
+
+be gunaah: innocent/guiltless
+
+be ma'ni: meaningless/absurd
+
+be naam: without name, character or reputation
+
+be naseeb: unfortunate
+
+be nazir: unequalled/matchless/unique
+
+be wajh: without cause
+
+be wafaa: faithless/ungrateful/treacherous
+
+be waqoof: foolish/stupid/dolt
+
+be hunar: unskilled
+
+be hosh: unconscious
+
+bayaabaan: desert/wilderness
+
+bayaan: description/statement/account
+
+bait: house/abode
+
+bait: couple/verse
+
+bedaar: awake/alert/vigilant
+
+bezaar: displeased/angry/out of humor
+
+begaanah: strange/alien/foreign
+
+bimaar: sick/ill
+
+paa: leg/foot/root of a tree
+
+paa ban.d: fettered/bound/subjugated
+
+paa maal: trodden under foot/ruined
+
+paa yaab: fordable/within man's depth
+
+paar: opposite bank/the end/termination
+
+paas: custody/regard/supervision
+
+paas baan: guard/sentinel
+
+paas daari: favor/partiality/favoritism
+
+pak: pure/holy/immaculate/chaste/undefiled
+
+pakeezah: pure/clean/neat
+
+paagal: mad/insane/idiotic/distressed
+
+paani: water/rain/lustre/character/honor
+
+pardah: curtain/screen/veil/secrecy/privacy
+
+parastish: worship
+
+paraknaa: to examine/to test
+
+parwaanah: moth/lover/warrant/permission
+
+parwarish: fostering/rearing/sustenance/protecting
+
+pariwash: fairy-like/beautiful
+
+pareshaan: troubled/distracted/distressed
+
+pasand: choice/approval/preference
+
+pasinaa: perspiration/sweat
+
+pashemaan: penitent/repentant/ashamed
+
+pal: a moment
+
+palak: eyelash/a moment/an instant
+
+panaah: protection/asylum/refuge
+
+pahlu: side/advantage/flank of an army
+
+payaam: message
+
+peshaah: craft/trade/profession
+
+paighaam: message/news/advice
+
+paimaan: promise/agreement/oath/confirmation
+
+taab: heat/power/endurance/rage
+
+taabish: heat/splendour/grief/sorrow
+
+taasir: effect/impression
+
+taj: crown/tiara
+
+taarikh: date/annals
+
+taarik: dark/obscure
+
+taazah: fresh/new/tender/happy
+
+taak: look/regard/aim/view
+
+tabaah: ruined/spoiled/depraved/wretched
+
+tabdeel: change
+
+tabassum: smile/smiling
+
+tajribah: experience/experiment/test/proof
+
+toHfaa: a gift
+
+takht: throne/seat
+
+tadbir: deliberation/opinion/advice/arrangement/order
+
+taraanah: harmony/symphony/a kind of song
+
+tarjumaan: interpreter
+
+tars: fear/terror
+
+tars: compassion/pity/mercy
+
+tarraqqee: elevation/promotion/proficiency
+
+tarkeeb: composition/mixture/plan/mode/method
+
+tasallee: consolation/comfort/satisfaction
+
+tasleem: salutation/greeting/resignation/submission
+
+tashreef: honoring
+
+tishnagi: thirst/desire/longing
+
+tasawwur: imagination/fancy/idea
+
+tasawwuf: mysticism
+
+tasweer: picture/portrait/painting
+
+ta'ajjub: wondering/admiration/amazement/surprise
+
+ta'areef: explanation/description/praise/definition
+
+ta'alluq: connection/relation/consideration
+
+taqaazaa: demanding settlement of a debt/importunity
+
+taqdeer: fate/luck
+
+taqriban: approximately
+
+taqwaa: piety/abstinence/fear of God
+
+takleef: imposition of a burden/difficulty/inconvenience
+
+talaash: search/inquiry/quest
+
+talkh: bitter/acrimonious/pungent/unpalatable
+
+talwaar: sword
+
+tamaashaa: entertainment/fun/amusement/sport/spectacle
+
+tamaam: entire/complete/perfect/end
+
+tameez: discernment/judgement/observance of etiquette
+
+tan: body
+
+tanqiH: cleaning/investigation/inquiry/issue
+
+tangi: narrowness/hardship/poverty
+
+tanhaa: alone/solitary
+
+taubah: repentance
+
+taubah taubah: Heaven forbid!
+
+tauheen: disgrace/contempt/defamation/dishonor/insult
+
+taiyaar: ready/prepared/finished/alert/ripe
+
+teer: arrow
+
+tez: sharp/keen/caustic/pungent/swift/clever
+
+tegh: sword/dagger
+
+Taan.g: the leg/a share
+
+Tapaknaa: o leak/to drip/to fall down (fruits)
+
+Takkar: collision/encounter/rivalry/competition
+
+TukRaa: a piece/a morsel/a part/fraction
+
+TooT: breaking/fracture/loss
+
+Thikaanaa: fixed abode/proper place/goal/limit
+
+ThanD: cold/chill
+
+Thokar: obstacle/kick/stumble
+
+TeRh: crookedness
+
+saabit: confirmed/established/fixed/stable
+
+saabit: a fixed star
+
+saaqib: shining brightly/splendid/sublime
+
+sabaat: stability/endurance/resolution/constancy
+
+sabt: permanence/a seal/writing
+
+suboot: evidence/proof/conviction/constancy/stability
+
+saarwat: wealth/power/influence
+
+saraa: the earth
+
+siqaafat: culture
+
+siqaalat: burden/weight
+
+siqaahat: reliability/trustworthiness
+
+sawaab: reward/recompense
+
+sawaabit: the fixed stars (plu. of saabit)
+
+jaadu: magic/conjuring/charm/effect of evil spirits
+
+jaazib: alluring/attractive
+
+jaaree: running/flowing/current/continuing
+
+jaagir: a fief
+
+jaam: goblet
+
+jaan: soul/life/mind/vigor/sweetheart/beloved
+
+jaanee: of or relating to life
+
+jaanee: a beloved/a lover
+
+jaahil: ignorant/illiterate/barbarous
+
+jaa'edaad: property/estate/assets
+
+jaa'iz: legal/permitted
+
+jabeen.: the forehead
+
+judaa: separate/apart/asunder/peculiar
+
+judaaee: separation/absence
+
+jazb: allurement/attraction
+
+jazbah: passion/rage/desire/feeling
+
+jurm: crime/guilt
+
+jurmaanah: fine/penalty
+
+justjoo: search/inquiry
+
+jism: body
+
+jashn: a feast/celebration
+
+ja'l: counterfeit
+
+jafaa: oppression/injustice/injury
+
+jigar: liver/heart/soul/mind
+
+jalaal: splendor/majesty
+
+jalwah: lustre/splendour/display/show
+
+jamaal: beauty/elegance
+
+janaab: sir!/your honor!
+
+janaazah: corpse/funeral
+
+jumbish: movement
+
+jannat: paradise/garden
+
+jang: battle/war
+
+junoon: madness/insanity
+
+jawaab: answer/equal/parallel/match
+
+jawaan: young/youth
+
+jawaahir: jewls/gems (plu. of jauhar)
+
+josh: heat/zeal/enthusiasm/passion/lust
+
+jahaaz: ship/vessel
+
+jahaan: the world
+
+jahaannum: hell
+
+jeewan: life/existence
+
+chaarah: remedy/cure/help/aid/resource
+
+chaadar: a sheet/veil/waterfall
+
+chaaq: active/alert/healthy/fat/hale and hearty
+
+chaaqoo: a small knife
+
+chaal: gait/walk/custom/trick/strategem
+
+chaalaak: clever/expert/cunning/nimble
+
+chaan.d: the moon
+
+chaan.dani: moonlight
+
+chaan.di: silver/wealth
+
+chaah: desire/love/affection/need/choice
+
+chitwan: look/glance/appearance
+
+charaagh: lamp
+
+charaagaah: meadow/pasture
+
+chust: alert/active/clever/quick/tight
+
+cashm: eye/hope
+
+chasm-e-baddoor: God preserve from evil eyes!
+
+chashm-o-chiraag: light of the eye/dearly beloved
+
+chasmak: wink/winking/misunderstanding/spectacles
+
+chakaan.: dropping/distilling
+
+chilman: a venetian blind
+
+chamak: glitter/splendour/flash/gleam
+
+chaman: flower garden
+
+chand: how many/how much/few/how often/how long
+
+chah: used to form dimunitives
+
+chehraa: face/visage/a mask
+
+cheez: thing/commodity
+
+chain: ease/comfort/rest/peace
+
+Haatim: generous (derived from Haatim Tai)
+
+Haadisah: accident/occurence/calamity/misfortune
+
+Haazir: present/ready/in attendance
+
+Haakim: ruler/governor/judge/an official
+
+Haal: state/condition/narrative/circumstance
+
+Haalat: condition/state/circumstance (plu. Haalaat)
+
+Hubb: love/friendship/desire/affection/wish
+
+Habeeb: beloved/sweetheart/comrade/friend
+
+Hijaab: veil/modesty/bashfulness/night
+
+Hadd: boundary/limit
+
+Hadd: very/at most/utmost point
+
+Hiddat: sharpness/fury/acrimony/poignancy
+
+Hads: novelty/innovation
+
+Hudood: boundaries/penal laws
+
+Hizaaqat: Intelligence/wisdom
+
+Haraarat: heat/fever/ardor/fervor/zeal
+
+Haraam: unlawful/forbidden
+
+Hirs: eager/greediness/desire/ambition
+
+Hoorriyat: emancipation/freedom
+
+Hazm: firmness of mind/resolve
+
+Huzn: grief/sadness/sorrow
+
+Hisaab: reckoning/account/computation/rate/sense
+
+Hasrat: regret/intense sorrow/desire/longing
+
+Husn: beauty/elegance
+
+Haseen: beautiful/elegant/charming/handsome
+
+Hashmat: state/dignity/pomp/retinue
+
+Hisaar: fort/enclosure/fence
+
+Husool: acquisition/profit/advantage/achievement
+
+Hissah: share/portion/lot
+
+Hazrat: dignity/a title of respect
+
+Huzoor: presence of superior authority
+
+Huzoor: Your Highness!
+
+Hifaazat: guarding/security/safety
+
+Haqq: just/truth/right
+
+Haqeeqat: truth/reality/narration/condition
+
+Hukm: order/decree/statute/law
+
+Hikmat: wisdom/knowledge/cleverness/device
+
+Hakeem: wise man/doctor/philosopher
+
+Halaal: legal/permitted
+
+Himaayat: protection/patronage/support/defence
+
+Hamlah: attack/assault/invasion
+
+Hawaas: the senses
+
+Hawaalah: charge/custody/care
+
+Hoor: virgin of Paradise/nymph
+
+Hausalah: capacity/courage/spirit/resolution/desire
+
+Hayaa: modesty/shame
+
+Hayaat: life/existence
+
+Haiseeyat: rank/capacity/merit/status/prestige
+
+Hairaan: amazed/confounded/perplexed/worried
+
+khaas: special/particular/private/noble/unmixed
+
+khaatir: the heart/mind/memory/sake/behalf/choice/favor
+
+khaak: dust/earth/ashes
+
+khaalis: pure/genuine/sincere(friend)
+
+khaam: raw/green/inexpert/immature/vain
+
+khaamosh: silent
+
+khaandaan: family/lineage/dynasty
+
+khaanum: lady/princess/wife
+
+khaanah: house/room/compartment/partition
+
+khabar: news/information/report/rumor/notice
+
+khatm: conclusion/seal
+
+khatm: finished/done
+
+khajaalat: shame/bashfulness
+
+khajaalat: happy/auspicious/blessed
+
+khuda: God
+
+khidmat: service/office/duty
+
+kharaab: bad/depraved/ruined/spoiled/wretched/obscene
+
+khurram: happy
+
+khareed: purchase
+
+khazaan.: autumn/decay/old age
+
+khizaanah: treasury/treasure
+
+khastah: wounded/broken/sorrowful
+
+khushk: dry/withered/cynic
+
+khatt: letter/note/mark
+
+khataa: mistake/slio/oversight/error
+
+khutbah: sermon/oration/introduction
+
+khatrah: danger/fear/risk
+
+khafaa: concealment/secrecy
+
+khafaa: angry/displeased
+
+khalaas: deliverance/redemption/freedom
+
+khilaaf: opposition/contraiety/falsehood
+
+khilaaf: against
+
+khalish: prick/pain/anxiety/apprehension
+
+khumaar: intoxication
+
+khanjar: dagger
+
+khwaab: sleep/dream
+
+khwaar: wretched/deserted/friendless/poor
+
+khwaahish: desire/request/demand
+
+khoob: good/excellent/beautiful/amiable
+
+khood: j. self/private/personal/own
+
+khoodi: egotism/vanity/presence of mind
+
+khoorsheed: sun
+
+khoosh: pleasing/happy
+
+khoon: blood/murder
+
+khiyaaban: flower-bed/flower garden
+
+khayaal: thought/imagination/opinion/care/respect
+
+khair: good/best
+
+khair: very well
+
+khair: welfare/happiness
+
+daakhil: entering
+
+daad: justice/appeal/revenge/praise
+
+daar: gallows/a piece of wood
+
+daar: having/holding
+
+daar: house/country
+
+daaraa: holder/sovereign/king
+
+daaru: alcohol
+
+daaru: medicine/remedy
+
+daastaan: story/fable/tale
+
+daagh: scar/blemish/stain/calamity/grief/loss
+
+daam: net/snare
+
+daam: price/value
+
+daaman: skirt/foot of a mountain/a lap
+
+daanaa: wise/learned
+
+daanistah: knowingly
+
+daanish: knowledge/science/learning
+
+daa'im: perpetual/permanent
+
+dakhl: entrance/access/reach/skill
+
+dar: door/gate/entrance
+
+dar: in/into/within/to/about/by
+
+durr: pearl
+
+daraaz: long/tall/extended
+
+darbaar: court (royal)
+
+darkhwaasht: request/petition/appeal
+
+dard: pain/affliction/sympathy/compassion
+
+dars: sight/view/look
+
+durust: right/proper/well/safe/precise
+
+durusht: rough/hard/rigid/oppressive/fierce
+
+darmiyan: middle/midst/interval
+
+darwaazah: door/gate
+
+darya: a large river/sea
+
+duzd: thief
+
+dastoor: custom/usage/manner/rule
+
+dushman: enemy
+
+dushnaam: abuse/invective
+
+dushwaar: difficult
+
+du'aa: blessing/prayer/wish
+
+da'wat: invitation/banquet
+
+da'waa: claim/law suit/charge/demand/accusation
+
+daghaa: deceit/treachery/delusion
+
+daf'a: time/turn/section/class
+
+dafn: burial/concealment
+
+diqqat: difficulty/intricacy/minute point
+
+dil: heart/soul/courage/generosity/wish
+
+dil aawar: brave/valiant
+
+dilbar: lovely/sweetheart
+
+dil band: charming/attractive
+
+dil chasp: interesting/pleasing/delightful
+
+dil kharaash: heart rending
+
+dil daar: charming/beloved
+
+dil daar: sweetheart
+
+dil daari: consolation
+
+dil doz: heart-piercing
+
+dil rubaa: fascinating/alluring
+
+dil rubaa: fascinating/alluring
+
+dil rubaa: sweetheart
+
+dil sokhtah: grieved/suffering
+
+dil soz: touching/pathetic/passionate/ardent
+
+dil shaad: cheerful
+
+dil fareb: charming/alluring/enticing/beautiful
+
+dil figaar: melancholy
+
+dil kash: attractive/winning
+
+dil geer: melancholy
+
+dil lagi: amusement/diversion
+
+dil nawaaz: soothing (the mind)
+
+dilaasaa: consolation/encouragement
+
+dam: breath/vitality/moment/edge of a sword
+
+dimaagh: brain/intellect/airs/conceit
+
+dunyaa: world/worldly goods
+
+dawaa: medicine
+
+door: distant/remote/far
+
+daur: revolving/period/cycle/orbit
+
+dost: friend/lover
+
+daulat: riches/fortune/happiness/cause/means
+
+diyaar: country/region
+
+deedaar: sight/interview
+
+deedah: the eye
+
+deen: faith/religion
+
+deewaar: a wall
+
+deewaanah: madman
+
+Daabar: lake/pond/water pot
+
+Daakaa: robbery
+
+Dar: fear
+
+Dagar: path/road
+
+zaat: being endowed with/soul/self/caste/race
+
+zaati: innate/inherent/essential/natural
+
+zaakir: remembering/grateful
+
+zaakir: grateful person/obe who praises God
+
+zikr: remembrance/memory/Qur'an recital
+
+zillaat: insult/dishonor/affront/abjectness
+
+zaleel: abject/base/wretched/contemptible
+
+zauq: taste
+
+zehn: acumen/wit/sagacity/understanding
+
+raaHat: rest/repose/comfort/tranquility/ease
+
+raaz: mystery/secret
+
+raast: true/honest/straight/even/level
+
+raastah: path/road/manner
+
+raazi: willing/satisfied/agreed/pleased
+
+raah: road/pathcustom/journey/method
+
+raah bar: a guide
+
+raah numaa: conductor/leader/guide
+
+rabb: creator/god
+
+rahm: mercy/pity/compassion/kindness/tenderness
+
+rukh: face/cheek/side/point
+
+rukhsaar: face/cheek/complexion/aspect
+
+rukhsat: leave/permission/dismissal/indulgence
+
+radd: rejection/repulsion/returning
+
+razm: war/battle
+
+rasm: marking/writing/established usage/model/law
+
+rasan: rope/string/cord
+
+ruswaa: infamous/dishonored/disgraced
+
+rasool: a prophet
+
+rishtah: thread/line/relationship/kinship/alliance
+
+rashk: jealousy/envy/malice/spite
+
+raghbat: strong desire/esteem/pleasure
+
+raftaar: speed/pace/walk/motion
+
+rafi': high/sublime/exalted
+
+rafeeq: friend/ally
+
+raqs: dance/dancing
+
+raqeeb: rival/competitor
+
+ran.j: grief/sorrow/trouble/inconvience
+
+ran.jish: grief/indignation/misunderstanding/anguish
+
+ran.g: color/dye/fashion/enjoyment
+
+ran.geen: colored/lively/elegant/flowery/figurative
+
+rawaanah: despatched/proceeding
+
+rooH: soul/spirit/life/essence/divine revelation
+
+roz: a day
+
+roz: daily
+
+rozah: a fast
+
+raushan/roshan: light/illuminated/bright/clear/splendid
+
+raunaq: lustre/beauty/elegance/freshness
+
+resham: silk
+
+zaar: weeping/lamentation/garden/desire/wish
+
+zabaan: tongue/language/flame (of a candle)
+
+zabar: above/superior/greater/top
+
+zabardast: vigorous/violent/tyrranical/superior
+
+zaHmat: uneasiness of mind/trouble/pain
+
+zakhm: wound/damage/loss
+
+zadah: struck/stricken/oppressed
+
+zar: gold
+
+zukaam: cold
+
+zulf: curl/ringlet/tress
+
+zamaanah: time/age/period
+
+zameen: ground/earth
+
+zanjeer: chain
+
+zindaan: prison/jail
+
+zindagi: life/living/existence
+
+zindah: alive/living
+
+zinhaar: never/by no means
+
+zinhaar: beware!
+
+zood: quickly/soon/suddenly
+
+zor: force/strength/power/influence/stress
+
+zahr: poison
+
+ziyaadah: too much/more/excessive
+
+ziyaarat: pilgrimage/visit (a shrine)
+
+zebaa: adorned/beautiful/proper/graceful
+
+zeenat: decoration/beauty
+
+zhaalah: hail/dew/frost
+
+zharf: deep/penetrating/acute of mind
+
+zholeedah: dishevelled/entangled/intricate
+
+zhiyaan: terrible/furious/angry/rapacious
+
+saajan: lover/sweetheart/beloved
+
+saaHir: magician
+
+saaHil: shore/beach
+
+saadah: simple/plain/candid/sincere
+
+saaz: apparatus/equipment/concord
+
+saazish: conspiracy/intrigue/collusion
+
+saaqee: cup-bearer/page/beloved
+
+saal: year
+
+saalim: safe/sound/perfect/whole
+
+saamaan: apparatus/custom/understanding/power
+
+saan.ch: truth/reality
+
+saan.s: breath/sigh
+
+saa'ir: thw whole/the rest/wandering/walking/tax/duty
+
+saayah: shadow/shade/shelter/apparition
+
+sabab: cause/reason
+
+sabaq: lesson/lecture/advancing
+
+subuk: light/delicate/trivial/frivolous/futile
+
+sitaarah: star
+
+sitaan.: taking/seizing
+
+sitam: oppression/tyranny/injustice/violence
+
+sajdah: prostration
+
+saHar: dawn/morning
+
+sakht: hard/firm/cruel/harsh/vehement
+
+sukhan: speech/words/business/affair
+
+sukhan war: eloquence
+
+sar: head/top/pinnacle/origin/chief/desire
+
+sar afraaz: exalted
+
+sar bastah: hidden/secret
+
+sar basar: wholly/entirely
+
+sar buland: eminent/glorious
+
+sar taabee: rebellion
+
+sar taaj: chief/leader
+
+sar-e dast: at present/immediately
+
+sar-e raah: on the road
+
+sar zameen: country/limits/region
+
+sar-e shaam: about evening/evening
+
+sar-o saamaan: necessities/furniture/luggage
+
+siraaj: lamp/candle/sun
+
+surkh: red
+
+sard: cold/damp/dull/dead
+
+suroor: pleasure/joy/exhilaration
+
+sazaa: correction/punishment/requital
+
+sust: loose/frail/lazy/slow/dull
+
+sifaarish: recommendation
+
+safar: journey
+
+safed: white
+
+saktah: trance/swoon/pause
+
+sukoot: silence/peace/rest/tranquility
+
+sukoon: peace/rest/tranquility
+
+salaam: salutation/peace/safety/compliment
+
+silsilah: chain/series/pedigree/genealogy
+
+saleeqah: good disposition/good taste/mode/skill
+
+sang: stone/weight
+
+sanh: year/era
+
+siwaa: except/save/but/besides
+
+sawaal: question/petition/application/request/demand
+
+saudaa: trade/marketing/goods
+
+soz: burning/passion/vexation
+
+saugand: oath
+
+soona: void/empty/desolate/lonely
+
+siyaah: black/dark/unfortunate/bad
+
+sair: walk/excursion/recreation/amusement
+
+seerat: quality/nature/disposition
+
+sailaab: flood/deluge/torrent
+
+seenah: chest/bosom
+
+shaabaash: bravo! well done! (contr. of shaadbaash)
+
+shaakh: branch/bough/dilemma/difficulty/objection
+
+shaad: happy/cheerful/delighted
+
+shaadaab: full of water/fresh/agreeable/verdant
+
+shaa'ir: poet
+
+shaagird: pupil/apprentice/servant
+
+shaam: evening
+
+shaamil: including/comprising/connected/mingled/common
+
+shaan: dignity/glory/grandeur
+
+shaah: king/prince/monarch
+
+shaahtir: a beam/roof support
+
+shahzaadah: prince
+
+shaayad: perhaps/probably
+
+shab: night
+
+shab bakhair: goodnight!
+
+shabnam: dew
+
+shabaab: youth
+
+shabeenah: nocturnal
+
+shujaa': brave
+
+shakhs: a person/individual/being/body
+
+sharaab: wine/liquor
+
+sharaarah: spark/gleam/flash
+
+sharaafat: nobility/civility/good manners
+
+shart: condition/agreement/wager
+
+sharm: shame/modesty
+
+shuroo': beginning
+
+shareef: noble/eminent/honorable
+
+shi'r: verse/couplet
+
+shu'lah: flame/blaze/flash/light
+
+shu'oor: wisdom/intellect
+
+shafaqat: kindeness/compassion/mercy
+
+shakk: doubt/suspense/hesitation
+
+shikaar: hunting/prey
+
+shikaayat: complaint/accusation/illness
+
+shukr: gratitude
+
+shakl: form/appearance/model/image/diagram
+
+shikwah: complaint/chiding
+
+shumaar: counting/numbering/estimation/account
+
+shams: the sun
+
+shamsher: sword
+
+shama': lamp/candle
+
+shinaas: knowing/acquainted with/intelligence
+
+shokh: playful/mischievous/bold/insolent
+
+shor: noise/outcry/tumult/clamor/ardor
+
+shauq: taste/fondness/desire/interest
+
+shahd: honey
+
+shahr: city
+
+shuhrat: renown/fame/rumor
+
+shaheed: martyr
+
+shaikh: elder
+
+shekhi: bragging
+
+sher: lion/tiger/brave man
+
+shireen: sweet/pleasant/gentle
+
+shishah: glass/bottle/glass pane
+
+shaitaan: satan/devil/demon
+
+saahib: master/lord/ruler/companion/title
+
+saaf: clean/pure/innocent/clear/legible/plain
+
+subH: morning/dawn
+
+sabr: patience/endurance/submission/suffering
+
+suHbat: companionship/society/conversation
+
+saHraa: plain/desert
+
+saHeeH: right/correct/genuine/sound/pure/just
+
+sadr: chest/bosom/chief
+
+sadmah: shock/blow/calamity/collision/suffering
+
+sirf: only/mere/sheer
+
+sirf: purely/exclusively
+
+sa'oobat: difficulty/hardship
+
+salaaH: peace/treaty/integrity/advice/counsel
+
+sanam: idol/sweetheart/mistress
+
+surat: form/figure/countenance/aspect/manner/plight
+
+zaabit: governor/master/possessor
+
+zaabit: strict/punctual/patient/disciplinarian
+
+zaabitah: rule/custom/canon/law/code
+
+zaamin: sponsor/surety/guarantor
+
+zaa'i: lost/destroyed/wasted/fruitless
+
+zidd: the contrary/opposition/stubborness
+
+zarb: injury/beating/impression (plu. zarbaat)
+
+zarar: injury/damage/harm/affliction/loss/ruin
+
+zaroor: necessary/expedient/needful
+
+zaroor: certainly/absolutely
+
+zaroorat: need/compulsion/want/exigency
+
+zu'f: weakness/feebleness
+
+za'if: weak/infirm/feeble/old/faint
+
+zalaal: error/fault/vice
+
+zamaanat: surety/bond
+
+zameer: mind/heart/thought/reflection/sense
+
+zau: light/sunlight
+
+ziyaa: light/splendour/brilliancy
+
+zeeq: anguish/melancholy/
+
+taab: sweet/agreeable/pure/excellent
+
+taa'at: obedience/devotion (plu. taa'aat)
+
+taaq: arch/cupola/niche
+
+taaqat: strength/power/might
+
+taalib: seeker/enquirer/lover/candidate
+
+tabi'at: nature/temperament/disposition
+
+tapaan.: palpitating/throbbing
+
+tarh: manner/mode/form/design/plan
+
+tarz: manner/fashion/way
+
+taraf: side/margin/direction
+
+tariqah: method/custom/path/way
+
+ta'n: blame/reproach/censure/chide
+
+talaaq: divorce/repudiation
+
+talab: search/inquiry//wish/demand/request
+
+taur: manner/condition/mode/state
+
+toofaan: storm/tempest/hurricane
+
+taiyyaar: ready
+
+zaalim: tyrant/oppressor
+
+zaahir: manifest/clear/evident
+
+zaahiraa: outwardly/manifestly
+
+zarif: witty/subtle/fine
+
+zafar: victory/triumph/gain
+
+zulm: ppression/tyranny
+
+zann: suspicion
+
+zaheer: ally/associate
+
+'aajiz: powerless/weak/helpless/dejected
+
+'aadat: custom/habit/usage/practice/manner
+
+'aadil: just/sincere/righteous
+
+'aazim: determined/resolute
+
+'aashiq: lover/suitor
+
+'aaqibat: end/conclusion/future life
+
+'aaqibat: finally/at last
+
+'aaqil: wise/sensible
+
+'aalam: world/universe/regions/public/beauty/period
+
+'aalim: learned/wise/intelligent
+
+'aali: high/sublime/exalted/grand
+
+'aam: common/public/general/ordinary (plu. 'awaamm)
+
+'ibaadat: prayers/devotion
+
+'ibaarat: composition/style/diction
+
+'abas: useless/profitless/trifling/idle
+
+'abd: slave/servant of God
+
+'ibrat: warning/admonition
+
+'itaab: rebuke/reproach/anger/displeasure
+
+'ajab: wonder/astonishment
+
+'ajab: wonderful/amazing/strange/rare
+
+'ajeeb: wonderful/surprising/rare/admirable/unique
+
+'adaalat: court of justice/tribunal/justice/law
+
+'adam: non-existence/nothing/annihilation
+
+'azaab: torment/pain/punishment
+
+'arsh: roof/canopy/highest heaven
+
+'arz: petition/request/exposition/review
+
+'irfaan: knowledge/science/wisdom
+
+'urooj: ascension/rising/exaltation
+
+'uryaan: naked/bare/devoid
+
+'izzat: honor/esteem/glory/reputation
+
+'azeez: dear/beloved/honored/respected/worthy
+
+'ishrat: pleasure/enjoyment/mirth/society
+
+'ishq: love/excessive passion
+
+'atr: perfume
+
+'atf: kindness/favor/affection/present
+
+'azeem: great/high in dignity/large
+
+'iffat: purity/chastity
+
+'aql: intellect/reason/knowledge
+
+'uqoobat: punishment/torment/torture
+
+'ilaaj: cure/treatment/antidote
+
+'ilaaqah: jurisdiction/area/tenure
+
+'illat: fault/defect/bad habit/illness/pretext/basis
+
+'ilm: knowledge/science/doctrine
+
+'aleem: wise/learned
+
+'imaarat: building/edifice
+
+'umr: age/life-time/span of life
+
+'amalan: practically/truly
+
+'inaad: enmity/obstinacy
+
+'awaam: populace/common people (plu. of 'aam)
+
+'aurat: woman/wife/nudity
+
+'aiyaash: luxurious/rakish/addicted to pleasure
+
+'aish: pleasure/delight/luxury
+
+ghaalib: victorious/predominant
+
+ghaalib: often/likely/most probably
+
+ghaa'ib: hidden/absent
+
+ghubaar: vapor/fog/mist/dust/vexation
+
+ghaddaar: disloyal/treacherous
+
+gharaz: intention/meaning/design/view/want
+
+ghuroor: pride/vanity
+
+gharib: poor/destitute/strange/innocent/wonderful
+
+ghazal: ode/poem
+
+ghash: stupor/fainting
+
+ghussah: anger/passion/rage/anxiety/grief
+
+ghaflat: negligence/drowsiness/stupor
+
+ghulaam: slave/boy/youth
+
+ghalat: wrong/incorrect/inaccurate
+
+ghaleez: dirty/filthy/gross/coarse/obscene
+
+gham: grief/sorrow/concern/care
+
+gham khwaar: consoling
+
+gham deedah: afflicted/grieved
+
+gham gusaar: comforter
+
+ghammaaz: informer/tattletale/back-biting
+
+ghaur: deep thought/meditation/close attention
+
+ghair: stranger/foreigner
+
+ghair: besides
+
+ghair: other/different/alien/bad
+
+ghair: without/except/but/save
+
+ghairat: honor/modesty/bashfulness/envy/enmity
+
+faakhir: a boaster
+
+faash: apparent/known/notorious
+
+faasilah: distance/space/separation
+
+faazil: superfluous/accomplished person/virtuous
+
+faaqah: starvation/fasting/poverty
+
+faa'idah: benefit/profit/utility
+
+faa'iq: superior/great
+
+fitnah: sedition/revolt/mischief/temptation
+
+fatwaa: judicial decree
+
+fakhr: glory/honor/pride/egotism
+
+fida: sacrifice/devotion/ransom/exchange
+
+fidaa'ee: lover
+
+firaaq: separation/anxiety/absence/distance
+
+firdaus: garden/paradise
+
+farishtah: angel/apostle/prophet/messenger
+
+fursat: opportunity/leisure/rest/recovery
+
+farz: duty/moral obligation/statute
+
+farq: difference/distance/separation/defect
+
+furqat: separation/disunion/absence (of lovers)
+
+farmaan: mandate/order/royal decree
+
+farmaa'ish: order for goods/requisition/pleasure/will
+
+faro: down/below/under
+
+faryaad: complaint/cry
+
+fareb: deceit/trick/fraud
+
+faza': lamentation/wailing
+
+fasanah: romance/tale/fable
+
+fazl: excellence/virtue/reward/wisdom
+
+fitrat: nature/creation/deceit/intrigue/wisdom
+
+fughaan.: clamor/lamentation/cry of distress
+
+faqr: poverty
+
+fikr: opinion/notion/care/concern/anxiety/counsel
+
+figaar: wounded/sore/afflicted/confused
+
+falak: sky/heaven/fortune/fate
+
+fuwaad: the heart
+
+fauj: army/crowd/multitude
+
+fauran: immediately/quickly/directly
+
+fahm: understanding/intellect
+
+faisalah: settlement/decree/decision
+
+faiz: liberality/grace/bounty
+
+qaabil: worthy/able/competent/deserving/clever
+
+qaaboo: power/command/authority/possession/hold
+
+qaatil: murderer/assassin/homicide
+
+qaazee: judge
+
+qaa'idah: custom/rule/manners/habit/established order
+
+qaafiyah: rhyme/metre/cadence
+
+qaanoon: rule/law/system/state
+
+qaa'il: confessing/agreeing/conceding/subdued
+
+qaa'im: erect/stagnant/firm/durable
+
+qabr: grave/tomb
+
+qabzah: gridp/clutch/possessing/power/hilt of a sword
+
+qubool: consent/acceptance/assent/recognition
+
+qatl: killing/murder/assassination
+
+qadd: stature/size/height
+
+qadr: dignity/honor/worth/value
+
+qudrat: power/strength/universe/nature
+
+qadam: step/pace/footstep
+
+qaraar: residence/stability/rest/patience/satisfaction
+
+qurbaan: sacrifice/victim/offering
+
+qarz: debt/loan
+
+qareeb: near/adjacent/akin/approaching
+
+qasam: an oath
+
+qism: sort/kind/species/portion/nature
+
+qismat: fortune/fate/share/portion/head/category
+
+qusoor: fault/defect/blame/sin/failure
+
+qissah: tale/fable/romance/quarrel/dispute
+
+qazaa: fate/destiny/jurisdiction/judgement
+
+qafas: cage/network/body
+
+qalb: heart/mind/soul/intellect/marrow/pith
+
+qalam: reed/pen/handwriting
+
+qamar: the moon
+
+qaul: word/saying/promise/consent/vow
+
+qaum: nation/people
+
+qiyaamat: resurrection/Judgement Day/tumult
+
+qaid: imprisonment/confinement/obstacle/control
+
+qeemat: price/value/woth/cost
+
+kaatib: scribe/writer
+
+kaazib: false
+
+kaar: affair/work/labor/duty/profession
+
+kaarwaan: caravan/large company of pilgrims
+
+kaasah: cup/goblet/bowl
+
+kaash: would that !
+
+kaashif: discoverer/revealer
+
+kaaghaz: paper/letter/document
+
+kaafir: infidel/sweetheart/mistress
+
+kaafir: impious/ungrateful
+
+kaafur: camphor
+
+kaafi: sufficient/enough
+
+kaam: palate/desire/object/purport/design/intention
+
+kaamraan: successful/fortunate/happy/blessed
+
+kaam yaab: prosperous/successfulhappy/satisfied
+
+kaahish: anxiety/pining/decline/decay
+
+kaahil: lazy/slow/indolent/relaxed/tardy/ailing
+
+kabootar: pigeon/dove
+
+kabeer: great/large/immense
+
+kitaab: book/writing/despatch
+
+kasrat: bundance/excess/bulk
+
+kadah: a place (usually a suff.)
+
+karam: kindness/favor/bounty/clemency
+
+kareem: bountiful/generous/merciful/epithet of God
+
+kas: man/person
+
+kasab: profession/trade
+
+kasr: breach/loss/affliction
+
+kasal: laxity/cowardice/depression/sickness
+
+kiswat: dress/appearance/habit/figure/form/manner
+
+kashaakash: struggle/dilemma/contention/grief and pain
+
+kashti: ship/boat/vessel/tray
+
+kashish: drawing/attraction/allurement
+
+kufr: paganism/infidelity/profanity
+
+kafan: shroud
+
+kul: all/complete/entire/aggregate/universe
+
+kalaam: discourse/oration/a work/composition/objection
+
+kam: deficient/few/little/rare/scanty
+
+kam bakht: unfortunate/wretched
+
+kamzor: weak/feeble/powerless
+
+kamaal: excellence/perfection/miracle/art
+
+kamaan: bow/arch/spring
+
+kamar: waist/girdle/zone/army flank/arch
+
+kamee: deficiency/loss/abatement/reduction/dearth
+
+kameenah: mean/vulgar/base/defective
+
+kinaarah: shore/river bank/edge/margin/limit
+
+kandah: carved/engraved
+
+koshish: attempt/endeavor/labor/exertion
+
+koft: beating/pain/vexation/grief/gilding
+
+kaul: mouthful/morsel
+
+koh: mountain/hill
+
+kaif: intoxication
+
+kaifiyyat: narrative/circumstances/explanation/situation
+
+keenah: malice/rancor/enmity
+
+giraan.: precious/costly/dear/important/heavy
+
+gard: trifle/dust
+
+gird: round/circumference/environs
+
+girdaab: whirlpool/abyss/vortex
+
+gardish: revolution/circulation/misfortune/vagrancy
+
+gardan: the neck
+
+giriftaar: captured/seized/smitten/prisoner/captivated
+
+garm: hot/burning/ardent/choleric/lively
+
+girau: pledge/pawn
+
+girah: knot/joint/knuckle
+
+giriyaan.: weeping/crying
+
+giryah: weeping/lamentation/crying/plaint
+
+gaz: a yard measure
+
+guzaarish: petition/request/explanation
+
+guzaarah: living/subsistence/passage/abode
+
+guzar: a pass/a living/a road
+
+gazeedah: stung/bitten
+
+guzeedah: selected/chosen
+
+gusaar: taking away/dissipating/removing
+
+gustaakhee: rudeness/arrogance/audacity
+
+guftgoo: conversation/discourse
+
+gul: rose/flower/ornament/brand
+
+gul badan: delicate/graceful
+
+gul dastah: a bouquet
+
+gul zaar: flower-bed/garden
+
+gul sitaan.: rose-garden
+
+gulshan: a flower or rose garden
+
+gulaab: the rose
+
+gilah: complaint/blame/reproach/lamentation
+
+gum: lost/missing/distracted
+
+gum raah: astray/lost/wicked/depraved
+
+gum sum: still/silent
+
+gum gashtah: lost/wandering
+
+gum naam: nameless/anonymous/unknown/inglorious
+
+gumaan: doubt/surmise/fancy/pride/opinion/distrust
+
+gunaah: fault/sin/crime/guilt
+
+gawaaraa: palatable/agreeable/pleasant/nice
+
+gawaah: a witness
+
+gawaahee: testimony/evidence
+
+gosh: the ear
+
+goshah: corner/angle/cell/privacy
+
+goyaa: speaking/eloquent
+
+geer: taking/holding/seizing/conquering
+
+gesoo: tresses/locks
+
+gaihaan.: the world/the universe
+
+laa: no/not/by no means/without
+
+laa jawaab: rendered speechless/silenced
+
+laa chaar: helpless/destitute/forlorn/disabled
+
+laa waaris: heirless
+
+laazim: necessary/compulsory/important
+
+laash: corpse
+
+laa'iq: worthy/suitable/able/qualified/decent
+
+lab: the lip/edge/margin/shore/bank
+
+laHzah: the twinkling of an eye/moment/glance
+
+lazzat: taste/flavor/enjoyment/pleasure
+
+larzaan.: termbling/tremulous/fearing
+
+lataafat: pleasantness/elegance/subtility
+
+lutf: kindness/favor/grace/pleasure
+
+latmah: slap/blow
+
+lateefah: pleasantry/witticism/joke
+
+lughat: tongue/speech/dialect/word/dictionary
+
+lifaafah: cover/envelope/wrapper/secret
+
+lafz: word/saying
+
+luknat: stammering/speech impediment
+
+lagaam: bridle/rein
+
+lamHah: minute/moment
+
+lang: lameness/limp
+
+lan.gar: anchor/cable/rope/public kitchen/alms
+
+lau: candle flame/ardent desire/attachment
+
+lauH: plank/board/table/tablet/title page
+
+liyaaqat: worth/ability/merit/skill
+
+maa: which/what/that which/whilst/during
+
+maa ba'd: following
+
+maa Haul: surroundings/environs
+
+maa faat: what is past or dead
+
+maa waraa: what is beyond or behind
+
+maatam: mourning/grief
+
+maal: riches/property/merchandise/revenue
+
+maalik: master/lord/owner/God
+
+maani': impediment/hinderance/objection/stopper
+
+maah: the moon/month
+
+maah paaraa: handsome/beloved
+
+maah taab: moonlight
+
+maah jabeen: a beautiful person
+
+maah wash: having a face as beautiful as the moon
+
+maahir: skilled/expert/master/excel
+
+maayoos: without hope/disappointed
+
+mubaarak: auspicious/blessed/felicitation
+
+mubaahaat: contending for glory/boasting/arrogance
+
+mubtada: commencement/principle
+
+mutaassif: sorrowful/repentant/grieving
+
+mutabassim: smiling/laughing
+
+mutaHammil: affable/tolerant/patient/passive
+
+mutaraddid: hesitant/perplexed/wavering/grieved
+
+matrook: abandoned/obsolete/rejected
+
+muta'assib: prejudiced/partial/superstitious
+
+matwalaa: intoxicated/inebriated
+
+mutawaqqi': expecting/hopeful
+
+matin: strong/solid/vigorous/obstinate
+
+misaal: simile/likeness/metaphor/example
+
+masal: proverb/example
+
+majaal: power/strength/stability/opportunity
+
+majboor: compelled/helpless/oppressed
+
+mujrim: criminal/culpable/faulty
+
+mujrim: felon/criminal/sinner
+
+majrooh: wounded/hurt/smitten
+
+majma': congregation/assemblage/crowd/collection
+
+majnoon.: insane/madly in love
+
+muHaafiz: protector/guardian/guard
+
+maHabbat: love/friendship
+
+maHboob: lover/friend/sweetheart
+
+maHboob: loved/lovely
+
+maHboobah: mistress/sweetheart
+
+maHboos: confined/imprisoned
+
+muHtaj: needy/poor/defective
+
+maHjoob: modesty/shame/bashfulness
+
+maHdood: limited/bounded/finite
+
+maHroom: deprived/unlucky/prohibited/disappointed
+
+moHzoon: grieved/vexed
+
+muHsin: patron/benefactor
+
+maHsood: envied/hated
+
+maHsoos: felt/perceived/sensible
+
+maHzooz: pleased/delighted/rich/contented
+
+maHfil: congregation/assembly
+
+maHfooz: kept safe/guarded/secure/memorized
+
+muHallah: quarter(of a city)/street/ward
+
+miHnat: labor/toil/difficulty/trial
+
+makhboot: mad/insane
+
+mukhtasar: concise/abbreviated
+
+makhmal: velvet
+
+makhmoor: intoxicated/drunk
+
+madaar: circumference/orbit/station/dependence
+
+mudaam: eternally/always/continually
+
+muddat: period(of time)
+
+madad: help/assistance/reinforcement/wages
+
+madhosh: intoxicated/astonished
+
+mazaaq: joke/taste/relish/perception
+
+mazhab: religion/sect/doctrine
+
+muraad: desire/will/intention/vow/tenor/meaning
+
+martabah: degree/office/class/order
+
+marhalah: stage/inn/day's journey/difficulty
+
+marhoom: dead/deceased
+
+mard: man/male/hero/husband
+
+murdah: dead/weak/decrepit
+
+murshid: teacher/spiritual guide
+
+marghoob: desired/beautiful
+
+marqoom: written/inscribed
+
+marmar: marble
+
+marham: ointment/salve/cure
+
+mareez: patient
+
+mizaaj: mixture/temperament/humor/pride
+
+mazaar: shrine/tomb/grave
+
+mazah: taste/relish/enjoyment/pleasure
+
+musaafir: traveller/stranger
+
+mast: drunk/intoxicated
+
+masroor: glad/cheerful/pleased
+
+mash'al: torch/lantern
+
+mushkil: difficult/intricate/hard/painful
+
+mashhoor: noted/famous/reported/proclaimed
+
+museebat: misfortune/calamity/adversity/evil
+
+mazboot: strong/firm/resolute/valid
+
+mutaqbiq: conformable/suitable/like/in accordance with
+
+matlab: object/aim/meaning/motive/wish/desire
+
+mazloom: injure/oppressed/wronged
+
+mu'aahid: ally/confederate
+
+mu'ijzah: miracle
+
+ma'shooq: beloved/sweetheart
+
+ma'loom: known/evident/clear
+
+ma'mool: governed/prepared/customary
+
+ma'nee: meaning/intent/signifcance/reality/essence
+
+maghz: brain/pith/intellect
+
+maghroor: proud/arrogant
+
+maghloob: conquered/subdued
+
+muft: free/gratis
+
+maftoon: tempted/enamored/charmed/mad (with love)
+
+muflis: poor/indigent/bankrupt
+
+maflook: indigent/beggarly/destitute
+
+mufeed: profitable/beneficial/useful
+
+muqaabil: opposite/converse/against/matching
+
+maqaal: word/speech/saying/proverb
+
+maqaam: dwelling/station/position/basis
+
+maqbarah: tomb/grave
+
+maqbool: accepted/chosen/grateful
+
+muqaddar: fate/destiny/predestination
+
+muqaddam: antecedent/prior/superior/chief
+
+muqir: confessing/admitting/acknowledging
+
+muqarrar: established/fixed/certain/customary/permanent
+
+maqsad: intention/purpose/aim/goal/desire
+
+maqsood: intended/proposed
+
+makkaar: cunning/artful/deceitful
+
+makaan: house/place/habitation
+
+mukaddar: turbid/muddy/sullen/gloomy/vexed
+
+mukarrar: repeatedly/again
+
+maknoon: hidden/concealed
+
+magar: unless/perhaps/except/but/however
+
+mulaazim: servant/aide
+
+mulaaqaat: meeting/encounter/interview/visit
+
+malaal: sadness/grief/langor/fatigue
+
+malaamat: censure/rebuke
+
+mulaa'im: soft/tender/gentle/placid
+
+mulk: nation/realm/territory
+
+malool: sad/depressed/tired/bored
+
+mumtaaz: exalted/eminent/chosen
+
+mumkin: possible/feasible
+
+munaasib: proper/suitable/fit/apt/congruous
+
+munHasir: surrounded/besieged/dependent/resting
+
+manzil: day's journey/destination/storey/house
+
+manish: heart/mind/soul/magnanimity/pride
+
+manzar: countenance/visage/sight/aspect/scene
+
+manzoor: admired/chosen/approved/accepted/granted
+
+mana': prohibition/refusal/hindrance/forbidding
+
+maut: death/mortality
+
+mauj: wave/surge/enjoyment/ecstasy/caprice/plenty
+
+moojib: cause/reason
+
+maujood: present/existing/at hand/ready
+
+mausam: season/time
+
+mauqa': occasion/opportunity/place/situation
+
+mom: wax
+
+mua'yyid: corroborative/confirmatory
+
+muhaajir: refugee/emigrant
+
+mahtaab: moonlight
+
+mihrbaani: favor/kindness
+
+muhlat: retarding/delay/respite/leisure
+
+mihmaan: guest
+
+mai: wine/liquor
+
+mai khaanah: bar/tavern
+
+mai kadah: bar/tavern
+
+maidaan: open field/battlefield/ground
+
+muyassar: facilitated/easy/possible/feasible
+
+naa: no/not/termination of the infinitive
+
+naa aashnaa: not acquainted/stranger
+
+naa ittifaaqi: discord/disagreement
+
+naa ummeedee: hopelessness/despair
+
+naa insaafi: injustice
+
+naa bood: nonexistent/annihilated/extinct
+
+naa paa'idari: inconstancy/frailty
+
+naa pasand: disliked/unacceptable/offensive
+
+naa tars: hard-hearted/severe/pitiless
+
+naa tamaam: incomplete
+
+naa tawaani: weakness/inability
+
+naa jaa'iz: unlawful
+
+naa chaar: helpless/destitute/forlorn
+
+naa cheez: trifling/insignificant/worthless
+
+naa khushi: disagreeableness/displeasure
+
+naa daari: poverty
+
+naa daanistah: unwittingly/unknowingly
+
+naa daani: ignorance
+
+naa deedah: greedy
+
+naa raasti: dishonesty
+
+naa raazi: discontent
+
+naa saaz: indisposed/dissonant/uncivil
+
+naa samajh: ignorant/dull/foolish
+
+naa shaad: cheerless/joyless/dull
+
+naa shukr: ungrateful
+
+naa shinaas: ignorant
+
+naa saaf: unclean/impure/unchaste
+
+naa saboor: impatient/restless
+
+naa taaqat: weak/feeble
+
+naa farmaan: dj. disobedient
+
+naa fahm: stupid
+
+naa qaabil: unfit/unworthy/incapable
+
+naa qadr: unappreciative
+
+naa kaam: unsuccessful
+
+naa kas: worthless/base
+
+naa gawaar: unpleasant/unpalatable
+
+naa laa'iq: unworthy/unsuitable/improper
+
+naa muraad: disappointed
+
+naa mard: unmanly
+
+naa ma'loom: unknown
+
+naa mumkin: impossible
+
+naa manzoor: disallowed
+
+naa yaab: scarce/rare
+
+naataa: relationship/alliance/kin/affinity
+
+naach: dance
+
+naakhun: nail/claw
+
+naadir: rare/singular/precious
+
+naadim: penitent/ashamed/bashful
+
+naar: fire/hell
+
+naaz: coquetry/airs/pride/elegance/softness/delicacy
+
+naazish: pride/arrogance
+
+naazuk: thin/slender/fragile/delicate
+
+naasoot: humanity/human nature
+
+naafiz: having effect/piercing
+
+naak: affected with/full of
+
+naalaan: lamenting/moaning
+
+naalish: complaint/accusation
+
+naam: name/title/honor/fame/
+
+naamah: treatise/book/history
+
+naa'o: boat/ship/vessel
+
+naa-onosh: carousing/feasting
+
+naa'ib: ssistant/deputy
+
+nabz: the pulse
+
+nabi: a prophet
+
+nataa'ij: results/consequences (plu. of nateejah)
+
+nateejaa: result
+
+nisaar: throwing/dispersion/scattering/sacrifice
+
+najm: star/planet/fortune/horoscope
+
+najeeb: praiseworthy/noble/generous
+
+nakhraah: airr/coquetry/trick/pretence/swagger
+
+nadeem: intimate friend
+
+nar: man/male
+
+niraalee: unequalled/rare/strange
+
+nargis: Narcissus/the eye of a mistress
+
+narm: smooth/tender/soft/slow
+
+nazaakat: neatness/elegance/politeness
+
+nazdeek: near
+
+nisbat: elation/affinity/attribute/comparison
+
+naseem: Zephyr/gentle breeze
+
+nishaan: mark/sign/signal/emblem/target/scar/trace
+
+nishaanee: mark/sign/souvenir/keepsake
+
+nashaah: intoxication/pride/arrogance
+
+nasheen: sitting
+
+nusrat: victory
+
+naseeb: fortune/fate/destiny
+
+naseeHat: advice/counsel/admonition
+
+nazaarah: sight/view/vista
+
+nazaafat: purity/neatness
+
+nizaam: order/arrangement/custom/system
+
+nazar: look/glance/favor/motive/view/countenance
+
+nazm: poetry/verse
+
+nazm: order/arangement
+
+na'sh: coffin/corpse/bier
+
+ni'am: favors/benefits
+
+na'eem: pleasure/ease/tranquility
+
+naghmaah: melody/song/musical note
+
+nafrat: aversion/disgust/fright/terror
+
+nafs: soul/spirit/essence
+
+naqsh: painting/picture/map/mark
+
+naqshah: portrait/model/design/example
+
+nuqsaan: loss
+
+naql: narration/tale/mimicing/copying/aping
+
+naqli: artificial/spurious/counterfiet
+
+nikaah: matrimony
+
+nakbat: calamity/misfortune
+
+nuktah: subtlety conceit/point of wit/epigram
+
+nuktah been: hypercritical
+
+nuktah cheen: captious
+
+nuktah daan: sagacious
+
+nigaar: painting/picture/sweetheart/beloved
+
+nigaah: look/glance/sight/custody/care
+
+nigaah baan: protector/guard
+
+nam: moisture/wetness/dampness
+
+nam: moist/wet/damp
+
+namaaz: prayer
+
+numaa'ish: show/display/sight/spectacle
+
+namoonah: example/sample/specimen
+
+nau: new/fresh/raw
+
+nau bahaar: early spring
+
+nau jawaani: youth/prime of life
+
+nau nihaal: sapling/young man
+
+nawaazish: kindness/favor/patronage
+
+naubat: turn/time
+
+noor: ight
+
+nihaal: apling
+
+nihaan.: atent/hidden/secret/
+
+niyaaz: desire/plea/poverty/need
+
+niyyat: intention/purpose/will/aim
+
+nek: good/lucky/virtuous/pious
+
+neelaam: auction
+nim: middle/half
+
+niyoosh: listening/hearing
+
+o: and
+
+waa: open
+
+waa: again/back
+
+waa: with
+
+waa bastah: bound together/attached
+
+waa pas: behind/back/returning again
+
+waa rastah: free/delivered/escaped/carefree
+
+waa sokht: aversion/disgust
+
+waasiq: strong/firm/confident/secure
+
+waajib: necessary/obligatory
+
+waajibaat: duties (plu. of waajib)
+
+waajid: possessor/creator
+
+waahid: unique/one/single/unit
+
+waar: blow/attack/stroke
+
+waar: like/resembling/possessing
+
+waar: day of the week/moment
+
+waaris: heir
+
+waarid: coming/arriving/happening
+
+waaridaat: events/occurences (plu. of waarid)
+
+waastah: account/sake/reason/means/motive
+
+waaste: for/for the sake of
+
+waazih: clear/evident/apparent
+
+waaqi': occuring/happening
+
+waaqi'i: really/actually/truly
+
+waaqi'i: true/real/proper
+
+waalid: father
+
+waalidah: mother
+
+waalah: distracted/mad with love
+
+waan: possessing/endowed with
+
+waahimah: imagination/fancy/whim
+
+wajaahat: dignity/respect/beauty
+
+wajd: ecstasy/rapture/excessive love
+
+wijdaan: ecstasy/rapture/intuition
+
+wujood: existence/essence/being
+
+waj-h: cause/reason/mode/manner/face/appearance
+
+wajeeh: handsome/respectable/good appearance
+
+waHshat: solitude/grief/fear/sadness/loneliness
+
+waHeed: singular/unique/alone
+
+widaad: friendship/love/affection
+
+widaa': farewell
+
+wadood: loving/friendly
+
+war: possessing/having
+
+warnah: and if not/otherwise
+
+wazn: weight/measure/metre/rhyme/esteem/honor
+
+waseem: handsome/fine countenance
+
+wash: like/resembling
+
+wasf: praise/merit/virtue
+
+wusool: collection/acquisition
+
+wasiyyat: testament/last will/legacy/bequest
+
+wazaahat: vivid description
+
+waza': state/position/situation
+
+watan: native country
+
+wa'dah: promise/agreement
+
+waghairah: et cetera/and so forth
+
+wafaa: fulfilling a promise/fulfilment/fidelity
+
+wafaa begaanah: faithless
+
+wafaa daar: faithful/sincere
+
+wafaat: death
+
+waqt: time/term/season/hour/opportunity
+
+waqf: religious bequest
+
+wakaalat: advocacy/attorneyship
+
+wakeel: lawyer/attorney
+
+wilaayat: a foreign country/abroad/realm/union with God
+
+walee: lord/prince/master/friend/guardian
+
+wahm: imagination/idea/fancy/opinion/fear/suspicion
+
+wairaagi: ascetic/recluse
+
+weeraan: desolate/ruined
+
+weeraanah: a ruined place
+
+weeraani: desolation/destruction/ruin
+
+haatif: angel/voice from heaven
+
+haath: hand/arm/clutches/power/slap/reach
+
+haadi: guide/leader/director
+
+haar: necklace/garland
+
+haar: loss/defeat/fatigue
+
+haalah: halo/nimbus/circle round the moon
+
+haamoon: desert/plain/level ground
+
+haawiyah: the lowest region of hell
+
+haa'ilah: terrible/horrible
+
+huboot: decline/downfall/descent
+
+hibah: gift/bequest/grant
+
+hatauRa: sledgehammer
+
+hatauRee: small hammer
+
+hathyaar: tool/weapon
+
+hathelee: palm of the hand
+
+hijr: separation/absence from one's country
+
+hijrat: separation/flight (flight of the Prophet from Mecca to Medina)
+
+hujoom: crowd/mob/tumult/assault/attack
+
+hidaayat: instruction/guidance/righteousness
+
+hadaf: target/goal/object
+
+hazaa: this
+
+har: all/every/each
+
+har ek: every one
+
+har baar: every time
+
+har jaa'ee: vagabond/faithless
+
+har dam: every moment
+
+hiraas: fear/terror/confusion/sorrow/disappointment
+
+harj: tumult/sedition/trouble/loss/harm/injury
+
+harzah: nonsense/absurd/frivolous/vain
+
+hargiz: ever/never
+
+haryaalee: greeness/freshness/grass
+
+hazl: joke/jest/pleasantries
+
+hasti: life/existence
+
+hushyaar: intelligent/alert/awake
+
+haftah: a week
+
+hakaazah: similarly
+
+halaak: ruined/destroyed
+
+halaak: ruin/destruction/slaughter/death
+
+hilaal: new moon/the crescent
+
+ham: also/likewise/together/with/similar
+
+ham bazm: of the same society
+
+ham batn: related by blood
+
+ham batn: blood-relation/close ally
+
+ham taa: equal/alike
+
+ham jalees: close friend
+
+ham jolee: playmate/equal/peer/friend
+
+ham dard: sympathizer/partner in adversity
+
+ham raaz: confidant
+
+ham raah: fellow-traveller
+
+ham zabaan.: unanimous/of the same language
+
+ham saaz: friendly/unanimous
+
+ham saayah: neighbor
+
+ham safar: fellow-traveller
+
+ham mazhab: coreligionist
+
+ham nasheen: playmate/associate
+
+humaa: eagle/phoenix/bird of Paradise
+
+humaayun: august/royal/fortunate
+
+himmat: spirit/mind/courage/desire/design
+
+hameshaah: always
+
+han.gaam: season/time/period
+
+han.gaamah: tumult/riot/uproar/confusion/disorder
+
+hawaa: wind/breeze/air/atmosphere
+
+hawas: ambition/desire/lust
+
+hosh: sense/mind/understanding
+
+haul: terror/horror/fright
+
+hunar: skill/art
+
+heeraa: diamond
+
+hai'at: astronomy/face/figure;commission/delegation
+
+yaa: O!
+
+yaa: either/or
+
+yaad: remembrance/memory/recollection
+
+yaad daasht: a note/memorandum/memory
+
+yaad gaar: emorial/souvenir/keepsake
+
+yaar: friend/lover/companion
+
+yaaraa: strength/courage/power
+
+yaaraanah: friendship
+
+yaaraanah: friendly
+
+yaari: friendship/assistance/love/intrigue
+
+yaas: despair/fear/terror
+
+yaaghi: rebel/enemy
+
+yaaqoot: ruby/garnet
+
+yaawar: aiding/friendly
+
+yaawar: assistant/companion/friend
+
+yaawari: favor/assistance/friendship
+
+yaawah: absurd/vain/futile/lost/ruined
+
+yataamaa: orphans (plu. of yateem)
+
+yateem: orphan
+
+yad: hand/power/authority/protection/succor
+
+yazdaan: God
+
+yasaar: left/left hand; affluence/opulence
+
+ya'ni: namely/that is to say
+
+yaqin: certainity/assurance/truth/confidence/trust
+
+yaqinan: certainly/verily/assuredly/indeed
+
+yak: one/a/an
+
+yak jaan: one soul
+
+yak dil: unanimous
+
+yak rukhee: one-sided
+
+yak zabaan: uniform opinion or speech
+
+yak sar: all at once
+
+yak soo: on one side/aside
+
+yak lakht: all at once/suddenly
+
+yaktaa: single/unique/matchless/incomparable
+
+yagaanah: kinsman/kindred
+
+yagaanah: unique/single/sole/agreed/unequalled
+
+yumn: felicity/prosperity/good luck
+
+yamin: right hand; oath
+
+yoorish: assault/storm/invasion
+
+yaum: a day
