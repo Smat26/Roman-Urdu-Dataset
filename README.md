@@ -1,6 +1,5 @@
-# Roman-Urdu-Dataset
+# Roman Urdu Dataset
 >This is an extensive compilation of Roman Urdu Dataset (Urdu written in Latin/Roman Script), along with other helpful Roman Urdu NLP resources.
----
 
 ## Motivation
 One of the biggest hurdle when working with NLP in Urdu is the lack of comprehensive dataset in the domain unlike other languages. The above resources are therefore a culmination of that effort.
