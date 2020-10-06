@@ -4804,13 +4804,13 @@ torm:azab:xx
 torm:azaab:xx
 sins:gunnaho:xx
 perilious:jaan lewa:xx
-a:kaffan:xx
-a:kahil:xx
+shroud:kaffan:کفن:NN
+Lazy:kahil:کاہل:xx
 a:kameno:xx
 a:stupid:xx
-a:tohmat:xx
-a:jhuti:xx
-a:taklif:xx
+Slander:tohmat:تہمت:xx
+Liar:jhuti:جھوٹی:Isam
+Trouble:taklif:تکلیف:Noun
 a:jali:xx
 a:jalny:xx
 a:farigh:xx
